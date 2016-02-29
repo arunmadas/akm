@@ -1,0 +1,7 @@
+%bg { background: #373737 url('../images/profile/bg.png') 0 0 repeat; }
+
+body {
+  font: 14px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #404040;
+  @extend %bg;
+}
