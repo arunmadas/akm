@@ -48,7 +48,9 @@
     <![endif]-->
   </head>
 <body>
-	<h1>Spring MVC Hello World Annotation Example</h1>
-	<h2>${msg}</h2>
+	 <form method="post" action="index.html">
+        <p><input type="text" name="login" value="" placeholder="Security Key"></p>
+        <p class="submit"><input type="submit" name="commit" value="Enter"></p>
+      </form>
 </body>
 </html>

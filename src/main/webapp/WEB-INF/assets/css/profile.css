@@ -1,11 +1,11 @@
 
 h1
 {
-	background-color: rgba(black, .05);
+	background-color: 
 }
 
 body {
-  font: 13px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
-  color: #404040;
-  background: #303335;
+  font: 10px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
+  color: white;
+  background-color: rgba(black, .05);
 }
