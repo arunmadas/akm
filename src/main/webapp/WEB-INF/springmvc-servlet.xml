@@ -26,7 +26,7 @@
 	  <property name="suffix" value=".jsp" />
 	</bean>  
 	
-	<mvc:resources mapping="/assets/**" location="/resources/assets/" />
+	<mvc:resources mapping="/assets/**" location="/WEB-INF/assets/" />
 	<mvc:annotation-driven/>
 <!-- 	<bean name="profileInterceptor" class="com.arunkumarmadas.profile.interceptors.ProfileMVCInterceptor" /> -->
 	
