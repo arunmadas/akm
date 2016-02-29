@@ -6,6 +6,6 @@ h1
 
 body {
   font: 10px/20px 'Lucida Grande', Tahoma, Verdana, sans-serif;
-  color: white;
-  background-color: rgba(black, .05);
+  color: #404040;
+  background: #303335;  
 }
