@@ -12,7 +12,7 @@
     <title>Arun Kumar Madas</title>
     <spring:url value="/assets/css/profile.css" var="mainCss" />
 	<link rel="stylesheet" type="text/css" href="${mainCss}"/>  
-	
+	<link href="<c:url value="/assets/css/profile.css" />" rel="stylesheet" />
 <!--     Favicon -->
 <%--     <link rel="shortcut icon" type="image/icon" href="${pageContext.request.contextPath}/assets/images/favicon.ico"/> --%>
 <!--     Font Awesome -->
