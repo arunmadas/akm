@@ -1,4 +1,4 @@
-%bg { background: #373737 url('../images/profile/bg.png') 0 0 repeat; }
+%bg { background: #373737 url('<c:url value="/assets/images/profile/bg.png" />') 0 0 repeat; }
 
 body {
   font: 10px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
