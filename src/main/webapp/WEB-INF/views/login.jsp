@@ -11,22 +11,22 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Arun Kumar Madas</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
+    <link rel="shortcut icon" type="image/icon" href="${pageContext.request.contextPath}/assets/images/favicon.ico"/>
     <!-- Font Awesome -->
-    <link href="../assets/css/font-awesome.css" rel="stylesheet">
+    <link href="${pageContext.request.contextPath}/assets/css/font-awesome.css" rel="stylesheet">
     <!-- Bootstrap -->
-    <link href="../assets/css/bootstrap.css" rel="stylesheet">    
+    <link href="${pageContext.request.contextPath}/assets/css/bootstrap.css" rel="stylesheet">    
     <!-- Slick slider -->
-    <link rel="stylesheet" type="text/css" href="../assets/css/slick.css"/> 
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/slick.css"/> 
     <!-- Fancybox slider -->
-    <link rel="stylesheet" href="../assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
     <!-- Animate css -->
-    <link rel="stylesheet" type="text/css" href="../assets/css/animate.css"/> 
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/animate.css"/> 
     <!-- Progress bar  -->
-    <link rel="stylesheet" type="text/css" href="../assets/css/bootstrap-progressbar-3.3.4.css"/> 
-    <link rel="stylesheet" type="text/css" href="../assets/css/profile.css"/> 
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/bootstrap-progressbar-3.3.4.css"/> 
+    <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/profile.css"/> 
      <!-- Theme color -->
-    <link id="switcher" href="../assets/css/theme-color/default-theme.css" rel="stylesheet">
+    <link id="switcher" href="${pageContext.request.contextPath}/assets/css/theme-color/default-theme.css" rel="stylesheet">
 
     <!-- Main Style -->
     <link href="style.css" rel="stylesheet">
