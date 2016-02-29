@@ -11,7 +11,7 @@ import com.arunkumarmadas.profile.Utils.URLMap;
 @Controller
 public class LoginController {
 
-	@RequestMapping(value=URLMap.LOGIN_PATH, method=RequestMethod.GET)
+	@RequestMapping(value="/", method=RequestMethod.GET)
 	public String login(Model model)
 	{
 		model.addAttribute("hello world");
