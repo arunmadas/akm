@@ -24,10 +24,9 @@ public class LoginController {
 		if(requestCountry == null || !requestCountry.equalsIgnoreCase("US"))
 		{
 			model.addAttribute("errorCode", "CountryAccessError");
-			Login login = new Login();
-			model.addAttribute(login);
 		}
-		
+		Login login = new Login();
+		model.addAttribute(login);		
 		return URLMap.LOGIN_PATH;
 	}
 	
