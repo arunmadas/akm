@@ -1,3 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" %>
+<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
+<%@ taglib prefix="springform" uri="http://www.springframework.org/tags/form" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,25 +10,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Arun Kumar Madas</title>
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
-    <!-- Font Awesome -->
-    <link href="assets/css/font-awesome.css" rel="stylesheet">
-    <!-- Bootstrap -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">    
-    <!-- Slick slider -->
-    <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/> 
-    <!-- Fancybox slider -->
-    <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
-    <!-- Animate css -->
-    <link rel="stylesheet" type="text/css" href="assets/css/animate.css"/> 
-    <!-- Progress bar  -->
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-progressbar-3.3.4.css"/> 
-     <!-- Theme color -->
-    <link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
+	<link href="<c:url value="/assets/css/profile.css" />" rel="stylesheet" />
+<!--     Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="<c:url value="/assets/images/favicon.ico" />"/>
+<!--     Font Awesome -->
+    <link value="<c:url value="/assets/css/font-awesome.css" />" rel="stylesheet">
+<!--     Bootstrap -->
+    <link href="<c:url value="/assets/css/bootstrap.css" />" rel="stylesheet">    
+<!--     Slick slider -->
+    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/slick.css" />"/> 
+<!--     Fancybox slider -->
+    <link rel="stylesheet" href="<c:url value="/assets/css/jquery.fancybox.css" />" type="text/css" media="screen" /> 
+<!--     Animate css -->
+    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/animate.css" />"/> 
+<!--     Progress bar  -->
+    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/bootstrap-progressbar-3.3.4.css" />"/> 
+<!--      Theme color -->
+    <link id="switcher" href="<c:url value="/assets/css/theme-color/default-theme.css" />" rel="stylesheet">
 
-    <!-- Main Style -->
-    <link href="style.css" rel="stylesheet">
+<!--     Main Style -->
+    <link href="<c:url value="/assets/css/style.css" />" rel="stylesheet">
 
     <!-- Fonts -->
 

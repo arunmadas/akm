@@ -10,28 +10,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Arun Kumar Madas</title>
-	<link rel="stylesheet" type="text/css" href="${mainCss}"/>  
 	<link href="<c:url value="/assets/css/profile.css" />" rel="stylesheet" />
 <!--     Favicon -->
-<%--     <link rel="shortcut icon" type="image/icon" href="${pageContext.request.contextPath}/assets/images/favicon.ico"/> --%>
+    <link rel="shortcut icon" type="image/icon" href="<c:url value="/assets/images/favicon.ico" />"/>
 <!--     Font Awesome -->
-<!--     <link value="/assets/css/font-awesome.css" rel="stylesheet"> -->
+    <link value="<c:url value="/assets/css/font-awesome.css" />" rel="stylesheet">
 <!--     Bootstrap -->
-<%--     <link href="${pageContext.request.contextPath}/assets/css/bootstrap.css" rel="stylesheet">     --%>
+    <link href="<c:url value="/assets/css/bootstrap.css" />" rel="stylesheet">    
 <!--     Slick slider -->
-<%--     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/slick.css"/>  --%>
+    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/slick.css" />"/> 
 <!--     Fancybox slider -->
-<%--     <link rel="stylesheet" href="${pageContext.request.contextPath}/assets/css/jquery.fancybox.css" type="text/css" media="screen" />  --%>
+    <link rel="stylesheet" href="<c:url value="/assets/css/jquery.fancybox.css" />" type="text/css" media="screen" /> 
 <!--     Animate css -->
-<%--     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/animate.css"/>  --%>
+    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/animate.css" />"/> 
 <!--     Progress bar  -->
-<%--     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/bootstrap-progressbar-3.3.4.css"/>  --%>
-<%--     <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/assets/css/profile.css"/>  --%>
+    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/bootstrap-progressbar-3.3.4.css" />"/> 
 <!--      Theme color -->
-<%--     <link id="switcher" href="${pageContext.request.contextPath}/assets/css/theme-color/default-theme.css" rel="stylesheet"> --%>
+    <link id="switcher" href="<c:url value="/assets/css/theme-color/default-theme.css" />" rel="stylesheet">
 
 <!--     Main Style -->
-<!--     <link href="style.css" rel="stylesheet"> -->
+    <link href="<c:url value="/assets/css/style.css" />" rel="stylesheet">
 
     <!-- Fonts -->
 
@@ -51,14 +49,14 @@
 <section class="container">
     <div class="login">
       <h1>Arun Kumar Madas - Portal Entry</h1>
-	 	<form method="post" action="index.html">
+	 	<form:form method="post" action="/auth" commandName="login">
 	 		<c:choose>
 		 		<c:when test="${errorCode eq 'CountryAccessError'}">
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a></p>
 		 		</c:when>
 		 		<c:otherwise>
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a>.</p>
-		        	<p><input type="text" name="login" value="" placeholder="Security Key"></p>
+		        	<p><form:input path="authKey" placeholder="Security Key"></p>
 		        	<p class="submit"><input type="submit" name="commit" value="Enter"></p>
 		        </c:otherwise>
 	        </c:choose>
