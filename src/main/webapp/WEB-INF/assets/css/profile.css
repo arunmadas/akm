@@ -20,8 +20,11 @@ body {
  */
 
 .container {
-padding-top: 45%;
-  margin: 80px auto;
+  position : absolute;
+  top : 50%;
+  left : 50%;
+  margin-top: -200px;
+  margin-left : -300px;
   width: 640px;
 }
 
