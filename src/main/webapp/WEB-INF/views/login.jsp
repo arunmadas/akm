@@ -56,7 +56,7 @@
 		 		</c:when>
 		 		<c:otherwise>
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a>.</p>
-		        	<p><form:input path="authKey" placeholder="Security Key"></p>
+		        	<p><form:input path="authKey" /></p>
 		        	<p class="submit"><input type="submit" name="commit" value="Enter"></p>
 		        </c:otherwise>
 	        </c:choose>
