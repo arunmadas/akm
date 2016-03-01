@@ -57,6 +57,7 @@
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a></p>
 		 		</c:when>
 		 		<c:otherwise>
+		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a>.</p>
 		        	<p><input type="text" name="login" value="" placeholder="Security Key"></p>
 		        	<p class="submit"><input type="submit" name="commit" value="Enter"></p>
 		        </c:otherwise>
