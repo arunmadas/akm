@@ -52,8 +52,15 @@
     <div class="login">
       <h1>Arun Kumar Madas - Portal Entry</h1>
 	 	<form method="post" action="index.html">
-        	<p><input type="text" name="login" value="" placeholder="Security Key"></p>
-        	<p class="submit"><input type="submit" name="commit" value="Enter"></p>
+	 		<c:choose>
+		 		<c:when test="${errorCode eq 'CountryAccessError'}">
+		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a></p>
+		 		</c:when>
+		 		<c:otherwise>
+		        	<p><input type="text" name="login" value="" placeholder="Security Key"></p>
+		        	<p class="submit"><input type="submit" name="commit" value="Enter"></p>
+		        </c:otherwise>
+	        </c:choose>
       	</form>
      </div>
  </section>
