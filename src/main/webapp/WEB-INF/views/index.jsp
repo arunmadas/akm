@@ -10,7 +10,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Arun Kumar Madas</title>
-	<link href="<c:url value="/assets/css/profile.css" />" rel="stylesheet" />
 <!--     Favicon -->
     <link rel="shortcut icon" type="image/icon" href="<c:url value="/assets/images/favicon.ico" />"/>
 <!--     Font Awesome -->
