@@ -60,7 +60,7 @@
 		        	<p class="submit"><input type="submit" name="commit" value="Enter"></p>
 		        </c:otherwise>
 	        </c:choose>
-      	</form>
+      	</form:form>
      </div>
  </section>
 </body>
