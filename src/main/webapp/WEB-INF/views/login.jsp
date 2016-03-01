@@ -46,7 +46,7 @@
     <![endif]-->
   </head>
 <body>
-<section class="container">
+<section class="mycontainer">
     <div class="login">
       <h1>Arun Kumar Madas - Portal Entry</h1>
 	 	<form:form method="post" action="/auth" commandName="login">
