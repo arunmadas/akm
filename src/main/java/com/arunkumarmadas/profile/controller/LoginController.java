@@ -16,7 +16,7 @@ import com.arunkumarmadas.profile.model.Login;
 @SessionAttributes("login")
 public class LoginController {
 
-	@RequestMapping(value="/", method=RequestMethod.GET)
+	@RequestMapping(value="/login.ru", method=RequestMethod.GET)
 	public String login(Model model, HttpServletRequest request)
 	{
 		String requestCountry = request.getLocale().getCountry();
@@ -30,7 +30,7 @@ public class LoginController {
 		return URLMap.LOGIN_PATH;
 	}
 	
-	@RequestMapping(value="/auth", method=RequestMethod.POST)
+	@RequestMapping(value="/auth.ru", method=RequestMethod.POST)
 	public String loginAuth(@ModelAttribute("login") Login login, HttpServletRequest request)
 	{
 		if(login.getAuthKey() != null && login.getAuthKey().equalsIgnoreCase("arun"))
