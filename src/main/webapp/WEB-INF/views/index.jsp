@@ -1040,10 +1040,10 @@
   <!-- Add fancyBox -->        
   <script type="text/javascript" src="<c:url value="/assets/js/jquery.fancybox.pack.js"/>"></script>
  <!-- counter -->
-  <script src="<c:url value="/assets/js/waypoints.js/">"></script>
+  <script src="<c:url value="/assets/js/waypoints.js"/>"></script>
   <script src="<c:url value="/assets/js/jquery.counterup.js"/>"></script>
   <!-- Wow animation -->
-  <script type="text/javascript" src='<c:url value="/assets/js/wow.js"/>'/> 
+  <script type="text/javascript" src="<c:url value="/assets/js/wow.js"/>"></script> 
   <!-- progress bar   -->
   <script type="text/javascript" src="<c:url value="/assets/js/bootstrap-progressbar.js"/>"></script>  
   
