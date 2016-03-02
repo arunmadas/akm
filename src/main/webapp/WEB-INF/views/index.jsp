@@ -1,7 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1" %>
-<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
-<%@ taglib prefix="springform" uri="http://www.springframework.org/tags/form" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -9,26 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Arun Kumar Madas</title>
-<!--     Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="<c:url value="/assets/images/favicon.ico" />"/>
-<!--     Font Awesome -->
-    <link value="<c:url value="/assets/css/font-awesome.css" />" rel="stylesheet">
-<!--     Bootstrap -->
-    <link href="<c:url value="/assets/css/bootstrap.css" />" rel="stylesheet">    
-<!--     Slick slider -->
-    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/slick.css" />"/> 
-<!--     Fancybox slider -->
-    <link rel="stylesheet" href="<c:url value="/assets/css/jquery.fancybox.css" />" type="text/css" media="screen" /> 
-<!--     Animate css -->
-    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/animate.css" />"/> 
-<!--     Progress bar  -->
-    <link rel="stylesheet" type="text/css" href="<c:url value="/assets/css/bootstrap-progressbar-3.3.4.css" />"/> 
-<!--      Theme color -->
-    <link id="switcher" href="<c:url value="/assets/css/theme-color/default-theme.css" />" rel="stylesheet">
+    <title>Intensely : Home</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
+    <!-- Font Awesome -->
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">    
+    <!-- Slick slider -->
+    <link rel="stylesheet" type="text/css" href="assets/css/slick.css"/> 
+    <!-- Fancybox slider -->
+    <link rel="stylesheet" href="assets/css/jquery.fancybox.css" type="text/css" media="screen" /> 
+    <!-- Animate css -->
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css"/> 
+    <!-- Progress bar  -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap-progressbar-3.3.4.css"/> 
+     <!-- Theme color -->
+    <link id="switcher" href="assets/css/theme-color/default-theme.css" rel="stylesheet">
 
-<!--     Main Style -->
-    <link href="<c:url value="/assets/css/style.css" />" rel="stylesheet">
+    <!-- Main Style -->
+    <link href="style.css" rel="stylesheet">
 
     <!-- Fonts -->
 
@@ -182,7 +178,7 @@
           <!-- TEXT BASED LOGO -->
           <a class="navbar-brand" href="index.html">Intensely</a>              
           <!-- IMG BASED LOGO  -->
-           <!-- <a class="navbar-brand" href="index.html"><img src="../assets/images/logo.png" alt="logo"></a> -->
+           <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="logo"></a> -->
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
@@ -216,7 +212,7 @@
   <section id="slider">
     <div class="main-slider">
       <div class="single-slide">
-        <img src="../assets/images/slider-1.jpg" alt="img">
+        <img src="assets/images/slider-1.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
@@ -229,7 +225,7 @@
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="../assets/images/person1.png" alt="business man">
+                  <img src="assets/images/person1.png" alt="business man">
                 </div>
               </div>
             </div>
@@ -237,7 +233,7 @@
         </div>
       </div>
       <div class="single-slide">
-        <img src="../assets/images/slider-3.jpg" alt="img">
+        <img src="assets/images/slider-3.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
@@ -250,7 +246,7 @@
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="../assets/images/person2.png" alt="business man">
+                  <img src="assets/images/person2.png" alt="business man">
                 </div>
               </div>
             </div>
@@ -391,7 +387,7 @@
                       </div>
                       <div id="collapseOne" class="panel-collapse collapse in">
                         <div class="panel-body">
-                        <img class="why-choose-img" src="../assets/images/testi1.jpg" alt="img">
+                        <img class="why-choose-img" src="assets/images/testi1.jpg" alt="img">
                          <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
                         </div>
                       </div>
@@ -725,7 +721,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="../assets/images/team-member-2.png" alt="team member img">
+                   <img src="assets/images/team-member-2.png" alt="team member img">
                  </div>
                  <div class="team-member-name">
                    <p>John Doe</p>
@@ -744,7 +740,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="../assets/images/team-member-1.png" alt="team member img">
+                   <img src="assets/images/team-member-1.png" alt="team member img">
                  </div>
                  <div class="team-member-name">
                    <p>Bernice Neumann</p>
@@ -763,7 +759,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="../assets/images/team-member-3.png" alt="team member img">
+                   <img src="assets/images/team-member-3.png" alt="team member img">
                  </div>
                  <div class="team-member-name">
                    <p>Dvid Cameron</p>
@@ -782,7 +778,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="../assets/images/team-member-1.png" alt="team member img">
+                   <img src="assets/images/team-member-1.png" alt="team member img">
                  </div>
                  <div class="team-member-name">
                    <p>Bernice Neumann</p>
@@ -823,7 +819,7 @@
                 <!-- Start single slider -->
                 <div class="single-slider">
                   <div class="testimonial-img">
-                    <img src="../assets/images/testi1.jpg" alt="testimonial image">
+                    <img src="assets/images/testi1.jpg" alt="testimonial image">
                   </div>
                   <div class="testimonial-content">
                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
@@ -833,7 +829,7 @@
                 <!-- Start single slider -->
                 <div class="single-slider">
                   <div class="testimonial-img">
-                    <img src="../assets/images/testi3.jpg" alt="testimonial image">
+                    <img src="assets/images/testi3.jpg" alt="testimonial image">
                   </div>
                   <div class="testimonial-content">
                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
@@ -843,7 +839,7 @@
                 <!-- Start single slider -->
                 <div class="single-slider">
                   <div class="testimonial-img">
-                    <img src="../assets/images/testi2.jpg" alt="testimonial image">
+                    <img src="assets/images/testi2.jpg" alt="testimonial image">
                   </div>
                   <div class="testimonial-content">
                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
@@ -869,42 +865,42 @@
             <ul class="clients-brand-slide">
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/amazon.png" alt="img">
+                  <img src="assets/images/amazon.png" alt="img">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/discovery.png" alt="img">
+                  <img src="assets/images/discovery.png" alt="img">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/envato.png" alt="img">
+                  <img src="assets/images/envato.png" alt="img">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/tuenti.png" alt="img">
+                  <img src="assets/images/tuenti.png" alt="img">
                 </div>
               </li>
                <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/amazon.png" alt="img">
+                  <img src="assets/images/amazon.png" alt="img">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/discovery.png" alt="img">
+                  <img src="assets/images/discovery.png" alt="img">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/envato.png" alt="img">
+                  <img src="assets/images/envato.png" alt="img">
                 </div>
               </li>
               <li class="col-md-3">
                 <div class="single-brand">
-                  <img src="../assets/images/tuenti.png" alt="img">
+                  <img src="assets/images/tuenti.png" alt="img">
                 </div>
               </li>
             </ul>
@@ -933,7 +929,7 @@
               <div class="col-md-4">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><img src="../assets/images/blog-img-1.jpg" alt="image"></a>
+                    <a href="blog-single-with-right-sidebar.html"><img src="assets/images/blog-img-1.jpg" alt="image"></a>
                   </div>
                   <div class="blog-news-title">
                     <h2><a href="blog-single-with-right-sidebar.html">All about writing story</a></h2>
@@ -949,7 +945,7 @@
               <div class="col-md-4">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><img src="../assets/images/blog-img-2.jpg" alt="image"></a>
+                    <a href="blog-single-with-right-sidebar.html"><img src="assets/images/blog-img-2.jpg" alt="image"></a>
                   </div>
                   <div class="blog-news-title">
                     <h2><a href="blog-single-with-right-sidebar.html">Best Mobile Device</a></h2>
@@ -965,7 +961,7 @@
               <div class="col-md-4">
                 <article class="blog-news-single">
                   <div class="blog-news-img">
-                    <a href="blog-single-with-right-sidebar.html"><img src="../assets/images/blog-img-3.jpg" alt="image"></a>
+                    <a href="blog-single-with-right-sidebar.html"><img src="assets/images/blog-img-3.jpg" alt="image"></a>
                   </div>
                   <div class="blog-news-title">
                     <h2><a href="blog-single-with-right-sidebar.html">Personal Note Details</a></h2>
@@ -1032,24 +1028,24 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>    
   <!-- Include all compiled plugins (below), or include individual files as needed -->
   <!-- Bootstrap -->
-  <script src="<c:url value="/assets/js/bootstrap.js" />"></script>
+  <script src="assets/js/bootstrap.js"></script>
   <!-- Slick Slider -->
-  <script type="text/javascript" src="<c:url value="/assets/js/slick.js"/>"></script>    
+  <script type="text/javascript" src="assets/js/slick.js"></script>    
   <!-- mixit slider -->
-  <script type="text/javascript" src="<c:url value="/assets/js/jquery.mixitup.js"/>"></script>
+  <script type="text/javascript" src="assets/js/jquery.mixitup.js"></script>
   <!-- Add fancyBox -->        
-  <script type="text/javascript" src="<c:url value="/assets/js/jquery.fancybox.pack.js"/>"></script>
+  <script type="text/javascript" src="assets/js/jquery.fancybox.pack.js"></script>
  <!-- counter -->
-  <script src="<c:url value="/assets/js/waypoints.js"/>"></script>
-  <script src="<c:url value="/assets/js/jquery.counterup.js"/>"></script>
+  <script src="assets/js/waypoints.js"></script>
+  <script src="assets/js/jquery.counterup.js"></script>
   <!-- Wow animation -->
-  <script type="text/javascript" src="<c:url value="/assets/js/wow.js"/>"></script> 
+  <script type="text/javascript" src="assets/js/wow.js"></script> 
   <!-- progress bar   -->
-  <script type="text/javascript" src="<c:url value="/assets/js/bootstrap-progressbar.js"/>"></script>  
+  <script type="text/javascript" src="assets/js/bootstrap-progressbar.js"></script>  
   
  
   <!-- Custom js -->
-  <script type="text/javascript" src="<c:url value="/assets/js/custom.js"/>"></script>
+  <script type="text/javascript" src="assets/js/custom.js"></script>
   
   </body>
 </html>
