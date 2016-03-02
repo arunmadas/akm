@@ -106,7 +106,7 @@
       <!-- Start login section -->
       <div id="login-content" class="modal-content">
         <div class="modal-header">
-          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">Ã—</span></button>
+          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
           <h4 class="modal-title"><i class="fa fa-unlock-alt"></i>Login</h4>
         </div>
         <div class="modal-body">
@@ -131,7 +131,7 @@
       <!-- Start signup section -->
       <div id="signup-content" class="modal-content">
         <div class="modal-header">
-          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">Ã—</span></button>
+          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
           <h4 class="modal-title"><i class="fa fa-lock"></i>Sign Up</h4>
         </div>
         <div class="modal-body">
