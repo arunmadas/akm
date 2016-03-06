@@ -12,7 +12,7 @@
     <title>Arun Kumar Madas</title>
 <!--     Favicon -->
 <%--     <link rel="shortcut icon" type="image/icon" href="<c:url value="/assets/images/favicon.ico" />"/> --%>
-<link href="assets/css/profile.css" rel="stylesheet" />
+<link href="<c:url value="assets/css/profile.css" />" rel="stylesheet" />
  
   </head>
 <body>
