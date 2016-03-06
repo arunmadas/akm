@@ -18,12 +18,17 @@ body {
 }
 
 .mycontainer {
-  width : 320px;  
+  width : 470px;  
   border-radius: 15px 50px;
   background: #73AD21;
   padding: 20px; 
   width: 200px;
   position: absolute;
-  left: 200px;
+  left: 30%;
   top: 30%;  
+}
+
+p.submit {
+	align:right;
+	width: 100%;
 }
