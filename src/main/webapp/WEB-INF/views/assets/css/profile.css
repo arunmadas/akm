@@ -18,11 +18,10 @@ body {
 }
 
 .mycontainer {
-  width : 470px;  
+  width : 340px;  
   border-radius: 15px 50px;
   background: #73AD21;
   padding: 20px; 
-  width: 200px;
   position: absolute;
   left: 30%;
   top: 30%;  
