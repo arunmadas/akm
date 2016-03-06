@@ -16,3 +16,8 @@ body {
     
     margin-top: 70px;
 }
+
+.mycontainer {
+  width : 320px;
+  padding: 10px;	
+}
