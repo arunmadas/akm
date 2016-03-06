@@ -18,7 +18,7 @@
 <body>
 <section class="mycontainer">
     <div class="login">
-      <h1>Arun Kumar Madas - Portal Entry</h1>
+      <h3>Arun Kumar Madas - Portal Entry</h3>
 	 	<form:form method="post" action="/auth" commandName="login">
 	 		<c:choose>
 		 		<c:when test="${errorCode eq 'CountryAccessError'}">
