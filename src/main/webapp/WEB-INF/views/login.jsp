@@ -19,7 +19,7 @@
 <section class="mycontainer">
     <div class="login">
       <h1>Arun Kumar Madas - Portal Entry</h1>
-	 	<form:form method="post" action="/auth.ru" commandName="login">
+	 	<form:form method="post" action="/auth" commandName="login">
 	 		<c:choose>
 		 		<c:when test="${errorCode eq 'CountryAccessError'}">
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a></p>
