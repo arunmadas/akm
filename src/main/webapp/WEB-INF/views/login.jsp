@@ -28,7 +28,7 @@
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a>.</p>
 		 			<hr class="hrclass">
 		        	<p class="secKey">Security Key : <form:input path="authKey" /></p>
-		        	<p><input type="submit" name="commit" class="btnSubmit" value="Enter"></p>
+		        	<p style="align:center"><input type="submit" name="commit" class="btnSubmit" value="Enter"></p>
 		        </c:otherwise>
 	        </c:choose>
       	</form:form>
