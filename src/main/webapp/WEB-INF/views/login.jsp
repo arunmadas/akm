@@ -27,7 +27,7 @@
 		 		<c:otherwise>
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a>.</p>
 		        	<p>Security Key : <form:input path="authKey" /></p>
-		        	<p class="submit"><input type="submit" name="commit" value="Enter" class="btnSubmit"></p>
+		        	<p class="submit"><input type="submit" name="commit" class="btnSubmit"><span>Enter </span></input></p>
 		        </c:otherwise>
 	        </c:choose>
       	</form:form>
