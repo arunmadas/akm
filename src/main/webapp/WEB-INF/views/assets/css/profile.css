@@ -19,7 +19,7 @@ body {
 
 .mycontainer {
   width : 340px;  
-  height : 220px;
+  height : 205px;
   border-radius: 15px 50px;
   background: #73AD21;
   padding: 20px; 
@@ -47,7 +47,7 @@ body {
 }
 
 .secKey {
-	padding-top : 20px;
+	padding-top : 5px;
 	padding-left : 30px;
 }
 
