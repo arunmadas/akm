@@ -37,8 +37,7 @@ p.submit {
 }
 
 .btnSubmit {
-  float : right;
-  margin-right: 30px;
+   padding-left: 80px;
    background-color: #f4511e; 
    border: none;
    color: white;
@@ -54,4 +53,8 @@ p.submit {
 
 .secKey {
 	padding-left : 30px;
+}
+
+.hrclass {
+	border-top: 1px solid #f4511e;
 }
