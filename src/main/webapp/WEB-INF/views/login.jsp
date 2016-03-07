@@ -18,7 +18,7 @@
 <body>
 <section class="mycontainer">
     <div class="login">
-      <h3>Arun Kumar Madas - Portal Entry</h3>
+      <h3>Arun Kumar Madas - Portal Entry</h3>      
 	 	<form:form method="post" action="/auth" commandName="login">
 	 		<c:choose>
 		 		<c:when test="${errorCode eq 'CountryAccessError'}">
@@ -26,7 +26,8 @@
 		 		</c:when>
 		 		<c:otherwise>
 		 			<p>Thank you for visiting the portal. Please feel free to reach me on my email at - <a href="mailto:arun.com@gmail.com">arun.com@gmail.com</a>.</p>
-		        	<p>Security Key : <form:input path="authKey" /></p>
+		 			<hr />
+		        	<p class="secKey">Security Key : <form:input path="authKey" /></p>
 		        	<p><input type="submit" name="commit" class="btnSubmit" value="Enter"></p>
 		        </c:otherwise>
 	        </c:choose>
