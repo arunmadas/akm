@@ -36,3 +36,6 @@ p.submit {
 	width: 100%;
 }
 
+.btnSubmit {
+	float : right;
+}
