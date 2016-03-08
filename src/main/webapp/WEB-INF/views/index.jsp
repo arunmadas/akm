@@ -168,7 +168,7 @@
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/person1.png" alt="business man">
+                  <img src="assets/images/arunpic1.png" alt="business man">
                 </div>
               </div>
             </div>
@@ -189,7 +189,7 @@
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/person2.png" alt="business man">
+                  <img src="assets/images/arunpic2.png" alt="business man">
                 </div>
               </div>
             </div>
