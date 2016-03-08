@@ -45,6 +45,7 @@
     <![endif]-->
   </head>
   <body>
+  	 	<form:form method="post" action="/" commandName="login">
   
   <!-- BEGAIN PRELOADER -->
   <div id="preloader">
@@ -988,6 +989,6 @@
  
   <!-- Custom js -->
   <script type="text/javascript" src="<c:url value="assets/js/custom.js"/>"></script>
-  
+  </form:form>
   </body>
 </html>
