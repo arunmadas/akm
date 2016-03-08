@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Intensely : Home</title>
+    <title>Arun Kumar Madas</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/icon" href="assets/images/favicon.ico"/>
     <!-- Font Awesome -->
@@ -61,14 +61,14 @@
     <!-- header top search -->
     <div class="header-top">
       <div class="container">
-        <form action="">
-          <div id="search">
-          <input type="text" placeholder="Type your search keyword here and hit Enter..." name="s" id="m_search" style="display: inline-block;">
-          <button type="submit">
-            <i class="fa fa-search"></i>
-          </button>
-        </div>
-        </form>
+<%--         <form action=""> --%>
+<!--           <div id="search"> -->
+<!--           <input type="text" placeholder="Type your search keyword here and hit Enter..." name="s" id="m_search" style="display: inline-block;"> -->
+<!--           <button type="submit"> -->
+<!--             <i class="fa fa-search"></i> -->
+<!--           </button> -->
+<!--         </div> -->
+<%--         </form> --%>
       </div>
     </div>
     <!-- header bottom -->
@@ -81,13 +81,13 @@
                 <li>
                   <div class="phone">
                     <i class="fa fa-phone"></i>
-                    +1(800) 699-7071
+                    +1(214) 886-4890
                   </div>
                 </li>
                 <li>
                   <div class="mail">
                     <i class="fa fa-envelope"></i>
-                    iam@domain.com
+                    arun.com@gmail.com
                   </div>
                 </li>
               </ul>
@@ -95,7 +95,7 @@
           </div>
           <div class="col-md-6 col-sm-6 col-xs-6">
             <div class="header-login">
-              <a class="login modal-form" data-target="#login-form" data-toggle="modal" href="#">Login / Sign Up</a>
+              <a class="login modal-form" href="#">Logout</a> 
             </div>
           </div>
         </div>
@@ -103,68 +103,6 @@
     </div>
   </header>
   <!-- End header -->
-  
-  <!-- Start login modal window -->
-  <div aria-hidden="false" role="dialog" tabindex="-1" id="login-form" class="modal leread-modal fade in">
-    <div class="modal-dialog">
-      <!-- Start login section -->
-      <div id="login-content" class="modal-content">
-        <div class="modal-header">
-          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
-          <h4 class="modal-title"><i class="fa fa-unlock-alt"></i>Login</h4>
-        </div>
-        <div class="modal-body">
-          <form>
-            <div class="form-group">
-              <input type="text" placeholder="User name" class="form-control">
-            </div>
-            <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
-            </div>
-             <div class="loginbox">
-              <label><input type="checkbox"><span>Remember me</span></label>
-              <button class="btn signin-btn" type="button">SIGN IN</button>
-            </div>                    
-          </form>
-        </div>
-        <div class="modal-footer footer-box">
-          <a href="#">Forgot password ?</a>
-          <span>No account ? <a id="signup-btn" href="#">Sign Up.</a></span>            
-        </div>
-      </div>
-      <!-- Start signup section -->
-      <div id="signup-content" class="modal-content">
-        <div class="modal-header">
-          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true">×</span></button>
-          <h4 class="modal-title"><i class="fa fa-lock"></i>Sign Up</h4>
-        </div>
-        <div class="modal-body">
-          <form>
-            <div class="form-group">
-              <input placeholder="Name" class="form-control">
-            </div>
-            <div class="form-group">
-              <input placeholder="Username" class="form-control">
-            </div>
-            <div class="form-group">
-              <input placeholder="Email" class="form-control">
-            </div>
-            <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
-            </div>
-            <div class="signupbox">
-              <span>Already got account? <a id="login-btn" href="#">Sign In.</a></span>
-            </div>
-            <div class="loginbox">
-              <label><input type="checkbox"><span>Remember me</span><i class="fa"></i></label>
-              <button class="btn signin-btn" type="button">SIGN UP</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- End login modal window -->
 
   <!-- BEGIN MENU -->
   <section id="menu-area">      
@@ -180,7 +118,7 @@
           </button>
           <!-- LOGO -->              
           <!-- TEXT BASED LOGO -->
-          <a class="navbar-brand" href="index.html">Intensely</a>              
+          <a class="navbar-brand" href="index.html">Arun K Madas</a>              
           <!-- IMG BASED LOGO  -->
            <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="logo"></a> -->
         </div>
