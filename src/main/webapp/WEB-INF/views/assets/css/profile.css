@@ -19,7 +19,7 @@ body {
 
 .mycontainer {
   width : 340px;  
-  height : 215px;
+  height : 208px;
   border-radius: 15px 50px;
   background: #73AD21;
   padding: 20px; 
@@ -65,18 +65,30 @@ hr {
     padding: 0;
 }
 
- .inputText { 
-    -webkit-border-radius: 5px; 
-    -moz-border-radius: 5px; 
-    border-radius: 5px; 
-    border: 1px solid #848484; 
-    outline:0; 
-    height:18px; 
-    width: 140px; 
-    font-family: "Raleway";    
- } 
-
  a {
   text-decoration : none;
   color : blue;
  }
+ 
+  .inputText { 
+    border: 1px solid #c4c4c4; 
+    height: 18px; 
+    width: 140px; 
+    padding: 4px 4px 4px 4px; 
+    border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9; 
+        font-family: "Raleway";    
+} 
+ 
+.inputText:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+ 
