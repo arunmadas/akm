@@ -142,8 +142,15 @@
                 <li><a href="blog-single-with-right-sidebar.html">Data Science, Analytics and Machine Learning</a></li>
               </ul>
             </li>
-            <li><a href="contact.html">Leadership</a></li>
-            <li><a href="contact.html">Entrepreneur</a></li>
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Entrepreneur <span class="fa fa-angle-down"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="blog-archive.html">Startup</a></li>                
+                <li><a href="blog-single-with-left-sidebar.html">Leadership</a></li>
+                <li><a href="blog-single-with-right-sidebar.html">Principles</a></li>
+                <li><a href="blog-single-with-right-sidebar.html">Innovation</a></li>
+              </ul>
+            </li>
             <li><a href="contact.html">Contact</a></li>
           </ul>                     
         </div><!--/.nav-collapse -->
