@@ -208,7 +208,7 @@
         </div>
       </div> 
       <div class="single-slide">
-        <img src="assets/images/slider-3.jpg" alt="img">
+        <img src="assets/images/slider-1.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
@@ -216,6 +216,27 @@
                 <div class="slide-article">
                   <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Professionally Certified Expert</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Proven expert technical skills and Professional Certifications to ease you through complex day to day huddles</p>
+                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6">
+                <div class="slider-img wow fadeInUp">
+                  <img src="assets/images/arunpic2.png" alt="arun madas">
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="single-slide">
+        <img src="assets/images/slider-2.jpg" alt="img">
+        <div class="slide-content">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6 col-sm-6">
+                <div class="slide-article">
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Leader & Entrepreneur</h1>
+                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Building from idea conception to implementation, hire, pitch, fund, lead all the way to walk you into success</p>
                   <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
                 </div>
               </div>
