@@ -17,7 +17,6 @@
   </head>
 <body>
 <section class="mycontainer">
-    <div class="login">
       <h3>Arun Kumar Madas - Portal Entry</h3>      
 	 	<form:form method="post" action="/auth" commandName="login">
 	 		<c:choose>
@@ -32,7 +31,6 @@
 		        </c:otherwise>
 	        </c:choose>
       	</form:form>
-     </div>
  </section>
 </body>
 </html>
