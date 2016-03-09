@@ -127,7 +127,7 @@
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
             <li><a href="feature.html">Overview</a></li>
              <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio<span class="fa fa-angle-down"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="blog-archive.html">Technology Stack</a></li>                
                 <li><a href="blog-single-with-left-sidebar.html">Professional Experience</a></li>
@@ -142,7 +142,6 @@
                 <li><a href="blog-single-with-right-sidebar.html">Data Science, Analytics and Machine Learning</a></li>
               </ul>
             </li>
-            <li><a href="404.html">Certifications</a></li>               
             <li><a href="contact.html">Leadership</a></li>
             <li><a href="contact.html">Entrepreneur</a></li>
             <li><a href="contact.html">Contact</a></li>
