@@ -161,15 +161,14 @@
             <div class="row">
               <div class="col-md-6 col-sm-6">
                 <div class="slide-article">
-                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Creative Design & Best Feature</h1>
-                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Three Dimensional - End to End</h1>
+                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">From very large enterprise applications architecture to Big Data stack architecture to Data Science, Analytics and Machine Learning</p>
                   <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/arunpic1.png" alt="business man">
-                </div>
+                  <img src="assets/images/arunpic1.png" alt="arun madas"/> </div>
               </div>
             </div>
           </div>
@@ -182,15 +181,15 @@
             <div class="row">
               <div class="col-md-6 col-sm-6">
                 <div class="slide-article">
-                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">We are Best Team & Support you always</h1>
-                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Innovate, Drive, Excel & Deliver</h1>
+                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Believes in rapid innovation, proven to drive and excel teams, recognize profits by delivering successful products and solutions</p>
                   <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/arunpic2.png" alt="business man">
-                </div>
+                  <img src="assets/images/arunpic2.png" alt="arun madas">
+                  </div>
               </div>
             </div>
           </div>
