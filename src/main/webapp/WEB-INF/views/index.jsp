@@ -126,19 +126,20 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
             <li class="active"><a href="index.html">Home</a></li>
-            <li><a href="feature.html">Feature</a></li>
-            <li><a href="service.html">Service</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
+            <li><a href="feature.html">Overview</a></li>
+            <li><a href="service.html">Technology stack</a></li>
+            <li><a href="portfolio.html">Experience</a></li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog <span class="fa fa-angle-down"></span></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="blog-archive.html">Blog Archive</a></li>                
-                <li><a href="blog-single-with-left-sidebar.html">Blog Single with Left Sidebar</a></li>
-                <li><a href="blog-single-with-right-sidebar.html">Blog Single with Right Sidebar</a></li>
-                <li><a href="blog-single-with-out-sidebar.html">Blog Single with out Sidebar</a></li>           
+                <li><a href="blog-archive.html">Large Enterprise Applications Architecture</a></li>                
+                <li><a href="blog-single-with-left-sidebar.html">Big Data Architecture</a></li>
+                <li><a href="blog-single-with-right-sidebar.html">Data Science, Analytics and Machine Learning</a></li>
               </ul>
             </li>
-            <li><a href="404.html">404 Page</a></li>               
+            <li><a href="404.html">Certifications</a></li>               
+            <li><a href="contact.html">Leadership</a></li>
+            <li><a href="contact.html">Entrepreneur</a></li>
             <li><a href="contact.html">Contact</a></li>
           </ul>                     
         </div><!--/.nav-collapse -->
@@ -161,7 +162,7 @@
             <div class="row">
               <div class="col-md-6 col-sm-6">
                 <div class="slide-article">
-                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Multi-Dimensional End to End Expert</h1>
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Multi-Dimensional Technology Expert</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">From very large enterprise applications architecture to Big Data stack architecture to Data Science, Analytics and Machine Learning</p>
                   <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
                 </div>
@@ -202,8 +203,8 @@
             <div class="row">
               <div class="col-md-6 col-sm-6">
                 <div class="slide-article">
-                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Certified Expert</h1>
-                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Proven expert technical skills and Certifications to ease you through complex day to day huddles</p>
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Professionally Certified Expert</h1>
+                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Proven expert technical skills and Professional Certifications to ease you through complex day to day huddles</p>
                   <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
                 </div>
               </div>
