@@ -167,7 +167,7 @@
   <section id="slider">
     <div class="main-slider">
       <div class="single-slide">
-        <img src="assets/images/slider-1.jpg" alt="img">
+        <img src="assets/images/slider-4.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
