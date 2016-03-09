@@ -180,14 +180,14 @@
               </div>
               <div class="col-md-6 col-sm-6">
                 <div class="slider-img wow fadeInUp">
-                  <img src="assets/images/arunpic1.png" alt="arun madas"/> </div>
+                  <img src="assets/images/arunpic2.png" alt="arun madas"/> </div>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="single-slide">
-        <img src="assets/images/slider-3.jpg" alt="img">
+        <img src="assets/images/slider-6.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
@@ -208,7 +208,7 @@
         </div>
       </div> 
       <div class="single-slide">
-        <img src="assets/images/slider-1.jpg" alt="img">
+        <img src="assets/images/slider-3.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
