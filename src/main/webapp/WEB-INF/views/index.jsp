@@ -126,8 +126,14 @@
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
             <li><a href="feature.html">Overview</a></li>
-            <li><a href="service.html">Technology</a></li>
-            <li><a href="portfolio.html">Experience</a></li>
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio<span class="fa fa-angle-down"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="blog-archive.html">Technology Stack</a></li>                
+                <li><a href="blog-single-with-left-sidebar.html">Professional Experience</a></li>
+                <li><a href="blog-single-with-right-sidebar.html">Certifications</a></li>
+              </ul>
+            </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
