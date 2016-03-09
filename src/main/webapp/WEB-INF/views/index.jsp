@@ -194,6 +194,27 @@
             </div>
           </div>
         </div>
+      </div> 
+      <div class="single-slide">
+        <img src="assets/images/slider-3.jpg" alt="img">
+        <div class="slide-content">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-6 col-sm-6">
+                <div class="slide-article">
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Certified Expert</h1>
+                  <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Proven expert technical skills and Certifications to ease you through complex day to day huddles</p>
+                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6">
+                <div class="slider-img wow fadeInUp">
+                  <img src="assets/images/arunpic2.png" alt="arun madas">
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>          
     </div>
   </section>
