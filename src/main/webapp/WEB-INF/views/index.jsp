@@ -229,7 +229,7 @@
         </div>
       </div>
       <div class="single-slide">
-        <img src="assets/images/slide-2.jpg" alt="img">
+        <img src="assets/images/slide-7.jpg" alt="img">
         <div class="slide-content">
           <div class="container">
             <div class="row">
