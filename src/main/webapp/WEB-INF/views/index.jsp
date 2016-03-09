@@ -161,7 +161,7 @@
             <div class="row">
               <div class="col-md-6 col-sm-6">
                 <div class="slide-article">
-                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Three Dimensional - End to End</h1>
+                  <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Multi-Dimensional End to End Expert</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">From very large enterprise applications architecture to Big Data stack architecture to Data Science, Analytics and Machine Learning</p>
                   <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
                 </div>
