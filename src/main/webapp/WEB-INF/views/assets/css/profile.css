@@ -92,3 +92,7 @@ hr {
     -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
 } 
  
+ .summary {
+ 	text-align: justify;
+    text-justify: inter-word;
+ }
