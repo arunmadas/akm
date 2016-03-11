@@ -259,9 +259,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
-            <h2 class="title">Features</h2>
+            <h2 class="title">Itsy Bitsy Summary</h2>
             <span class="line"></span>
-            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+            <p>Technology grew leaps and bounds in the last 14 years or so. With over 12 years of strong technical background I am proud to bring to the table three dimensions of vision and success to any future organizations. Extensively regressed through multiple facets of software development life cycle processes in <strong>Very Large Enterprise Applications Architectures</strong> with Java/JEE Stack; Played crucial roles from being a creative user interface assets creation expert using Photoshop & Illustrator to designing to negotiating and discussing with business management and clients on in-depth requirements and translating them into architectual solutions using starUML, Visio, LucidCharts, Creatly etc. for use case diagrams, flow diagrams, state transition diagrams, component architecture diagrams, request processing diagrams, class architecture diagrams etc. from very high level to very low level in order to accomplish the business client needs into working solutions in real time. In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch processing jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. In-depth experience in Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc.</p>
           </div>
         </div>
         <div class="col-md-12">
