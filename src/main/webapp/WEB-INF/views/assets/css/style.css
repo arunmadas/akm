@@ -2662,3 +2662,8 @@ img{
     height: 220px;
   }
 }
+
+ .summary {
+ 	text-align: justify;
+    text-justify: inter-word;
+ }
