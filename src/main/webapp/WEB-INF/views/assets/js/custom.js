@@ -199,6 +199,11 @@ jQuery(function($){
 	    return false;
 	});
 
+	$('.hOverview').click(function(){
+		$('html, body').animate({hOverview : 200},800);
+		return false;
+	});
+	
 	/* ----------------------------------------------------------- */
 	/*  13. PRELOADER 
 	/* ----------------------------------------------------------- */ 
