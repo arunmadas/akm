@@ -198,11 +198,11 @@ jQuery(function($){
 	    $('html, body').animate({scrollTop : 0},800);
 	    return false;
 	});
-
-	$('.hOverview').click(function(){
-		$('html, body').animate({hOverview : 0},800);
-		return false;
-	});
+//
+//	$('.hOverview').click(function(){
+//		$('html, body').animate({hOverview : 0},800);
+//		return false;
+//	});
 	
 	/* ----------------------------------------------------------- */
 	/*  13. PRELOADER 
