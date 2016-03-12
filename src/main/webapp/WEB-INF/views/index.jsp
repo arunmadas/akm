@@ -301,7 +301,7 @@
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-code feature-icon"></i>
                   <h4 class="feat-title">Management & Leadership</h4>
-                  <p>Proven skills of being a manager to guide your team to do things right to being a leader to provide direction, building an inspiring vision for future and laying out the future path to innovate and walk them into success with your teams and business units and entire organization. Ability to perform PEST Analysis, USP Analysis and SWOT Analysis to identify overall high level future vision. Providing Motivation and inspiration to people achieve the vision for the organization is key to being a leader and driving people around you and as a whole into success.</p>
+                  <p>Proven skills of being a manager to guide your team to do things right to being a leader to provide direction, building an inspiring vision for future and laying out the future path to innovate and walk into success with your teams and business units and entire organization. Ability to perform PEST Analysis, USP Analysis and SWOT Analysis to identify overall high level future vision. Providing Motivation and inspiration to people, Coach them to build and achieve the vision for the organization is key to being a leader and driving people around you and as a whole into success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
