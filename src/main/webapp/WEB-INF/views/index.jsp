@@ -261,7 +261,7 @@
           <div class="title-area">
             <h2 class="title">Itsy Bitsy Summary</h2>
             <span class="line"></span>
-            <p class="summary">Technology grew leaps and bounds in the past 15 years or so. With over 12 years of strong technical background I am proud to bring to the table three dimensions of vision and success to any future organizations. 
+            <p class="summary">Technology grew leaps and bounds in the past 15 years or so. With over 12 years of strong technical background combined with leadership and management expertise, I am proud to bring to the table multiple dimensions of skills to nurture the vision and arrive at success for any future organizations. 
             
 <!--             Extensively regressed through multiple facets of software development life cycle processes in <strong>Very Large Enterprise Applications Architectures</strong> with Java/JEE Stack; Played crucial roles from being a creative user interface assets creation expert using Photoshop & Illustrator to designing to negotiating and discussing with business management and clients on in-depth requirements and translating them into architectual solutions using starUML, Visio, LucidCharts, Creatly etc. for use case diagrams, flow diagrams, state transition diagrams, component architecture diagrams, request processing diagrams, class architecture diagrams etc. from very high level to very low level in order to accomplish the business client needs into working solutions in real time. In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch processing jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. In-depth experience in Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc.</p> -->
           </div>
@@ -273,21 +273,21 @@
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-leaf feature-icon"></i>
                   <h4 class="feat-title">Enterprise Applications Architecture</h4>
-                  <p>Extensively regressed through multiple facets of software development life cycle processes with <strong><ul>Java/JEE Stack</ul></strong>.</p>
+                  <p>Extensively regressed through multiple facets of software development life cycle processes with Java/JEE Stack. Played crucial roles in negotiating and discussing with business management, clients, Product management including Directors and senior Directors on in-depth requirements and translating them into viable and scalable architectual solutions. Contributin from very high level to very low level designs to accomplish the business client needs into working real time solutions.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-mobile feature-icon"></i>
                   <h4 class="feat-title">Big Data Architecture</h4>
-                  <p>In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch processing jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc.</p>
+                  <p>In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch to Streaming to real time data jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. Bringing the power of the Big Data Stack to solve your ETL and Applications scalability problems. Professionally Certified Expert in Big Data Stack.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-thumbs-o-up feature-icon"></i>
                   <h4 class="feat-title">Data Science & Machine Learning</h4>
-                  <p>Experience with Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc. on publicly available data repositories.</p>
+                  <p>Experience with Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc. on publicly available data repositories. From Data Aquisition to sanitization of data and then to Explorate Data with multi-tude of graphs and charts to applying verious machine learning alogithms to predict the outcomes and possibilities based on the real data at hand. Data Analysis and machine learning techniques form input to corrections to your business processes and yeild success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
