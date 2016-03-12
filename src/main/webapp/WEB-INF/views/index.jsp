@@ -253,7 +253,7 @@
   </section>
   <!-- End slider -->
 
-  <!-- Start Feature -->
+  <!-- Start itsybitsysummary -->
   <section id="feature">
     <div class="container">
       <div class="row">
@@ -317,7 +317,125 @@
       </div>
     </div>
   </section>
-  <!-- End Feature -->
+  <!-- End itsybitsysummary -->
+  
+    <!-- Start techstack -->
+  <section id="pricing-table">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <h2 class="title">Technical Skill</h2>
+            <span class="line"></span>
+            <p>Everyone has a level of mastery on technical skill set and here is some of what i use on a day to day basis</p>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="pricing-table-content">
+            <div class="row">
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="single-table-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
+                  <div class="price-header">
+                    <span class="price-title">Enterprise Applications</span>
+                    <div class="price">
+<!--                       <sup class="price-up">$</sup> -->
+                      Java / JEE Stack
+<!--                       <span class="price-down">/mo</span> -->
+                    </div>
+                  </div>
+                  <div class="price-article">
+                    <ul>
+                      <li>2GB Space</li>
+                      <li>10GB Bandwidth</li>
+                      <li>Free Domain</li>
+                      <li>Free Email</li>
+                      <li>Unlimited Support</li>
+                    </ul>
+                  </div>
+                  <div class="price-footer">
+                    <a class="purchase-btn" href="#">Projects</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="single-table-price wow fadeInUp" data-wow-duration="0.75s" data-wow-delay="0.75s">
+                  <div class="price-header">
+                    <span class="price-title">Big Data</span>
+                    <div class="price">
+<!--                       <sup class="price-up">$</sup> -->
+                      Hadoop/Spark/NoSQL Stack
+<!--                       <span class="price-down">/mo</span> -->
+                    </div>
+                  </div>
+                  <div class="price-article">
+                    <ul>
+                      <li>2GB Space</li>
+                      <li>10GB Bandwidth</li>
+                      <li>Free Domain</li>
+                      <li>Free Email</li>
+                      <li>Unlimited Support</li>
+                    </ul>
+                  </div>
+                  <div class="price-footer">
+                    <a class="purchase-btn" href="#">Projects</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="single-table-price featured-price wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
+                  <div class="price-header">
+                    <span class="price-title">Data Science</span>
+                    <div class="price">
+<!--                       <sup class="price-up">$</sup> -->
+                      R/Python/SAS
+<!--                       <span class="price-down">/mo</span> -->
+                    </div>
+                  </div>
+                  <div class="price-article">
+                    <ul>
+                      <li>2GB Space</li>
+                      <li>10GB Bandwidth</li>
+                      <li>Free Domain</li>
+                      <li>Free Email</li>
+                      <li>Unlimited Support</li>
+                    </ul>
+                  </div>
+                  <div class="price-footer">
+                    <a class="purchase-btn" href="#">Projects</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6 col-xs-12">
+                <div class="single-table-price wow fadeInUp" data-wow-duration="1.15s" data-wow-delay="1.15s">
+                  <div class="price-header">
+                    <span class="price-title">Mgmt/Leadership</span>
+                    <div class="price">
+<!--                       <sup class="price-up">$</sup> -->
+                      Entrepeneur
+<!--                       <span class="price-down">/mo</span> -->
+                    </div>
+                  </div>
+                  <div class="price-article">
+                    <ul>
+                      <li>2GB Space</li>
+                      <li>10GB Bandwidth</li>
+                      <li>Free Domain</li>
+                      <li>Free Email</li>
+                      <li>Unlimited Support</li>
+                    </ul>
+                  </div>
+                  <div class="price-footer">
+                    <a class="purchase-btn" href="#">Projects</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Pricing table -->  
 
   <!-- Start about  -->
   <section id="about">
@@ -583,123 +701,7 @@
   </section>
   <!-- End Service -->
 
-  <!-- Start Pricing table -->
-  <section id="pricing-table">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="title-area">
-            <h2 class="title">Our Pricing Tables</h2>
-            <span class="line"></span>
-            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
-          </div>
-        </div>
-        <div class="col-md-12">
-          <div class="pricing-table-content">
-            <div class="row">
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-table-price wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                  <div class="price-header">
-                    <span class="price-title">Basic</span>
-                    <div class="price">
-                      <sup class="price-up">$</sup>
-                      25
-                      <span class="price-down">/mo</span>
-                    </div>
-                  </div>
-                  <div class="price-article">
-                    <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
-                    </ul>
-                  </div>
-                  <div class="price-footer">
-                    <a class="purchase-btn" href="#">Purchase</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-table-price wow fadeInUp" data-wow-duration="0.75s" data-wow-delay="0.75s">
-                  <div class="price-header">
-                    <span class="price-title">Advanced</span>
-                    <div class="price">
-                      <sup class="price-up">$</sup>
-                      50
-                      <span class="price-down">/mo</span>
-                    </div>
-                  </div>
-                  <div class="price-article">
-                    <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
-                    </ul>
-                  </div>
-                  <div class="price-footer">
-                    <a class="purchase-btn" href="#">Purchase</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-table-price featured-price wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
-                  <div class="price-header">
-                    <span class="price-title">Professional</span>
-                    <div class="price">
-                      <sup class="price-up">$</sup>
-                      100
-                      <span class="price-down">/mo</span>
-                    </div>
-                  </div>
-                  <div class="price-article">
-                    <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
-                    </ul>
-                  </div>
-                  <div class="price-footer">
-                    <a class="purchase-btn" href="#">Purchase</a>
-                  </div>
-                </div>
-              </div>
-              <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-table-price wow fadeInUp" data-wow-duration="1.15s" data-wow-delay="1.15s">
-                  <div class="price-header">
-                    <span class="price-title">Exclusive</span>
-                    <div class="price">
-                      <sup class="price-up">$</sup>
-                      125
-                      <span class="price-down">/mo</span>
-                    </div>
-                  </div>
-                  <div class="price-article">
-                    <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
-                    </ul>
-                  </div>
-                  <div class="price-footer">
-                    <a class="purchase-btn" href="#">Purchase</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End Pricing table -->  
+
 
   <!-- Start Pricing table -->
   <section id="our-team">
