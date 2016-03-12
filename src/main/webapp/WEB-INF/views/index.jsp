@@ -293,22 +293,22 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-gears feature-icon"></i>
-                  <h4 class="feat-title">Multiple Options</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                  <h4 class="feat-title">Architecture & Solutioning</h4>
+                  <p>From being a creative user interface assets creation expert using Adobe Photoshop and Adobe Illustrator to designing your workflows and regressing your requirements to translate them into business user scenarios, use case diagrams, flow charts and diagrams, component architecture diagrams, client / server request processing charts, algorithm outlines, process maps and charts, state transition diagrams, class architecture diagrams. Establishing the rules set by Gang of Four design patterns at all aspects of architecture. Solutioning and solving your unknowns is critical to achieving success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-code feature-icon"></i>
-                  <h4 class="feat-title">Quality Code</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                  <h4 class="feat-title">Management & Leadership</h4>
+                  <p>Proven skills of being a manager to guide your team to do things right to being a leader to provide direction, building an inspiring vision for future and laying out the future path to innovate and walk them into success with your teams and business units and entire organization. Ability to perform PEST Analysis, USP Analysis and SWOT Analysis to identify overall high level future vision. Providing Motivation and inspiration to people achieve the vision for the organization is key to being a leader and driving people around you and as a whole into success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-smile-o feature-icon"></i>
-                  <h4 class="feat-title">Awesome Support</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                  <h4 class="feat-title">Startup & Principles</h4>
+                  <p>I believe in startup environment where one person can do multiple things. Having started a few stealth mode startups and going through an intense multi-hat multi-role person only takes you leaps and bounds ahead into success. Strong believer of Ideas come from every cornor of the company and nurturing the right idea and execution is key at every aspect. I would rather try and fail than not try, Thomas Edision failed 1000 times before he invented bulb and the belief of finding 1000 ways of not doing bulb is the key. The key to success lies in believing in your vision and working towards achieving it.</p>
                 </div>
               </div>
             </div>
