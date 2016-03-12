@@ -125,7 +125,7 @@
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul id="top-menu" class="nav navbar-nav navbar-right main-nav">
-            <li><a href="#" class="hOverview">Overview</a></li>
+            <li><a href="#feature" class="hOverview">Overview</a></li>
              <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
