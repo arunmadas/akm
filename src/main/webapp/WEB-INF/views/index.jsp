@@ -294,7 +294,7 @@
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-gears feature-icon"></i>
                   <h4 class="feat-title">Architecture & Solutioning</h4>
-                  <p>From being a creative user interface assets creation expert using Adobe Photoshop and Adobe Illustrator to designing your workflows and regressing your requirements to translate them into business user scenarios, use case diagrams, flow charts and diagrams, component architecture diagrams, client / server request processing charts, algorithm outlines, process maps and charts, state transition diagrams, class architecture diagrams. Establishing the rules set by Gang of Four design patterns at all aspects of architecture. Hands-on Solutioning and solving your unknowns and unfolding your critical business discussions is critical to achieving success.</p>
+                  <p>From being a creative user interface assets creation expert using Adobe Photoshop and Adobe Illustrator to designing your workflows and regressing your requirements to translate them into business user scenarios, use case diagrams, flow charts and diagrams, component architecture diagrams, client server request processing charts, algorithm outlines, process maps and charts, state transition diagrams, class architecture diagrams. Establishing the rules set by Gang of Four design patterns at all aspects of architecture. Hands-on Solutioning and solving your unknowns and unfolding your critical business discussions is critical to achieving success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
