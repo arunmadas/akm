@@ -200,7 +200,7 @@ jQuery(function($){
 	});
 
 	$('.hOverview').click(function(){
-		$('html, body').animate({hOverview : 200},800);
+		$('html, body').animate({hOverview : 0},800);
 		return false;
 	});
 	
