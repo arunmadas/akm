@@ -119,7 +119,7 @@
           </button>
           <!-- LOGO -->              
           <!-- TEXT BASED LOGO -->
-          <a class="navbar-brand" href="index.html">Arun K Madas</a>              
+          <a class="navbar-brand">Arun K Madas</a>              
           <!-- IMG BASED LOGO  -->
            <!-- <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="logo"></a> -->
         </div>
@@ -261,7 +261,9 @@
           <div class="title-area">
             <h2 class="title">Itsy Bitsy Summary</h2>
             <span class="line"></span>
-            <p class="summary">Technology grew leaps and bounds in the last 14 years or so. With over 12 years of strong technical background I am proud to bring to the table three dimensions of vision and success to any future organizations. Extensively regressed through multiple facets of software development life cycle processes in <strong>Very Large Enterprise Applications Architectures</strong> with Java/JEE Stack; Played crucial roles from being a creative user interface assets creation expert using Photoshop & Illustrator to designing to negotiating and discussing with business management and clients on in-depth requirements and translating them into architectual solutions using starUML, Visio, LucidCharts, Creatly etc. for use case diagrams, flow diagrams, state transition diagrams, component architecture diagrams, request processing diagrams, class architecture diagrams etc. from very high level to very low level in order to accomplish the business client needs into working solutions in real time. In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch processing jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. In-depth experience in Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc.</p>
+            <p class="summary">Technology grew leaps and bounds in the past 15 years or so. With over 12 years of strong technical background I am proud to bring to the table three dimensions of vision and success to any future organizations. 
+            
+<!--             Extensively regressed through multiple facets of software development life cycle processes in <strong>Very Large Enterprise Applications Architectures</strong> with Java/JEE Stack; Played crucial roles from being a creative user interface assets creation expert using Photoshop & Illustrator to designing to negotiating and discussing with business management and clients on in-depth requirements and translating them into architectual solutions using starUML, Visio, LucidCharts, Creatly etc. for use case diagrams, flow diagrams, state transition diagrams, component architecture diagrams, request processing diagrams, class architecture diagrams etc. from very high level to very low level in order to accomplish the business client needs into working solutions in real time. In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch processing jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. In-depth experience in Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc.</p> -->
           </div>
         </div>
         <div class="col-md-12">
@@ -270,22 +272,22 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-leaf feature-icon"></i>
-                  <h4 class="feat-title">Creative Design</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                  <h4 class="feat-title">Enterprise Applications Architecture</h4>
+                  <p>Extensively regressed through multiple facets of software development life cycle processes with <strong><ul>Java/JEE Stack</ul></strong>.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-mobile feature-icon"></i>
-                  <h4 class="feat-title">Responsive Layouts</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                  <h4 class="feat-title">Big Data Architecture</h4>
+                  <p>In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch processing jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-thumbs-o-up feature-icon"></i>
-                  <h4 class="feat-title">Great Features</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                  <h4 class="feat-title">Data Science & Machine Learning</h4>
+                  <p>Experience with Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc. on publicly available data repositories.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
