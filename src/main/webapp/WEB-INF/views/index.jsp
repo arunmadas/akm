@@ -345,11 +345,15 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
+                      <li>Java/JEE</li>
+                      <li>JSP/Servlets/EJB/JMS</li>
+                      <li>HTML5/CSS3</li>
+                      <li>JavaScript Frameworks</li>
+                      <li>AngularJS,EmberJS</li>
+                      <li>Spring,Struts Frameworks</li>
+                      <li>Relational OracleDB,SQLServer,MySQL</li>
+                      <li>NoSQL - Cassandra,MongoDB,CouchDB</li>
+                      <li>Configuration - Git/SVN</li>
                     </ul>
                   </div>
                   <div class="price-footer">
@@ -360,11 +364,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-table-price wow fadeInUp" data-wow-duration="0.75s" data-wow-delay="0.75s">
                   <div class="price-header">
-                    <span class="price-title">Big Data</span>
-                    <div class="price">
-<!--                       <sup class="price-up">$</sup> -->
-                      Hadoop/Spark/NoSQL Stack
-<!--                       <span class="price-down">/mo</span> -->
+                    <span class="price-title">Big Data</span> -->
                     </div>
                   </div>
                   <div class="price-article">
@@ -387,7 +387,7 @@
                     <span class="price-title">Data Science</span>
                     <div class="price">
 <!--                       <sup class="price-up">$</sup> -->
-                      R/Python/SAS
+                      R / SAS / Python
 <!--                       <span class="price-down">/mo</span> -->
                     </div>
                   </div>
@@ -408,7 +408,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-table-price wow fadeInUp" data-wow-duration="1.15s" data-wow-delay="1.15s">
                   <div class="price-header">
-                    <span class="price-title">Mgmt/Leadership</span>
+                    <span class="price-title">Mgmt/Leadership <br /></span>
                     <div class="price">
 <!--                       <sup class="price-up">$</sup> -->
                       Entrepeneur
