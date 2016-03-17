@@ -345,15 +345,15 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>Java/JEE</li>
-                      <li>JSP/Servlets/EJB/JMS</li>
-                      <li>HTML5/CSS3</li>
+                      <li>Java / JEE</li>
+                      <li>JSP / Servlets / EJB / JMS</li>
+                      <li>HTML5 / CSS3</li>
                       <li>JavaScript Frameworks</li>
                       <li>AngularJS,EmberJS</li>
                       <li>Spring,Struts Frameworks</li>
-                      <li>Relational OracleDB,SQLServer,MySQL</li>
-                      <li>NoSQL - Cassandra,MongoDB,CouchDB</li>
-                      <li>Configuration - Git/SVN</li>
+                      <li>Relational OracleDB, SQLServer, MySQL</li>
+                      <li>NoSQL - Cassandra, MongoDB, CouchDB</li>
+                      <li>Configuration - Git / SVN</li>
                     </ul>
                   </div>
                   <div class="price-footer">
