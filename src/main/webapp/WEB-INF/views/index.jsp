@@ -338,9 +338,7 @@
                   <div class="price-header">
                     <span class="price-title">Enterprise Applications</span>
                     <div class="price">
-<!--                       <sup class="price-up">$</sup> -->
                       Java / JEE Stack
-<!--                       <span class="price-down">/mo</span> -->
                     </div>
                   </div>
                   <div class="price-article">
@@ -382,6 +380,8 @@
                 <div class="single-table-price wow fadeInUp" data-wow-duration="0.75s" data-wow-delay="0.75s">
                   <div class="price-header">
                     <span class="price-title">Big Data</span> 
+                    <div class="price">
+                    	Spark / Hadoop
                     </div>
                   </div>
                   <div class="price-article">
@@ -406,6 +406,7 @@
                   </div>
                   <div class="price-footer">
                     <a class="purchase-btn" href="#">Projects</a>
+                  </div>
                   </div>
                 </div>
               <div class="col-md-3 col-sm-6 col-xs-12">
