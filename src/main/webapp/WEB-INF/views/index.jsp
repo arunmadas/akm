@@ -354,10 +354,14 @@
                       <li>JMS</li>
                       <li>HTML5</li>
                       <li>CSS3</li>
+                      <li>SemantecUI</li>
+                      <li>ExtJS</li>
                       <li>JavaScript</li>
                       <li>AngularJS</li>
                       <li>EmberJS</li>
                       <li>ReactJS</li>
+                      <li>NodeJS</li>
+                      <li>Sonar</li>
                       <li>Spring</li>
                       <li>Struts</li>
                       <li>OracleDB</li>
@@ -368,10 +372,8 @@
                       <li>CouchDB</li>
                       <li>Git</li>
                       <li>SVN</li>
-                      <li>SemantecUI</li>
-                      <li>ExtJS</li>
-                      <li>NodeJS</li>
-                      <li>Sonar</li>
+                      <li>Maven</li>
+                      <li>Jenkins</li>
                     </ul>
                   </div>
                   <div class="price-footer">
