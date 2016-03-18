@@ -345,8 +345,7 @@
                     <ul>
                       <li>Java / JEE</li>
                       <li>JSP / JSTL</li>
-                      <li>Servlets</li>
-                      <li>JNDI</li>
+                      <li>Servlets / JNDI</li>
                       <li>EJB / JMS</li>
                       <li>HTML5 / CSS3</li>
                       <li>SemantecUI</li>
@@ -383,6 +382,8 @@
                       <li>Talend</li>
                       <li>Spark</li>
                       <li>Scala</li>                      
+                      <li>Dockers</li>
+                      <li>Flink</li>
                       <li>Storm</li>
                       <li>Solr</li>
                       <li>Zookeeper</li>
