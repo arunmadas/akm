@@ -424,6 +424,8 @@
                       <li>R</li>
                       <li>SAS</li>
                       <li>Python</li>
+                      <li>Mahout</li>
+                      <li>MLib</li>
                       <li>MachineLearning</li>
                       <li>PredictiveModeling</li>
                       <li>Analytics</li>
@@ -431,6 +433,11 @@
                       <li>Cleansing</li>
                       <li>Exploratory</li>
                       <li>BusinessAnalytics</li>
+                      <li>Statistics</li>
+                      <li>Regression</li>
+                      <li>DataScience</li>
+                      <li>Tableu</li>
+                      <li>Scalable-R</li>
                     </ul>
                   </div>
                   <div class="price-footer">
