@@ -367,9 +367,6 @@
                       <li>OracleDB</li>
                       <li>SQLServer</li>
                       <li>MySQL</li>
-                      <li>Cassandra</li>
-                      <li>MongoDB</li>
-                      <li>CouchDB</li>
                       <li>Git</li>
                       <li>SVN</li>
                       <li>Maven</li>
@@ -389,11 +386,22 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
+                      <li>Hadoop</li>
+                      <li>Hive</li>
+                      <li>Pig</li>
+                      <li>Talend</li>
+                      <li>Spark</li>
+                      <li>Scala</li>                      
+                      <li>Storm</li>
+                      <li>Solr</li>
+                      <li>Zookeeper</li>
+                      <li>Oozie</li>
+                      <li>Ambari</li>
+                      <li>NoSQL-DB</li>
+                      <li>HBase</li>
+                      <li>Cassandra</li>
+                      <li>MongoDB</li>
+                      <li>CouchDB</li>
                     </ul>
                   </div>
                   <div class="price-footer">
@@ -413,11 +421,16 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
+                      <li>R</li>
+                      <li>SAS</li>
+                      <li>Python</li>
+                      <li>MachineLearning</li>
+                      <li>PredictiveModeling</li>
+                      <li>Analytics</li>
+                      <li>DataMining</li>
+                      <li>Cleansing</li>
+                      <li>Exploratory</li>
+                      <li>BusinessAnalytics</li>
                     </ul>
                   </div>
                   <div class="price-footer">
@@ -437,11 +450,18 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>2GB Space</li>
-                      <li>10GB Bandwidth</li>
-                      <li>Free Domain</li>
-                      <li>Free Email</li>
-                      <li>Unlimited Support</li>
+                      <li>Products</li>
+                      <li>Vision</li>
+                      <li>Teams</li>
+                      <li>Innovation</li>
+                      <li>BalanceSheets</li>
+                      <li>Idea</li>
+                      <li>Hire</li>
+                      <li>Hickups</li>
+                      <li>Process</li>
+                      <li>Coach</li>
+                      <li>PushLimits</li>
+                      <li>Success</li>
                     </ul>
                   </div>
                   <div class="price-footer">
