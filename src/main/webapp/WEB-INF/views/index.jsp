@@ -343,17 +343,13 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>Java</li>
-                      <li>JEE</li>
+                      <li>Java / JEE</li>
                       <li>JSP/JSTL</li>
                       <li>Servlets</li>
                       <li>JNDI</li>
-                      <li>EJB</li>
-                      <li>JMS</li>
-                      <li>HTML5</li>
-                      <li>CSS3</li>
+                      <li>EJB / JMS</li>
+                      <li>HTML5 / CSS3</li>
                       <li>SemantecUI</li>
-                      <li>ExtJS</li>
                       <li>JavaScript</li>
                       <li>AngularJS</li>
                       <li>EmberJS</li>
@@ -365,9 +361,7 @@
                       <li>OracleDB</li>
                       <li>SQLServer</li>
                       <li>MySQL</li>
-                      <li>Git</li>
-                      <li>SVN</li>
-                      <li>Maven</li>
+                      <li>Git/SVN/Maven</li>
                       <li>Jenkins</li>
                     </ul>
                   </div>
