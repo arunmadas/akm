@@ -344,23 +344,19 @@
                   <div class="price-article">
                     <ul>
                       <li>Java / JEE</li>
-                      <li>JSP/JSTL</li>
+                      <li>JSP / JSTL</li>
                       <li>Servlets</li>
                       <li>JNDI</li>
                       <li>EJB / JMS</li>
                       <li>HTML5 / CSS3</li>
                       <li>SemantecUI</li>
                       <li>JavaScript</li>
-                      <li>AngularJS</li>
-                      <li>EmberJS</li>
-                      <li>ReactJS</li>
-                      <li>NodeJS</li>
+                      <li>AngularJS / EmberJS</li>
+                      <li>ReactJS / NodeJS</li>
                       <li>Sonar</li>
-                      <li>Spring</li>
-                      <li>Struts</li>
-                      <li>OracleDB</li>
-                      <li>SQLServer</li>
-                      <li>MySQL</li>
+                      <li>Spring / Struts</li>
+                      <li>Oracle DB</li>
+                      <li>SQLServer / MySQL</li>
                       <li>Hibernate</li>
                       <li>Git/SVN/Maven</li>
                       <li>Jenkins</li>
