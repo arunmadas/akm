@@ -381,7 +381,7 @@
               <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="single-table-price wow fadeInUp" data-wow-duration="0.75s" data-wow-delay="0.75s">
                   <div class="price-header">
-                    <span class="price-title">Big Data</span> -->
+                    <span class="price-title">Big Data</span> 
                     </div>
                   </div>
                   <div class="price-article">
@@ -450,15 +450,20 @@
                   </div>
                   <div class="price-article">
                     <ul>
+                      <li>Ideas</li>
+                      <li>Startups</li>
                       <li>Products</li>
                       <li>Vision</li>
                       <li>Teams</li>
                       <li>Innovation</li>
                       <li>BalanceSheets</li>
-                      <li>Idea</li>
                       <li>Hire</li>
                       <li>Hickups</li>
                       <li>Process</li>
+                      <li>People</li>
+                      <li>HR</li>
+                      <li>Fund</li>
+                      <li>Investors</li>                      
                       <li>Coach</li>
                       <li>PushLimits</li>
                       <li>Success</li>
