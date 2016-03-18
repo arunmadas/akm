@@ -361,6 +361,7 @@
                       <li>OracleDB</li>
                       <li>SQLServer</li>
                       <li>MySQL</li>
+                      <li>Hibernate</li>
                       <li>Git/SVN/Maven</li>
                       <li>Jenkins</li>
                     </ul>
