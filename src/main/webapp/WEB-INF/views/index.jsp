@@ -461,11 +461,11 @@
                       <li>Process</li>
                       <li>People</li>
                       <li>HR</li>
-                      <li>Fund</li>
+                      <li>Pitch / Fund</li>
                       <li>Investors</li>                      
                       <li>Coach</li>
                       <li>PushLimits</li>
-                      <li>Success</li>
+                      <li>Profits / Success</li>
                     </ul>
                   </div>
                   <div class="price-footer">
