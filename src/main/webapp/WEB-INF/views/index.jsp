@@ -345,15 +345,33 @@
                   </div>
                   <div class="price-article">
                     <ul>
-                      <li>Java / JEE</li>
-                      <li>JSP / Servlets / EJB / JMS</li>
-                      <li>HTML5 / CSS3</li>
-                      <li>JavaScript Frameworks</li>
-                      <li>AngularJS,EmberJS</li>
-                      <li>Spring,Struts Frameworks</li>
-                      <li>Relational OracleDB, SQLServer, MySQL</li>
-                      <li>NoSQL - Cassandra, MongoDB, CouchDB</li>
-                      <li>Configuration - Git / SVN</li>
+                      <li>Java</li>
+                      <li>JEE</li>
+                      <li>JSP/JSTL</li>
+                      <li>Servlets</li>
+                      <li>JNDI</li>
+                      <li>EJB</li>
+                      <li>JMS</li>
+                      <li>HTML5</li>
+                      <li>CSS3</li>
+                      <li>JavaScript</li>
+                      <li>AngularJS</li>
+                      <li>EmberJS</li>
+                      <li>ReactJS</li>
+                      <li>Spring</li>
+                      <li>Struts</li>
+                      <li>OracleDB</li>
+                      <li>SQLServer</li>
+                      <li>MySQL</li>
+                      <li>Cassandra</li>
+                      <li>MongoDB</li>
+                      <li>CouchDB</li>
+                      <li>Git</li>
+                      <li>SVN</li>
+                      <li>SemantecUI</li>
+                      <li>ExtJS</li>
+                      <li>NodeJS</li>
+                      <li>Sonar</li>
                     </ul>
                   </div>
                   <div class="price-footer">
