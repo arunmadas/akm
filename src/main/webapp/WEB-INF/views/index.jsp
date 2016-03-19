@@ -710,7 +710,7 @@
                   <i class="fa fa-desktop service-icon"></i>
                   <h4 class="service-title">AT&T</h4>
                   <p class="summary"><a href="#">http://www.att.com</a> <br />
-                  Location : 1125 E Campbell Rd, Richardson, TX - 75081<br />
+                  1125 E Campbell Rd, Richardson, TX - 75081<br />
                   Senior Enterprise Applications Architect<br />
                   Duration : ~ 2 years (April 2014 - Current)<br /></p>
                 </div>
@@ -722,8 +722,8 @@
                   <i class="fa fa-paw service-icon"></i>
                   <h4 class="service-title">Active Network</h4>
                   <p class="summary"><a href="#">http://www.activenetwork.com</a><br />
-                  Location : 6363 N State Hwy 161, Suite 200, Irving, TX - 75063<br />
-                  Location : 22530 Gateway Center Dr, Suite 100, Clarksburg, MD – 20871<br />
+                  6363 N State Hwy 161, Suite 200, Irving, TX - 75063<br />
+                  22530 Gateway Center Dr, Suite 100, Clarksburg, MD – 20871<br />
                   Senior Enterprise Applications Architect<br />
                   Duration : ~ 6 years (June 2008 - March 2014)</p>                  
                 </div>
@@ -736,6 +736,7 @@
                   <h4 class="service-title">Adobe</h4>
                   <p class="summary"><a href="#">http://www.adobe.com</a><br />
                   Lead / Senior Software Engineer<br />
+                  Adobe Dreamweaver / Adobe Flex / Adobe Coldfusion <br />
                   Duration : ~ 3 years (Sep 2005 - May 2008)<br />
                   </p>
                 </div>
