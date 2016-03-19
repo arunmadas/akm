@@ -707,7 +707,7 @@
               <!-- Start single service -->
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
-                  <i class="fa service-icon attlogo"></i>
+                  <i class="attlogo"></i>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
                   <a href="#">http://www.att.com</a> <br />
 <!--                   <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br /> -->
