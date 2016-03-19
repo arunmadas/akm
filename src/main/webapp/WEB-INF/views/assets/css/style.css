@@ -2674,3 +2674,7 @@ img{
 	-o-transition: all .8s ease-in-out;
 	transition: all .8s ease-in-out;
 }
+
+.lindup{
+	float : left;
+}

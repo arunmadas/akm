@@ -348,7 +348,7 @@
                       <li>Servlets / JNDI</li>
                       <li>EJB / JMS</li>
                       <li>HTML5 / CSS3</li>
-                      <li>SemantecUI</li>
+                      <li>SemantecUI / ExtJS</li>
                       <li>JavaScript</li>
                       <li>MobileApps</li>
                       <li>AngularJS / EmberJS</li>
@@ -480,6 +480,31 @@
     </div>
   </section>
   <!-- End Pricing table -->  
+  
+   <section id="about">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <h2 class="title">Overview</h2>
+            <span class="line"></span>
+            	<ul style="lineup">
+            		<li><img src="<c:url value="assets/images/techicons/java7.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/angularjs.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/aws.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/creately.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/ejb.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/emberjs.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/extjs.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/github.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/html/css3.png" />" /></li>
+            		<li><img src="<c:url value="assets/images/techicons/hibernate.png" />" /></li>
+	            	</ul>
+          </div>
+        </div>
+       </div>
+     </div>
+    </section>
 
   <!-- Start about  -->
   <section id="about">
