@@ -2714,5 +2714,5 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#157dbd', end
 
 .attlogo
 {
-background-image:url(assets/images/techicons/attlogo.png);	
+background-image:url("assets/images/techicons/attlogo.png");	
 }
