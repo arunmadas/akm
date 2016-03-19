@@ -327,7 +327,7 @@
           <div class="title-area">
             <h2 class="title">Technical Skill</h2>
             <span class="line"></span>
-            <p>Everyone has a level of mastery on technical skill set and here is some of what i use on a day to day basis</p>
+            <p>From Enterprise Applications Architecture to Big Data Architecture to Data Science and Machine Learning to starting up, here is some of the technology stack that i use on a day to day basis</p>
           </div>
         </div>
         <div class="col-md-12">
