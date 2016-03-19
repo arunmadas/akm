@@ -722,10 +722,10 @@
                   <i class="fa fa-paw service-icon"></i>
                   <h4 class="service-title">Active Network</h4>
                   <p class="summary"><a href="#">http://www.activenetwork.com</a><br />
-                  6363 N State Hwy 161, Ste 200, Irving, TX - 75063<br />
-                  22530 Gateway Center Dr, Ste 100, Clarksburg, MD - 20871<br />
+                  6363 N State Hwy 161, #200, Irving, TX - 75063<br />
+                  22530 Gateway Center Dr, #100, Clarksburg, MD - 20871<br />
                   Senior Enterprise Applications Architect<br />
-                  Duration : ~ 6 years (June 2008 - March 2014)</p>                  
+                  ~ 6 years (June 2008 - March 2014)</p>                  
                 </div>
               </div>
               <!-- End single service -->
