@@ -748,7 +748,7 @@
                   <p class="summary"><img src="<c:url value="assets/images/techicons/pramati.png" />" /> <br />
                   <a href="#">http://www.pramati.com</a> <br />
                   Software Engineer<br />
-                  Duration : ~ 3 Months (June 2005 - Sep 2005)<br />
+                  Duration : ~ 3 Mo. (Jun 2005 - Sep 2005)<br />
                   </p>                  
                 </div>
               </div>
