@@ -350,6 +350,7 @@
                       <li>HTML5 / CSS3</li>
                       <li>SemantecUI</li>
                       <li>JavaScript</li>
+                      <li>MobileApps</li>
                       <li>AngularJS / EmberJS</li>
                       <li>ReactJS / NodeJS</li>
                       <li>Sonar</li>
@@ -468,7 +469,7 @@
                     </ul>
                   </div>
                   <div class="price-footer">
-                    <a class="purchase-btn" href="#">Projects</a>
+                    <a class="purchase-btn" href="#">Details</a>
                   </div>
                 </div>
               </div>
