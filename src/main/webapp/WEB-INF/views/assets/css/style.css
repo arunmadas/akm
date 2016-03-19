@@ -2676,5 +2676,7 @@ img{
 }
 
 .lindup{
+	position : absolute;
 	float : left;
+	overflow : auto;
 }
