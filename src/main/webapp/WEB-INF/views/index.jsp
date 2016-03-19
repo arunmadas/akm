@@ -382,7 +382,6 @@
                       <li>Talend</li>
                       <li>Spark</li>
                       <li>Scala</li>                      
-                      <li>Dockers</li>
                       <li>Flink</li>
                       <li>Storm</li>
                       <li>Solr</li>
