@@ -2707,3 +2707,7 @@ background: -ms-linear-gradient(top, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 
 background: linear-gradient(to bottom, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 51%, rgba(37,136,186,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#157dbd', endColorstr='#2588ba', GradientType=0 );	
 }
+
+.workaddress {
+	font-size : 10px;
+}

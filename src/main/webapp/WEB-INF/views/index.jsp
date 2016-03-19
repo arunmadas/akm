@@ -710,7 +710,7 @@
                   <i class="fa fa-desktop service-icon"></i>
                   <h4 class="service-title">AT&T</h4>
                   <p class="summary"><a href="#">http://www.att.com</a> <br />
-                  1125 E Campbell Rd, Richardson, TX - 75081<br />
+                  <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br />
                   Senior Enterprise Applications Architect<br />
                   Duration : ~ 2 years (April 2014 - Current)<br /></p>
                 </div>
@@ -722,8 +722,8 @@
                   <i class="fa fa-paw service-icon"></i>
                   <h4 class="service-title">Active Network</h4>
                   <p class="summary"><a href="#">http://www.activenetwork.com</a><br />
-                  6363 N State Hwy 161, #200, Irving, TX - 75063<br />
-                  22530 Gateway Center Dr, #100, Clarksburg, MD - 20871<br />
+                  <span class="workaddress">6363 N State Hwy 161, #200, Irving, TX - 75063<br />
+                  22530 Gateway Center Dr, #100, Clarksburg, MD - 20871</span><br />
                   Senior Enterprise Applications Architect<br />
                   ~ 6 years (June 2008 - March 2014)</p>                  
                 </div>
