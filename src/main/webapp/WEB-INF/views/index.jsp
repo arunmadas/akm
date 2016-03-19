@@ -130,7 +130,7 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="#pricing-table">Technology Stack</a></li>                
-                <li><a href="blog-single-with-left-sidebar.html">Professional Experience</a></li>
+                <li><a href="#service">Professional Experience</a></li>
                 <li><a href="blog-single-with-right-sidebar.html">Certifications</a></li>
               </ul>
             </li>
@@ -477,216 +477,216 @@
   </section>
   <!-- End Pricing table -->  
   
-   <section id="about">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="title-area">
-            <h2 class="title">Overview</h2>
-            <span class="line"></span>
-            	<ul style="lineup">
-            		<li><img src="<c:url value="assets/images/techicons/java7.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/angularjs.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/aws.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/creately.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/ejb.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/emberjs.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/extjs.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/github.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/html/css3.png" />" /></li>
-            		<li><img src="<c:url value="assets/images/techicons/hibernate.png" />" /></li>
-	            	</ul>
-          </div>
-        </div>
-       </div>
-     </div>
-    </section>
+<!--    <section id="about"> -->
+<!--     <div class="container"> -->
+<!--       <div class="row"> -->
+<!--         <div class="col-md-12"> -->
+<!--           <div class="title-area"> -->
+<!--             <h2 class="title">Overview</h2> -->
+<!--             <span class="line"></span> -->
+<!--             	<ul style="lineup"> -->
+<%--             		<li><img src="<c:url value="assets/images/techicons/java7.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/angularjs.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/aws.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/creately.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/ejb.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/emberjs.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/extjs.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/github.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/html/css3.png" />" /></li> --%>
+<%--             		<li><img src="<c:url value="assets/images/techicons/hibernate.png" />" /></li> --%>
+<!-- 	            	</ul> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--        </div> -->
+<!--      </div> -->
+<!--     </section> -->
 
   <!-- Start about  -->
-  <section id="about">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="title-area">
-            <h2 class="title">About us</h2>
-            <span class="line"></span>
-            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
-          </div>
-        </div>
-        <div class="col-md-12">
-          <div class="about-content">
-            <div class="row">
-              <div class="col-md-6">
-                <div class="our-skill">
-                  <h3>Our Skills</h3>                  
-                  <div class="our-skill-content">
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
-                    <div class="progress">
-                      <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="100">
-                        <span class="progress-title">Html5</span>
-                      </div>
-                  </div>
-                  <div class="progress">
-                      <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="85">
-                        <span class="progress-title">Css3</span>
-                      </div>
-                  </div>
-                  <div class="progress">
-                      <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="70">
-                        <span class="progress-title">JQuery</span>
-                      </div>
-                  </div>
-                  <div class="progress">
-                      <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="60">
-                        <span class="progress-title">wordPress</span>
-                      </div>
-                  </div>
-                  <div class="progress">
-                      <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="40">
-                        <span class="progress-title">Php</span>
-                      </div>
-                  </div>
-                   <div class="progress">
-                      <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="25">
-                        <span class="progress-title">Java</span>
-                      </div>
-                  </div>
-                  </div>                  
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="why-choose-us">
-                  <h3>Why Choose Us?</h3>
-                  <div class="panel-group why-choose-group" id="accordion">
-                    <div class="panel panel-default">
-                      <div class="panel-heading">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                            Awesome Design Layout <span class="fa fa-minus-square"></span>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse collapse in">
-                        <div class="panel-body">
-                        <img class="why-choose-img" src="assets/images/testi1.jpg" alt="img">
-                         <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default ">
-                      <div class="panel-heading">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                            Quality Coding <span class="fa fa-plus-square"></span>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse collapse">
-                        <div class="panel-body">
-                         <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                            Great Support <span class="fa fa-plus-square"></span>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseThree" class="panel-collapse collapse">
-                        <div class="panel-body">
-                          <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>              
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+<!--   <section id="about"> -->
+<!--     <div class="container"> -->
+<!--       <div class="row"> -->
+<!--         <div class="col-md-12"> -->
+<!--           <div class="title-area"> -->
+<!--             <h2 class="title">About us</h2> -->
+<!--             <span class="line"></span> -->
+<!--             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--         <div class="col-md-12"> -->
+<!--           <div class="about-content"> -->
+<!--             <div class="row"> -->
+<!--               <div class="col-md-6"> -->
+<!--                 <div class="our-skill"> -->
+<!--                   <h3>Our Skills</h3>                   -->
+<!--                   <div class="our-skill-content"> -->
+<!--                   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p> -->
+<!--                     <div class="progress"> -->
+<!--                       <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="100"> -->
+<!--                         <span class="progress-title">Html5</span> -->
+<!--                       </div> -->
+<!--                   </div> -->
+<!--                   <div class="progress"> -->
+<!--                       <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="85"> -->
+<!--                         <span class="progress-title">Css3</span> -->
+<!--                       </div> -->
+<!--                   </div> -->
+<!--                   <div class="progress"> -->
+<!--                       <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="70"> -->
+<!--                         <span class="progress-title">JQuery</span> -->
+<!--                       </div> -->
+<!--                   </div> -->
+<!--                   <div class="progress"> -->
+<!--                       <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="60"> -->
+<!--                         <span class="progress-title">wordPress</span> -->
+<!--                       </div> -->
+<!--                   </div> -->
+<!--                   <div class="progress"> -->
+<!--                       <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="40"> -->
+<!--                         <span class="progress-title">Php</span> -->
+<!--                       </div> -->
+<!--                   </div> -->
+<!--                    <div class="progress"> -->
+<!--                       <div class="progress-bar six-sec-ease-in-out" role="progressbar" data-transitiongoal="25"> -->
+<!--                         <span class="progress-title">Java</span> -->
+<!--                       </div> -->
+<!--                   </div> -->
+<!--                   </div>                   -->
+<!--                 </div> -->
+<!--               </div> -->
+<!--               <div class="col-md-6"> -->
+<!--                 <div class="why-choose-us"> -->
+<!--                   <h3>Why Choose Us?</h3> -->
+<!--                   <div class="panel-group why-choose-group" id="accordion"> -->
+<!--                     <div class="panel panel-default"> -->
+<!--                       <div class="panel-heading"> -->
+<!--                         <h4 class="panel-title"> -->
+<!--                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne"> -->
+<!--                             Awesome Design Layout <span class="fa fa-minus-square"></span> -->
+<!--                           </a> -->
+<!--                         </h4> -->
+<!--                       </div> -->
+<!--                       <div id="collapseOne" class="panel-collapse collapse in"> -->
+<!--                         <div class="panel-body"> -->
+<!--                         <img class="why-choose-img" src="assets/images/testi1.jpg" alt="img"> -->
+<!--                          <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p> -->
+<!--                         </div> -->
+<!--                       </div> -->
+<!--                     </div> -->
+<!--                     <div class="panel panel-default "> -->
+<!--                       <div class="panel-heading"> -->
+<!--                         <h4 class="panel-title"> -->
+<!--                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo"> -->
+<!--                             Quality Coding <span class="fa fa-plus-square"></span> -->
+<!--                           </a> -->
+<!--                         </h4> -->
+<!--                       </div> -->
+<!--                       <div id="collapseTwo" class="panel-collapse collapse"> -->
+<!--                         <div class="panel-body"> -->
+<!--                          <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p> -->
+<!--                         </div> -->
+<!--                       </div> -->
+<!--                     </div> -->
+<!--                     <div class="panel panel-default"> -->
+<!--                       <div class="panel-heading"> -->
+<!--                         <h4 class="panel-title"> -->
+<!--                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree"> -->
+<!--                             Great Support <span class="fa fa-plus-square"></span> -->
+<!--                           </a> -->
+<!--                         </h4> -->
+<!--                       </div> -->
+<!--                       <div id="collapseThree" class="panel-collapse collapse"> -->
+<!--                         <div class="panel-body"> -->
+<!--                           <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p> -->
+<!--                         </div> -->
+<!--                       </div> -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--               </div>               -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--       </div> -->
+<!--     </div> -->
+<!--   </section> -->
   <!-- end about -->
 
   <!-- Start counter -->
-  <section id="counter">
-    <div class="counter-overlay">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="counter-area">
-              <div class="row">
-                <!-- Start single counter -->
-                <div class="col-md-3 col-sm-6">
-                  <div class="single-counter">
-                    <div class="counter-icon">
-                      <i class="fa fa-suitcase"></i>
-                    </div>
-                    <div class="counter-no counter">
-                      1275
-                    </div>
-                    <div class="counter-label">
-                      Projects
-                    </div>
-                  </div>
-                </div>
-                <!-- End single counter -->
-                <!-- Start single counter -->
-                <div class="col-md-3 col-sm-6">
-                  <div class="single-counter">
-                    <div class="counter-icon">
-                      <i class="fa fa-clock-o"></i>
-                    </div>
-                    <div class="counter-no counter">
-                      5275
-                    </div>
-                    <div class="counter-label">
-                      Hours Work
-                    </div>
-                  </div>
-                </div>
-                <!-- End single counter -->
-                <!-- Start single counter -->
-                <div class="col-md-3 col-sm-6">
-                 <div class="single-counter">
-                    <div class="counter-icon">
-                      <i class="fa fa-trophy"></i>
-                    </div>
-                    <div class="counter-no counter">
-                      350
-                    </div>
-                    <div class="counter-label">
-                      Awards
-                    </div>
-                  </div>
-                </div>
-                <!-- End single counter -->
-                <!-- Start single counter -->
-                <div class="col-md-3 col-sm-6">
-                  <div class="single-counter">
-                    <div class="counter-icon">
-                      <i class="fa fa-users"></i>
-                    </div>
-                    <div class="counter-no counter">
-                      875
-                    </div>
-                    <div class="counter-label">
-                      Clients
-                    </div>
-                  </div>
-                </div>
-                <!-- End single counter -->
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+<!--   <section id="counter"> -->
+<!--     <div class="counter-overlay"> -->
+<!--       <div class="container"> -->
+<!--         <div class="row"> -->
+<!--           <div class="col-md-12"> -->
+<!--             <div class="counter-area"> -->
+<!--               <div class="row"> -->
+<!--                 Start single counter -->
+<!--                 <div class="col-md-3 col-sm-6"> -->
+<!--                   <div class="single-counter"> -->
+<!--                     <div class="counter-icon"> -->
+<!--                       <i class="fa fa-suitcase"></i> -->
+<!--                     </div> -->
+<!--                     <div class="counter-no counter"> -->
+<!--                       1275 -->
+<!--                     </div> -->
+<!--                     <div class="counter-label"> -->
+<!--                       Projects -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--                 End single counter -->
+<!--                 Start single counter -->
+<!--                 <div class="col-md-3 col-sm-6"> -->
+<!--                   <div class="single-counter"> -->
+<!--                     <div class="counter-icon"> -->
+<!--                       <i class="fa fa-clock-o"></i> -->
+<!--                     </div> -->
+<!--                     <div class="counter-no counter"> -->
+<!--                       5275 -->
+<!--                     </div> -->
+<!--                     <div class="counter-label"> -->
+<!--                       Hours Work -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--                 End single counter -->
+<!--                 Start single counter -->
+<!--                 <div class="col-md-3 col-sm-6"> -->
+<!--                  <div class="single-counter"> -->
+<!--                     <div class="counter-icon"> -->
+<!--                       <i class="fa fa-trophy"></i> -->
+<!--                     </div> -->
+<!--                     <div class="counter-no counter"> -->
+<!--                       350 -->
+<!--                     </div> -->
+<!--                     <div class="counter-label"> -->
+<!--                       Awards -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--                 End single counter -->
+<!--                 Start single counter -->
+<!--                 <div class="col-md-3 col-sm-6"> -->
+<!--                   <div class="single-counter"> -->
+<!--                     <div class="counter-icon"> -->
+<!--                       <i class="fa fa-users"></i> -->
+<!--                     </div> -->
+<!--                     <div class="counter-no counter"> -->
+<!--                       875 -->
+<!--                     </div> -->
+<!--                     <div class="counter-label"> -->
+<!--                       Clients -->
+<!--                     </div> -->
+<!--                   </div> -->
+<!--                 </div> -->
+<!--                 End single counter -->
+<!--               </div> -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--       </div> -->
+<!--     </div> -->
+<!--   </section> -->
   <!-- End counter -->
 
 
@@ -696,9 +696,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
-            <h2 class="title">Our Services</h2>
+            <h2 class="title">Experience Summary</h2>
             <span class="line"></span>
-            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+            <p>This is where i got my hands dirty and met some of the best talents in the industry and nurtured every opportunity at hand</p>
           </div>
         </div>
         <div class="col-md-12">
@@ -708,8 +708,11 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-desktop service-icon"></i>
-                  <h4 class="service-title">Web Development</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <h4 class="service-title">AT&T</h4>
+                  <p class="summary">Location : 1125 E Campbell Rd, Richardson, TX - 75081</p>
+                  <p class="summary">Role : Senior Enterprise Applications Architect</p>
+                  <p class="summary">Duration : ~ 2 years (April 2014 - Current)</p>
+                  <p class="summary"><a href="#">http://www.att.com</a></p>
                 </div>
               </div>
               <!-- End single service -->
@@ -717,8 +720,12 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-paw service-icon"></i>
-                  <h4 class="service-title">Digital Design</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <h4 class="service-title">Active Network</h4>
+                  <p class="summary">Location : 6363 N State Hwy 161, Suite 200, Irving, TX - 75063</p>
+                  <p class="summary">Location : 22530 Gateway Center Dr, Suite 100, Clarksburg, MD – 20871</p>
+                  <p class="summary">Role : Senior Enterprise Applications Architect</p>
+                  <p class="summary">Duration : ~ 6 years (June 2008 - March 2014)</p>
+                  <p class="summary"><a href="#">http://www.activenetwork.com</a></p>
                 </div>
               </div>
               <!-- End single service -->
@@ -726,8 +733,10 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-magic service-icon"></i>
-                  <h4 class="service-title">Marketing</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <h4 class="service-title">Adobe</h4>
+                  <p class="summary">Role : Lead / Senior Software Engineer</p>
+                  <p class="summary">Duration : ~ 3 years (Sep 2005 - May 2008)</p>
+                  <p class="summary"><a href="#">http://www.adobe.com</a></p>
                 </div>
               </div>
               <!-- End single service -->
@@ -735,8 +744,10 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-shopping-cart service-icon"></i>
-                  <h4 class="service-title">E-commerce</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <h4 class="service-title">Pramati</h4>
+                  <p class="summary">Role : Software Engineer</p>
+                  <p class="summary">Duration : ~ 3 Months (June 2005 - Sep 2005)</p>
+                  <p class="summary"><a href="#">http://www.pramati.com</a></p>
                 </div>
               </div>
               <!-- End single service -->
@@ -744,19 +755,21 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-mobile service-icon"></i>
-                  <h4 class="service-title">App Development</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <h4 class="service-title">Reflexis</h4>
+                  <p class="summary">Role : Software Engineer</p>
+                  <p class="summary">Duration : 1 year (May 2004 - June 2005)</p>
+                  <p class="summary"><a href="#">http://www.reflexisinc.com</a></p>
                 </div>
               </div>
               <!-- End single service -->
               <!-- Start single service -->
-              <div class="col-md-4 col-sm-6">
-                <div class="single-service wow zoomIn">
-                  <i class="fa fa-rocket service-icon"></i>
-                  <h4 class="service-title">S.E.O</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
-                </div>
-              </div>
+<!--               <div class="col-md-4 col-sm-6"> -->
+<!--                 <div class="single-service wow zoomIn"> -->
+<!--                   <i class="fa fa-rocket service-icon"></i> -->
+<!--                   <h4 class="service-title">S.E.O</h4> -->
+<!--                   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p> -->
+<!--                 </div> -->
+<!--               </div> -->
               <!-- End single service -->
             </div>
           </div>
