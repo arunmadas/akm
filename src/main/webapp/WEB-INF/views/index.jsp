@@ -696,7 +696,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
-            <h2 class="title">Where I Grew:</h2>
+            <h2 class="title">Work Place:</h2>
             <span class="line"></span>
             <p>This is where i got my hands dirty and met some of the best talents in the industry and nurtured every opportunity at hand</p>
           </div>
@@ -707,7 +707,7 @@
               <!-- Start single service -->
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
-                  <i><img src="<c:url value="assets/images/techicons/attlogo.png" />" /></i>
+                  <i class="fa service-icon"><img src="<c:url value="assets/images/techicons/attlogo.png" />" /></i>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
                   <a href="#">http://www.att.com</a> <br />
 <!--                   <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br /> -->
