@@ -734,9 +734,10 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-magic service-icon"></i>
                   <h4 class="service-title">Adobe</h4>
-                  <p class="summary">Role : Lead / Senior Software Engineer</p>
-                  <p class="summary">Duration : ~ 3 years (Sep 2005 - May 2008)</p>
-                  <p class="summary"><a href="#">http://www.adobe.com</a></p>
+                  <p class="summary"><a href="#">http://www.adobe.com</a><br />
+                  Lead / Senior Software Engineer<br />
+                  Duration : ~ 3 years (Sep 2005 - May 2008)<br />
+                  </p>
                 </div>
               </div>
               <!-- End single service -->
@@ -745,9 +746,10 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-shopping-cart service-icon"></i>
                   <h4 class="service-title">Pramati</h4>
-                  <p class="summary">Role : Software Engineer</p>
-                  <p class="summary">Duration : ~ 3 Months (June 2005 - Sep 2005)</p>
-                  <p class="summary"><a href="#">http://www.pramati.com</a></p>
+                  <p class="summary"><a href="#">http://www.pramati.com</a> <br />
+                  Software Engineer<br />
+                  Duration : ~ 3 Months (June 2005 - Sep 2005)<br />
+                  </p>                  
                 </div>
               </div>
               <!-- End single service -->
@@ -756,9 +758,10 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-mobile service-icon"></i>
                   <h4 class="service-title">Reflexis</h4>
-                  <p class="summary">Role : Software Engineer</p>
-                  <p class="summary">Duration : 1 year (May 2004 - June 2005)</p>
-                  <p class="summary"><a href="#">http://www.reflexisinc.com</a></p>
+                  <p class="summary"><a href="#">http://www.reflexisinc.com</a><br />
+                  Software Engineer<br />
+                  Duration : 1 year (May 2004 - June 2005)<br />
+                  </p>                  
                 </div>
               </div>
               <!-- End single service -->
@@ -766,8 +769,11 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-rocket service-icon"></i>
-                  <h4 class="service-title">S.E.O</h4>
-                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                  <h4 class="service-title">Gallop</h4>
+                  <p class="summary"><a href="#">http://www.galloptech.com</a><br />
+                  Big Data Architect / Data Scentist<br />
+                  Duration : 6 years (July 2010 - Current)<br />
+                  </p>                  
                 </div>
               </div>
               <!-- End single service -->
