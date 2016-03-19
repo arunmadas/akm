@@ -273,42 +273,42 @@
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-leaf feature-icon"></i>
                   <h4 class="feat-title">Enterprise Applications Architecture</h4>
-                  <p>Extensively regressed through multiple facets of software development life cycle processes with Java/JEE Stack. Played crucial roles in negotiating and discussing with business management, clients, Product management including Directors and senior Directors on in-depth requirements and translating them into viable and scalable architectual solutions. Contributin from very high level to very low level designs to accomplish the business client needs into working real time solutions.</p>
+                  <p class="summary">Extensively regressed through multiple facets of software development life cycle processes with Java/JEE Stack. Played crucial roles in negotiating and discussing with business management, clients, Product management including Directors and senior Directors on in-depth requirements and translating them into viable and scalable architectual solutions. Contributin from very high level to very low level designs to accomplish the business client needs into working real time solutions.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-mobile feature-icon"></i>
                   <h4 class="feat-title">Big Data Architecture</h4>
-                  <p>In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch to Streaming to real time data jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. Bringing the power of the Big Data Stack to solve your ETL and Applications scalability problems. Professionally Certified Expert in Big Data Stack.</p>
+                  <p class="summary">In-depth understanding of Big Data Architectures from Gen1 Hadoop to Gen2 Hadoop Map Reduce to Gen3 Spark to Gen4 Apache Flink for Batch to Streaming to real time data jobs. Architecting Scalable Distributed Architectures in NoSQL datastore using Cassandra, MongoDB, HBase, Dynamo, Couch etc. Bringing the power of the Big Data Stack to solve your ETL and Applications scalability problems. Professionally Certified Expert in Big Data Stack.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-thumbs-o-up feature-icon"></i>
                   <h4 class="feat-title">Data Science & Machine Learning</h4>
-                  <p>Experience with Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc. on publicly available data repositories. From Data Aquisition to sanitization of data and then to Explorate Data with multi-tude of graphs and charts to applying verious machine learning alogithms to predict the outcomes and possibilities based on the real data at hand. Data Analysis and machine learning techniques form input to corrections to your business processes and yeild success.</p>
+                  <p class="summary">Experience with Data Science, Machine Learning and Analytics with tools like SAS, R, Python, MLib etc. on publicly available data repositories. From Data Aquisition to sanitization of data and then to Explorate Data with multi-tude of graphs and charts to applying verious machine learning alogithms to predict the outcomes and possibilities based on the real data at hand. Data Analysis and machine learning techniques form input to corrections to your business processes and yeild success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-gears feature-icon"></i>
                   <h4 class="feat-title">Architecture & Solutioning</h4>
-                  <p>From being a creative user interface assets creation expert using Adobe Photoshop and Adobe Illustrator to designing your workflows and regressing your requirements to translate them into business user scenarios, use case diagrams, flow charts and diagrams, component architecture diagrams, client server request processing charts, algorithm outlines, process maps and charts, state transition diagrams, class architecture diagrams. Establishing the rules set by Gang of Four design patterns at all aspects of architecture. Hands-on Solutioning and solving your unknowns and unfolding your critical business discussions is critical to achieving overall success.</p>
+                  <p class="summary">From being a creative user interface assets creation expert using Adobe Photoshop and Adobe Illustrator to designing your workflows and regressing your requirements to translate them into business user scenarios, use case diagrams, flow charts and diagrams, component architecture diagrams, client server request processing charts, algorithm outlines, process maps and charts, state transition diagrams, class architecture diagrams. Establishing the rules set by Gang of Four design patterns at all aspects of architecture. Hands-on Solutioning and solving your unknowns and unfolding your critical business discussions is critical to achieving overall success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-code feature-icon"></i>
                   <h4 class="feat-title">Management & Leadership</h4>
-                  <p>Proven skills of being a manager to guide your team to do things right to being a leader to provide direction, building an inspiring vision for future and laying out the future path to innovate and walk into success with your teams and business units and entire organization. Ability to perform PEST Analysis, USP Analysis and SWOT Analysis to identify overall high level future vision. Providing Motivation and inspiration to people, Coach them to build and achieve the vision for the organization is key to being a leader and driving people around you and as a whole into success.</p>
+                  <p class="summary">Proven skills of being a manager to guide your team to do things right to being a leader to provide direction, building an inspiring vision for future and laying out the future path to innovate and walk into success with your teams and business units and entire organization. Ability to perform PEST Analysis, USP Analysis and SWOT Analysis to identify overall high level future vision. Providing Motivation and inspiration to people, Coach them to build and achieve the vision for the organization is key to being a leader and driving people around you and as a whole into success.</p>
                 </div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="single-feature wow zoomIn">
                   <i class="fa fa-smile-o feature-icon"></i>
                   <h4 class="feat-title">Startup & Principles</h4>
-                  <p>I believe in startup environment where one person can do multiple things. Having started a few stealth mode startups and going through an intense multi-hat multi-role person only takes you leaps and bounds ahead into success. Strong believer of Ideas come from every cornor of the company and nurturing the right idea and execution is key at every aspect. I would rather try and fail than not try, Thomas Edision failed 1000 times before he invented bulb and the belief of finding 1000 ways of not doing bulb is the key. The key to success lies in believing in your vision and working towards achieving it.</p>
+                  <p class="summary">I believe in startup environment where one person can do multiple things. Having started a few stealth mode startups and going through an intense multi-hat multi-role person only takes you leaps and bounds ahead into success. Strong believer of Ideas come from every cornor of the company and nurturing the right idea and execution is key at every aspect. I would rather try and fail than not try, Thomas Edision failed 1000 times before he invented bulb and the belief of finding 1000 ways of not doing bulb is the key. The key to success lies in believing in your vision and working towards achieving it.</p>
                 </div>
               </div>
             </div>
@@ -406,9 +406,7 @@
                   <div class="price-header">
                     <span class="price-title">Data Science</span>
                     <div class="price">
-<!--                       <sup class="price-up">$</sup> -->
                       R / SAS / Python
-<!--                       <span class="price-down">/mo</span> -->
                     </div>
                   </div>
                   <div class="price-article">
@@ -442,9 +440,7 @@
                   <div class="price-header">
                     <span class="price-title">Mgmt/Leadership <br /></span>
                     <div class="price">
-<!--                       <sup class="price-up">$</sup> -->
                       Entrepeneur
-<!--                       <span class="price-down">/mo</span> -->
                     </div>
                   </div>
                   <div class="price-article">
