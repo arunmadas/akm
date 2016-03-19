@@ -708,7 +708,6 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa service-icon attlogo"></i>
-                  <h4 class="service-title">AT&T</h4>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
                   <a href="#">http://www.att.com</a> <br />
 <!--                   <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br /> -->
@@ -721,7 +720,6 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-paw service-icon"></i>
-                  <h4 class="service-title">Active Network</h4>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/active.png" />" /> <br />
                   <a href="#">http://www.activenetwork.com</a><br />
 <!--                   <span class="workaddress">6363 N State Hwy 161, #200, Irving, TX - 75063; 22530 Gateway Center Dr, #100, Clarksburg, MD - 20871</span><br /> -->
@@ -734,7 +732,6 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-magic service-icon"></i>
-                  <h4 class="service-title">Adobe</h4>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/adobe.png" />" /> <br />
                   <a href="#">http://www.adobe.com</a><br />
                   Lead / Senior Software Engineer<br />
@@ -748,7 +745,6 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-shopping-cart service-icon"></i>
-                  <h4 class="service-title">Pramati</h4>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/pramati.png" />" /> <br />
                   <a href="#">http://www.pramati.com</a> <br />
                   Software Engineer<br />
@@ -761,7 +757,6 @@
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-mobile service-icon"></i>
-                  <h4 class="service-title">Reflexis</h4>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/reflexis.png" />" /> <br />
                   <a href="#">http://www.reflexisinc.com</a><br />
                   Software Engineer<br />
@@ -773,8 +768,7 @@
               <!-- Start single service -->
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
-                  <i class="fa fa-rocket service-icon"></i>
-                  <h4 class="service-title">Gallop</h4>
+                  <i class="fa fa-rocket fa-cubes service-icon"></i>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/gallop.png" />" /> <br />
                   <a href="#">http://www.galloptech.com</a><br />
                   Big Data Architect / Data Scentist<br />
