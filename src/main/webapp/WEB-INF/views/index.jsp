@@ -710,9 +710,9 @@
                   <i class="fa fa-desktop service-icon"></i>
                   <h4 class="service-title">AT&T</h4>
                   <p class="summary"><a href="#">http://www.att.com</a> <br />
-                  <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br />
+<!--                   <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br /> -->
                   Senior Enterprise Applications Architect<br />
-                  Duration : ~ 2 years (April 2014 - Current)<br /></p>
+                  Duration : ~ 2 yrs (Apr 2014 - Current)<br /></p>
                 </div>
               </div>
               <!-- End single service -->
@@ -722,9 +722,9 @@
                   <i class="fa fa-paw service-icon"></i>
                   <h4 class="service-title">Active Network</h4>
                   <p class="summary"><a href="#">http://www.activenetwork.com</a><br />
-                  <span class="workaddress">6363 N State Hwy 161, #200, Irving, TX - 75063; 22530 Gateway Center Dr, #100, Clarksburg, MD - 20871</span><br />
+<!--                   <span class="workaddress">6363 N State Hwy 161, #200, Irving, TX - 75063; 22530 Gateway Center Dr, #100, Clarksburg, MD - 20871</span><br /> -->
                   Senior Enterprise Applications Architect<br />
-                  ~ 6 years (June 2008 - March 2014)</p>                  
+                  Duration : ~ 6 yrs (Jun 2008 - Mar 2014)</p>                  
                 </div>
               </div>
               <!-- End single service -->
@@ -735,8 +735,8 @@
                   <h4 class="service-title">Adobe</h4>
                   <p class="summary"><a href="#">http://www.adobe.com</a><br />
                   Lead / Senior Software Engineer<br />
-                  Adobe Dreamweaver / Adobe Flex / Adobe Coldfusion <br />
-                  Duration : ~ 3 years (Sep 2005 - May 2008)<br />
+<!--                   Adobe Dreamweaver / Adobe Flex / Adobe Coldfusion <br /> -->
+                  Duration : ~ 3 yrs (Sep 2005 - May 2008)<br />
                   </p>
                 </div>
               </div>
