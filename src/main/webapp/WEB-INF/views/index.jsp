@@ -401,7 +401,7 @@
                   </div>
                 </div>
               <div class="col-md-3 col-sm-6 col-xs-12">
-                <div class="single-table-price featured-price wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
+                <div class="single-table-price wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
                   <div class="price-header">
                     <span class="price-title">Data Science</span>
                     <div class="price">
