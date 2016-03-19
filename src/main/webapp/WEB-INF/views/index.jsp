@@ -321,7 +321,7 @@
   
     <!-- Start techstack -->
   <section id="pricing-table">
-    <div class="container bluegradient">
+    <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">

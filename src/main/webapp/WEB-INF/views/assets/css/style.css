@@ -705,7 +705,15 @@ img{
 /*--------------------*/
 
 #about{
-	background-color: #f8f8f8;
+	/*background-color: #f8f8f8;*/
+	background: rgba(206,217,216,1);
+	background: -moz-linear-gradient(top, rgba(206,217,216,1) 0%, rgba(223,235,233,1) 47%, rgba(239,240,232,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(206,217,216,1)), color-stop(47%, rgba(223,235,233,1)), color-stop(100%, rgba(239,240,232,1)));
+	background: -webkit-linear-gradient(top, rgba(206,217,216,1) 0%, rgba(223,235,233,1) 47%, rgba(239,240,232,1) 100%);
+	background: -o-linear-gradient(top, rgba(206,217,216,1) 0%, rgba(223,235,233,1) 47%, rgba(239,240,232,1) 100%);
+	background: -ms-linear-gradient(top, rgba(206,217,216,1) 0%, rgba(223,235,233,1) 47%, rgba(239,240,232,1) 100%);
+	background: linear-gradient(to bottom, rgba(206,217,216,1) 0%, rgba(223,235,233,1) 47%, rgba(239,240,232,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ced9d8', endColorstr='#eff0e8', GradientType=0 );	
 	display: inline;
 	float: left;
 	padding: 70px 0;
@@ -987,7 +995,15 @@ img{
 
 
 #pricing-table{
-	background-color: #f8f8f8;
+	/*background-color: #f8f8f8;*/
+	background: rgba(192,192,194,1);
+	background: -moz-linear-gradient(top, rgba(192,192,194,1) 0%, rgba(136,137,138,1) 51%, rgba(134,135,136,1) 51%, rgba(192,192,194,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(192,192,194,1)), color-stop(51%, rgba(136,137,138,1)), color-stop(51%, rgba(134,135,136,1)), color-stop(100%, rgba(192,192,194,1)));
+	background: -webkit-linear-gradient(top, rgba(192,192,194,1) 0%, rgba(136,137,138,1) 51%, rgba(134,135,136,1) 51%, rgba(192,192,194,1) 100%);
+	background: -o-linear-gradient(top, rgba(192,192,194,1) 0%, rgba(136,137,138,1) 51%, rgba(134,135,136,1) 51%, rgba(192,192,194,1) 100%);
+	background: -ms-linear-gradient(top, rgba(192,192,194,1) 0%, rgba(136,137,138,1) 51%, rgba(134,135,136,1) 51%, rgba(192,192,194,1) 100%);
+	background: linear-gradient(to bottom, rgba(192,192,194,1) 0%, rgba(136,137,138,1) 51%, rgba(134,135,136,1) 51%, rgba(192,192,194,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c0c0c2', endColorstr='#c0c0c2', GradientType=0 );	
 	display: inline;
 	float: left;
 	padding: 70px 0;
