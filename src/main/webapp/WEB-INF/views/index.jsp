@@ -696,7 +696,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
-            <h2 class="title">Experience Summary</h2>
+            <h2 class="title">Where I Grew:</h2>
             <span class="line"></span>
             <p>This is where i got my hands dirty and met some of the best talents in the industry and nurtured every opportunity at hand</p>
           </div>
@@ -709,10 +709,10 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-desktop service-icon"></i>
                   <h4 class="service-title">AT&T</h4>
-                  <p class="summary">Location : 1125 E Campbell Rd, Richardson, TX - 75081</p>
-                  <p class="summary">Role : Senior Enterprise Applications Architect</p>
-                  <p class="summary">Duration : ~ 2 years (April 2014 - Current)</p>
-                  <p class="summary"><a href="#">http://www.att.com</a></p>
+                  <p class="summary"><a href="#">http://www.att.com</a> <br />
+                  Location : 1125 E Campbell Rd, Richardson, TX - 75081<br />
+                  Senior Enterprise Applications Architect<br />
+                  Duration : ~ 2 years (April 2014 - Current)<br /></p>
                 </div>
               </div>
               <!-- End single service -->
@@ -721,11 +721,11 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa fa-paw service-icon"></i>
                   <h4 class="service-title">Active Network</h4>
-                  <p class="summary">Location : 6363 N State Hwy 161, Suite 200, Irving, TX - 75063</p>
-                  <p class="summary">Location : 22530 Gateway Center Dr, Suite 100, Clarksburg, MD – 20871</p>
-                  <p class="summary">Role : Senior Enterprise Applications Architect</p>
-                  <p class="summary">Duration : ~ 6 years (June 2008 - March 2014)</p>
-                  <p class="summary"><a href="#">http://www.activenetwork.com</a></p>
+                  <p class="summary"><a href="#">http://www.activenetwork.com</a><br />
+                  Location : 6363 N State Hwy 161, Suite 200, Irving, TX - 75063<br />
+                  Location : 22530 Gateway Center Dr, Suite 100, Clarksburg, MD – 20871<br />
+                  Senior Enterprise Applications Architect<br />
+                  Duration : ~ 6 years (June 2008 - March 2014)</p>                  
                 </div>
               </div>
               <!-- End single service -->
@@ -763,13 +763,13 @@
               </div>
               <!-- End single service -->
               <!-- Start single service -->
-<!--               <div class="col-md-4 col-sm-6"> -->
-<!--                 <div class="single-service wow zoomIn"> -->
-<!--                   <i class="fa fa-rocket service-icon"></i> -->
-<!--                   <h4 class="service-title">S.E.O</h4> -->
-<!--                   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p> -->
-<!--                 </div> -->
-<!--               </div> -->
+              <div class="col-md-4 col-sm-6">
+                <div class="single-service wow zoomIn">
+                  <i class="fa fa-rocket service-icon"></i>
+                  <h4 class="service-title">S.E.O</h4>
+                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</p>
+                </div>
+              </div>
               <!-- End single service -->
             </div>
           </div>
