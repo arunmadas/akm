@@ -321,13 +321,13 @@
   
     <!-- Start techstack -->
   <section id="pricing-table">
-    <div class="container">
+    <div class="container bluegradient">
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
             <h2 class="title">Technical Skill</h2>
             <span class="line"></span>
-            <p>From Enterprise Applications Architecture to Big Data Architecture to Data Science and Machine Learning to starting up, here is some of the technology stack that i use on a day to day basis</p>
+            <p class="summary">From Enterprise Applications Architecture to Big Data Architecture to Data Science and Machine Learning to starting up, here is some of the technology stack that i use on a day to day basis : </p>
           </div>
         </div>
         <div class="col-md-12">

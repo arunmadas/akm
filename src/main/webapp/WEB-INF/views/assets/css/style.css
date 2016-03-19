@@ -2680,3 +2680,14 @@ img{
 	float : left;
 	overflow : auto;
 }
+
+.bluegradient {
+background: rgba(21,125,189,1);
+background: -moz-linear-gradient(top, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 51%, rgba(37,136,186,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(21,125,189,1)), color-stop(51%, rgba(102,172,204,1)), color-stop(100%, rgba(37,136,186,1)));
+background: -webkit-linear-gradient(top, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 51%, rgba(37,136,186,1) 100%);
+background: -o-linear-gradient(top, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 51%, rgba(37,136,186,1) 100%);
+background: -ms-linear-gradient(top, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 51%, rgba(37,136,186,1) 100%);
+background: linear-gradient(to bottom, rgba(21,125,189,1) 0%, rgba(102,172,204,1) 51%, rgba(37,136,186,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#157dbd', endColorstr='#2588ba', GradientType=0 );	
+}
