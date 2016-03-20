@@ -137,7 +137,7 @@
               <ul class="dropdown-menu" role="menu">
                 <li><a href="#pricing-table">Technology Stack</a></li>                
                 <li><a href="#service">Professional Experience</a></li>
-                <li><a href="blog-single-with-right-sidebar.html">Certifications</a></li>
+                <li><a href="#certifications">Certifications</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -986,7 +986,7 @@
   
   
     <!-- Start about  -->
-  <section id="about">
+  <section id="certifications">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
