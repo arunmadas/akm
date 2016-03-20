@@ -666,9 +666,25 @@
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/ps.jpg"/>"></li>
             	</ul>
+            </div>
             <br />
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
+            <div>
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/html.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/js.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/jquery.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/semantic.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/angular.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/ember.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/extjs.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/react.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/node.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/bootstrap.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/wowjs.jpg"/>"></li>
+            	</ul>
+            </div>
             <br />
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
