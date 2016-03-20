@@ -2725,12 +2725,12 @@ background-image:url("assets/images/techicons/attlogo.png");
 }
 
 .iconslist li{
-display: inline;
-list-style-type: none;
-padding-right: 5px;
-padding-top: 5px;
-padding-bottom: 5px;
-padding-left: 5px;
+/* display: inline; */
+/* list-style-type: none; */
+/* padding-right: 5px; */
+/* padding-top: 5px; */
+/* padding-bottom: 5px; */
+/* padding-left: 5px; */
 float: left;
 overflow:auto;
 }
