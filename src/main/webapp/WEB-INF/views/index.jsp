@@ -700,7 +700,37 @@
 	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/java7.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jee.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jms.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/struts.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/spring.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/hibernate.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/ejb.jpg"/>"></li>
+            	</ul>
+            </div>
+            <div style="clear:both"></div>
+            <div class="logotop"></div>            
+            <span class="line"></span>
+            <p>Databases</p>
+            <br />
+			<div class="logotop">
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/db/oracle.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/db/mysql.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/db/sqlserver.jpg"/>"></li>
+            	</ul>
+            </div>
+            <div style="clear:both"></div>
+            <div class="logotop"></div>            
+            <span class="line"></span>
+            <p>Configuration</p>
+            <br />
+			<div class="logotop">
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/config/svn.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/config/git.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/config/github.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/config/maven.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/config/jenkins.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/config/sonar.jpg"/>"></li>
             	</ul>
             </div>
             <div style="clear:both"></div>
@@ -711,57 +741,7 @@
             <span class="line"></span>
             <p>Business Processes / Project Methodologies</p>
           </div>
-        </div>
-        <div class="col-md-12">
-          <div class="service-content">
-            <div class="row">
-              <!-- Start single service -->
-              <div class="col-sm-12">
-                <div class="single-service wow bounceInRight">
-				  <i class="fa fa-desktop service-icon"></i>
-                  <h4>Enterprise Applications</h4>
-                  <ul class="fa-ul">
-                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Java Programmer, v1.5</li>
-                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Web Component Developer (Java Server Pages / Java Servlets), EE v1.4</li>
-                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Webservices Developer (SOAP / REST / JAXWS), EE 1.4</li>
-                  	<li><i class="fa-li fa fa-check-square"></i>Adobe Certified Expert ::  Flex Developer (v2), Flex with AIR Developer (v3)</li>
-                  	<li><i class="fa-li fa fa-check-square"></i>Adobe Certified Expert ::  Flash Developer v8, Dreamweaver</li>                   	
-                  </ul>
-                </div>
-              </div>
-              <!-- End single service -->
-              <!-- Start single service -->
-              <div class="col-sm-12">
-                <div class="single-service wow bounceInLeft">
-                  <i class="fa service-icon fa-cubes"></i>
-                  <h4>Big Data</h4>
-                  <ul class="fa-ul">
-                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for DBA's - MongoDB University (earlier 10gen Education)</li>
-                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for Java Developers - MongoDB University (earlier 10gen Education)</li>
-                  <li><i class="fa-li fa fa-check-square"></i>Datastax Training Completed : Cassandra for Java Developer (CAS101)</li>
-                  </ul>                  
-                </div>
-              </div>
-              <!-- End single service -->
-               <div class="col-sm-12">
-                <div class="single-service wow bounceInDown">
-                  <i class="fa service-icon fa-line-chart"></i>
-                  <h4>Data Science</h4>
-                  <ul class="fa-ul">
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: The Data Scientist's Toolbox</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: R Programming</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Getting and Cleaning Data</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Exploratory Data Analysis</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Reproducible Research</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Statistical Inference</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Regression Models</li>
-                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Pratical Machine Learning</li>
-                  </ul>                  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        </div>        
       </div>
     </div>
   </section>
