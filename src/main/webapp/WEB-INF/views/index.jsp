@@ -1023,13 +1023,29 @@
                   <i class="fa service-icon fa-cubes"></i>
                   <h4>Big Data</h4>
                   <ul class="fa-ul">
-                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for DBA’s – MongoDB University (earlier 10gen Education)</li>
-                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for Java Developers – MongoDB University (earlier 10gen Education)</li>
+                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for DBA's - MongoDB University (earlier 10gen Education)</li>
+                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for Java Developers - MongoDB University (earlier 10gen Education)</li>
                   <li><i class="fa-li fa fa-check-square"></i>Datastax Training Completed : Cassandra for Java Developer (CAS101)</li>
                   </ul>                  
                 </div>
               </div>
               <!-- End single service -->
+               <div class="col-sm-12">
+                <div class="single-service wow zoomIn">
+                  <i class="fa service-icon fa-cubes"></i>
+                  <h4>Data Science</h4>
+                  <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: The Data Scientist's Toolbox</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: R Programming</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Getting and Cleaning Data</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Exploratory Data Analysis</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Reproducible Research</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Statistical Inference</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Regression Models</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Pratical Machine Learning</li>
+                  </ul>                  
+                </div>
+              </div>
             </div>
           </div>
         </div>
