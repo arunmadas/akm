@@ -2725,7 +2725,7 @@ background-image:url("assets/images/techicons/attlogo.png");
 }
 
 .iconslist li{
-display: block;
+display: inline;
 list-style-type: none;
 padding-right: 5px;
 padding-top: 5px;
