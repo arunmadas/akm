@@ -2723,3 +2723,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#157dbd', end
 {
 background-image:url("assets/images/techicons/attlogo.png");	
 }
+
+.iconslist li{
+	display: inline;
+	float : left;
+}
