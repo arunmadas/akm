@@ -1001,7 +1001,7 @@
             <div class="row">
               <!-- Start single service -->
               <div class="col-sm-12">
-                <div class="single-service wow zoomIn">
+                <div class="single-service wow bounceInRight">
 				  <i class="fa fa-desktop service-icon"></i>
                   <h4>Enterprise Applications</h4>
                   <ul class="fa-ul">
@@ -1016,7 +1016,7 @@
               <!-- End single service -->
               <!-- Start single service -->
               <div class="col-sm-12">
-                <div class="single-service wow zoomIn">
+                <div class="single-service wow bounceInLeft">
                   <i class="fa service-icon fa-cubes"></i>
                   <h4>Big Data</h4>
                   <ul class="fa-ul">
@@ -1028,7 +1028,7 @@
               </div>
               <!-- End single service -->
                <div class="col-sm-12">
-                <div class="single-service wow zoomIn">
+                <div class="single-service wow bounceInDown">
                   <i class="fa service-icon fa-cubes"></i>
                   <h4>Data Science</h4>
                   <ul class="fa-ul">
