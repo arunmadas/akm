@@ -658,8 +658,8 @@
                  <li><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.png"/>"></li>
             	</ul>
-            </div>
-            <br />
+            </div>            
+            <div style="clear:both"></div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
             <br />
