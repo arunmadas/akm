@@ -2732,4 +2732,5 @@ padding-top: 5px;
 padding-bottom: 5px;
 padding-left: 5px;
 float: left;
+overflow:auto;
 }
