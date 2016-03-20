@@ -181,7 +181,7 @@
                 <div class="slide-article">
                   <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Multi-Dimensional Technology Expert</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">From very large enterprise applications architecture to Big Data stack architecture to Data Science, Analytics and Machine Learning</p>
-                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
+                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#feature">Read More</a>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
@@ -201,7 +201,7 @@
                 <div class="slide-article">
                   <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Innovate, Drive, Excel & Deliver</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Believes in rapid innovation, proven to drive and excel teams, recognize profits by delivering successful products and solutions</p>
-                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
+                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#feature">Read More</a>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
@@ -222,7 +222,7 @@
                 <div class="slide-article">
                   <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Professionally Certified Expert</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Proven expert technical skills and Professional Certifications to ease you through complex day to day huddles</p>
-                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
+                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#feature">Read More</a>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
@@ -243,7 +243,7 @@
                 <div class="slide-article">
                   <h1 class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">Leader & Entrepreneur</h1>
                   <p class="wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.75s">Building from idea conception to implementation, hire, pitch, fund, lead all the way to walk you into success</p>
-                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#">Read More</a>
+                  <a class="read-more-btn wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s" href="#feature">Read More</a>
                 </div>
               </div>
               <div class="col-md-6 col-sm-6">
@@ -483,110 +483,6 @@
   </section>
   <!-- End Pricing table -->  
   
-<!--    <section id="about"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row"> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="title-area"> -->
-<!--             <h2 class="title">Overview</h2> -->
-<!--             <span class="line"></span> -->
-<!--             	<ul style="lineup"> -->
-<%--             		<li><img src="<c:url value="assets/images/techicons/java7.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/angularjs.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/aws.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/creately.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/ejb.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/emberjs.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/extjs.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/github.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/html/css3.png" />" /></li> --%>
-<%--             		<li><img src="<c:url value="assets/images/techicons/hibernate.png" />" /></li> --%>
-<!-- 	            	</ul> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--        </div> -->
-<!--      </div> -->
-<!--     </section> -->
-
-
-
-  <!-- Start counter -->
-<!--   <section id="counter"> -->
-<!--     <div class="counter-overlay"> -->
-<!--       <div class="container"> -->
-<!--         <div class="row"> -->
-<!--           <div class="col-md-12"> -->
-<!--             <div class="counter-area"> -->
-<!--               <div class="row"> -->
-<!--                 Start single counter -->
-<!--                 <div class="col-md-3 col-sm-6"> -->
-<!--                   <div class="single-counter"> -->
-<!--                     <div class="counter-icon"> -->
-<!--                       <i class="fa fa-suitcase"></i> -->
-<!--                     </div> -->
-<!--                     <div class="counter-no counter"> -->
-<!--                       1275 -->
-<!--                     </div> -->
-<!--                     <div class="counter-label"> -->
-<!--                       Projects -->
-<!--                     </div> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 End single counter -->
-<!--                 Start single counter -->
-<!--                 <div class="col-md-3 col-sm-6"> -->
-<!--                   <div class="single-counter"> -->
-<!--                     <div class="counter-icon"> -->
-<!--                       <i class="fa fa-clock-o"></i> -->
-<!--                     </div> -->
-<!--                     <div class="counter-no counter"> -->
-<!--                       5275 -->
-<!--                     </div> -->
-<!--                     <div class="counter-label"> -->
-<!--                       Hours Work -->
-<!--                     </div> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 End single counter -->
-<!--                 Start single counter -->
-<!--                 <div class="col-md-3 col-sm-6"> -->
-<!--                  <div class="single-counter"> -->
-<!--                     <div class="counter-icon"> -->
-<!--                       <i class="fa fa-trophy"></i> -->
-<!--                     </div> -->
-<!--                     <div class="counter-no counter"> -->
-<!--                       350 -->
-<!--                     </div> -->
-<!--                     <div class="counter-label"> -->
-<!--                       Awards -->
-<!--                     </div> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 End single counter -->
-<!--                 Start single counter -->
-<!--                 <div class="col-md-3 col-sm-6"> -->
-<!--                   <div class="single-counter"> -->
-<!--                     <div class="counter-icon"> -->
-<!--                       <i class="fa fa-users"></i> -->
-<!--                     </div> -->
-<!--                     <div class="counter-no counter"> -->
-<!--                       875 -->
-<!--                     </div> -->
-<!--                     <div class="counter-label"> -->
-<!--                       Clients -->
-<!--                     </div> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 End single counter -->
-<!--               </div> -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- End counter -->
-
 
   <!-- Start Service -->
   <section id="service">
@@ -605,11 +501,9 @@
               <!-- Start single service -->
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
-<%--                   <i class="fa service-icon fa-rotate-270"><img src="<c:url value="assets/images/techicons/attlogo.png" />" /></i> --%>
                   <i class="fa fa-mobile service-icon"></i>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
                   <a href="http://www.att.com" target="_blank">http://www.att.com</a> <br />
-<!--                   <span class="workaddress">1125 E Campbell Rd, Richardson, TX - 75081</span><br /> -->
                   Senior Enterprise Applications Architect<br />
                   Duration : ~ 2 yrs (Apr 2014 - Current)<br /></p>
                 </div>
@@ -621,7 +515,6 @@
                    <i class="fa fa-futbol-o service-icon"></i>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/active.png" />" /> <br />
                   <a href="http://www.activenetwork.com" target="_blank">http://www.activenetwork.com</a><br />
-<!--                   <span class="workaddress">6363 N State Hwy 161, #200, Irving, TX - 75063; 22530 Gateway Center Dr, #100, Clarksburg, MD - 20871</span><br /> -->
                   Senior Enterprise Applications Architect<br />
                   Duration : ~ 6 yrs (Jun 2008 - Mar 2014)</p>                  
                 </div>
@@ -634,7 +527,6 @@
                   <p class="summary"><img src="<c:url value="assets/images/techicons/adobe.png" />" /> <br />
                   <a href="http://www.adobe.com" target="_blank">http://www.adobe.com</a><br />
                   Lead / Senior Software Engineer<br />
-<!--                   Adobe Dreamweaver / Adobe Flex / Adobe Coldfusion <br /> -->
                   Duration : ~ 3 yrs (Sep 2005 - May 2008)<br />
                   </p>
                 </div>
@@ -684,307 +576,6 @@
   </section>
   <!-- End Service -->
 
-
-
-  <!-- Start Pricing table -->
-<!--   <section id="our-team"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row"> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="title-area"> -->
-<!--             <h2 class="title">Our Team</h2> -->
-<!--             <span class="line"></span> -->
-<!--             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="our-team-content"> -->
-<!--             <div class="row"> -->
-<!--               Start single team member -->
-<!--               <div class="col-md-3 col-sm-6 col-xs-12"> -->
-<!--                 <div class="single-team-member"> -->
-<!--                  <div class="team-member-img"> -->
-<!--                    <img src="assets/images/team-member-2.png" alt="team member img"> -->
-<!--                  </div> -->
-<!--                  <div class="team-member-name"> -->
-<!--                    <p>John Doe</p> -->
-<!--                    <span>CEO</span> -->
-<!--                  </div> -->
-<!--                  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
-<!--                  <div class="team-member-link"> -->
-<!--                    <a href="#"><i class="fa fa-facebook"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-twitter"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-linkedin"></i></a> -->
-<!--                  </div> -->
-<!--                 </div> -->
-<!--               </div> -->
-<!--               Start single team member -->
-<!--               Start single team member -->
-<!--               <div class="col-md-3 col-sm-6 col-xs-12"> -->
-<!--                 <div class="single-team-member"> -->
-<!--                  <div class="team-member-img"> -->
-<!--                    <img src="assets/images/team-member-1.png" alt="team member img"> -->
-<!--                  </div> -->
-<!--                  <div class="team-member-name"> -->
-<!--                    <p>Bernice Neumann</p> -->
-<!--                    <span>Designer</span> -->
-<!--                  </div> -->
-<!--                  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
-<!--                  <div class="team-member-link"> -->
-<!--                    <a href="#"><i class="fa fa-facebook"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-twitter"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-linkedin"></i></a> -->
-<!--                  </div> -->
-<!--                 </div> -->
-<!--               </div> -->
-<!--               Start single team member -->
-<!--               Start single team member -->
-<!--               <div class="col-md-3 col-sm-6 col-xs-12"> -->
-<!--                 <div class="single-team-member"> -->
-<!--                  <div class="team-member-img"> -->
-<!--                    <img src="assets/images/team-member-3.png" alt="team member img"> -->
-<!--                  </div> -->
-<!--                  <div class="team-member-name"> -->
-<!--                    <p>Dvid Cameron</p> -->
-<!--                    <span>Developer</span> -->
-<!--                  </div> -->
-<!--                  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
-<!--                  <div class="team-member-link"> -->
-<!--                    <a href="#"><i class="fa fa-facebook"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-twitter"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-linkedin"></i></a> -->
-<!--                  </div> -->
-<!--                 </div> -->
-<!--               </div> -->
-<!--               Start single team member -->
-<!--               Start single team member -->
-<!--               <div class="col-md-3 col-sm-6 col-xs-12"> -->
-<!--                 <div class="single-team-member"> -->
-<!--                  <div class="team-member-img"> -->
-<!--                    <img src="assets/images/team-member-1.png" alt="team member img"> -->
-<!--                  </div> -->
-<!--                  <div class="team-member-name"> -->
-<!--                    <p>Bernice Neumann</p> -->
-<!--                    <span>Designer</span> -->
-<!--                  </div> -->
-<!--                  <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p> -->
-<!--                  <div class="team-member-link"> -->
-<!--                    <a href="#"><i class="fa fa-facebook"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-twitter"></i></a> -->
-<!--                    <a href="#"><i class="fa fa-linkedin"></i></a> -->
-<!--                  </div> -->
-<!--                 </div> -->
-<!--               </div> -->
-<!--               Start single team member -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- End Pricing table -->
-  
-  <!-- Start Testimonial section -->
-<!--   <section id="testimonial"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row"> -->
-<!--         <div class="col-md-6"> -->
-<!--           <div class="row"> -->
-<!--             <div class="col-md-12"> -->
-<!--               <div class="title-area"> -->
-<!--                 <h2 class="title">Whats Client Say</h2> -->
-<!--                 <span class="line"></span>            -->
-<!--               </div> -->
-<!--             </div> -->
-<!--             <div class="col-md-12"> -->
-<!--               Start testimonial slider -->
-<!--               <div class="testimonial-slider"> -->
-<!--                 Start single slider -->
-<!--                 <div class="single-slider"> -->
-<!--                   <div class="testimonial-img"> -->
-<!--                     <img src="assets/images/testi1.jpg" alt="testimonial image"> -->
-<!--                   </div> -->
-<!--                   <div class="testimonial-content"> -->
-<!--                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p> -->
-<!--                     <h6>Bernice Neumann, <span>Designer</span></h6> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 Start single slider -->
-<!--                 <div class="single-slider"> -->
-<!--                   <div class="testimonial-img"> -->
-<!--                     <img src="assets/images/testi3.jpg" alt="testimonial image"> -->
-<!--                   </div> -->
-<!--                   <div class="testimonial-content"> -->
-<!--                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p> -->
-<!--                     <h6>John Dow, <span>CEO</span></h6> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--                 Start single slider -->
-<!--                 <div class="single-slider"> -->
-<!--                   <div class="testimonial-img"> -->
-<!--                     <img src="assets/images/testi2.jpg" alt="testimonial image"> -->
-<!--                   </div> -->
-<!--                   <div class="testimonial-content"> -->
-<!--                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p> -->
-<!--                     <h6>Michel, <span>Developer</span></h6> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--               </div> -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--         <div class="col-md-6"></div>         -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- End Testimonial section -->
-
-  <!-- Start Clients brand -->
-<!--   <section id="clients-brand"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row"> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="clients-brand-area"> -->
-<!--             <ul class="clients-brand-slide"> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/amazon.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/discovery.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/envato.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/tuenti.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--                <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/amazon.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/discovery.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/envato.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--               <li class="col-md-3"> -->
-<!--                 <div class="single-brand"> -->
-<!--                   <img src="assets/images/tuenti.png" alt="img"> -->
-<!--                 </div> -->
-<!--               </li> -->
-<!--             </ul> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- End Clients brand -->
-
-  <!-- Start latest news -->
-<!--   <section id="latest-news"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row"> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="title-area"> -->
-<!--             <h2 class="title">Latest News</h2> -->
-<!--             <span class="line"></span> -->
-<!--             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="latest-news-content"> -->
-<!--             <div class="row"> -->
-<!--               start single latest news -->
-<!--               <div class="col-md-4"> -->
-<!--                 <article class="blog-news-single"> -->
-<!--                   <div class="blog-news-img"> -->
-<!--                     <a href="blog-single-with-right-sidebar.html"><img src="assets/images/blog-img-1.jpg" alt="image"></a> -->
-<!--                   </div> -->
-<!--                   <div class="blog-news-title"> -->
-<!--                     <h2><a href="blog-single-with-right-sidebar.html">All about writing story</a></h2> -->
-<!--                     <p>By <a class="blog-author" href="#">John Powell</a> <span class="blog-date">|18 October 2015</span></p> -->
-<!--                   </div> -->
-<!--                   <div class="blog-news-details"> -->
-<!--                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p> -->
-<!--                     <a class="blog-more-btn" href="blog-single-with-right-sidebar.html">Read More <i class="fa fa-long-arrow-right"></i></a> -->
-<!--                   </div> -->
-<!--                 </article> -->
-<!--               </div> -->
-<!--               start single latest news -->
-<!--               <div class="col-md-4"> -->
-<!--                 <article class="blog-news-single"> -->
-<!--                   <div class="blog-news-img"> -->
-<!--                     <a href="blog-single-with-right-sidebar.html"><img src="assets/images/blog-img-2.jpg" alt="image"></a> -->
-<!--                   </div> -->
-<!--                   <div class="blog-news-title"> -->
-<!--                     <h2><a href="blog-single-with-right-sidebar.html">Best Mobile Device</a></h2> -->
-<!--                     <p>By <a class="blog-author" href="#">John Powell</a> <span class="blog-date">|18 October 2015</span></p> -->
-<!--                   </div> -->
-<!--                   <div class="blog-news-details"> -->
-<!--                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p> -->
-<!--                     <a class="blog-more-btn" href="blog-single-with-right-sidebar.html">Read More <i class="fa fa-long-arrow-right"></i></a> -->
-<!--                   </div> -->
-<!--                 </article> -->
-<!--               </div> -->
-<!--               start single latest news -->
-<!--               <div class="col-md-4"> -->
-<!--                 <article class="blog-news-single"> -->
-<!--                   <div class="blog-news-img"> -->
-<!--                     <a href="blog-single-with-right-sidebar.html"><img src="assets/images/blog-img-3.jpg" alt="image"></a> -->
-<!--                   </div> -->
-<!--                   <div class="blog-news-title"> -->
-<!--                     <h2><a href="blog-single-with-right-sidebar.html">Personal Note Details</a></h2> -->
-<!--                     <p>By <a class="blog-author" href="#">John Powell</a> <span class="blog-date">|18 October 2015</span></p> -->
-<!--                   </div> -->
-<!--                   <div class="blog-news-details"> -->
-<!--                     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</p> -->
-<!--                     <a class="blog-more-btn" href="blog-single-with-right-sidebar.html">Read More <i class="fa fa-long-arrow-right"></i></a> -->
-<!--                   </div> -->
-<!--                 </article> -->
-<!--               </div> -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- End latest news -->
-
-  <!-- Start subscribe us -->
-<!--   <section id="subscribe"> -->
-<!--     <div class="subscribe-overlay"> -->
-<!--       <div class="container"> -->
-<!--         <div class="row"> -->
-<!--           <div class="col-md-12"> -->
-<!--             <div class="subscribe-area"> -->
-<!--               <h2 class="wow fadeInUp">Subscribe Newsletter</h2> -->
-<%--               <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s"> --%>
-<!--                 <input type="text" placeholder="Enter Your E-mail.."> -->
-<!--                 <button class="subscribe-btn" type="submit">Submit</button> -->
-<%--               </form> --%>
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- End subscribe us -->
-  
-  
     <!-- Start about  -->
   <section id="certifications">
     <div class="container">
@@ -1049,76 +640,123 @@
       </div>
     </div>
   </section>
-    
-<!--   <section id="about"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row"> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="title-area"> -->
-<!--             <h2 class="title">Professional Certifications</h2> -->
-<!--             <span class="line"></span> -->
-<!--             <p>These are some of the attestations to my professional work</p> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--         <div class="col-md-12"> -->
-<!--           <div class="about-content"> -->
-<!--             <div class="row"> -->
-<!--               <div class="col-md-12"> -->
-<!--                 <div class="why-choose-us"> -->
-<!--                   <div class="panel-group why-choose-group" id="accordion"> -->
-<!--                     <div class="panel panel-default"> -->
-<!--                       <div class="panel-heading"> -->
-<!--                         <h4 class="panel-title"> -->
-<!--                           <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"> -->
-<!--                             Enterprise Applications <span class="fa fa-minus-square"></span> -->
-<!--                           </a> -->
-<!--                         </h4> -->
-<!--                       </div> -->
-<!--                       <div id="collapse1" class="panel-collapse collapse in"> -->
-<!--                         <div class="panel-body"> -->
-<!--                         <img class="why-choose-img" src="assets/images/testi1.jpg" alt="img"/> -->
-<!--                          <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p> -->
-<!--                         </div> -->
-<!--                       </div> -->
-<!--                     </div> -->
-<!--                     <div class="panel panel-default "> -->
-<!--                       <div class="panel-heading"> -->
-<!--                         <h4 class="panel-title"> -->
-<!--                           <a data-toggle="collapse" data-parent="#accordion" href="#collapse2"> -->
-<!--                             Big Data <span class="fa fa-plus-square"></span> -->
-<!--                           </a> -->
-<!--                         </h4> -->
-<!--                       </div> -->
-<!--                       <div id="collapse2" class="panel-collapse collapse"> -->
-<!--                         <div class="panel-body"> -->
-<!--                          <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p> -->
-<!--                         </div> -->
-<!--                       </div> -->
-<!--                     </div> -->
-<!--                     <div class="panel panel-default"> -->
-<!--                       <div class="panel-heading"> -->
-<!--                         <h4 class="panel-title"> -->
-<!--                           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3"> -->
-<!--                             Data Science <span class="fa fa-plus-square"></span> -->
-<!--                           </a> -->
-<!--                         </h4> -->
-<!--                       </div> -->
-<!--                       <div id="collapse3" class="panel-collapse collapse"> -->
-<!--                         <div class="panel-body"> -->
-<!--                           <p>Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.</p> -->
-<!--                         </div> -->
-<!--                       </div> -->
-<!--                     </div> -->
-<!--                   </div> -->
-<!--                 </div> -->
-<!--               </div>               -->
-<!--             </div> -->
-<!--           </div> -->
-<!--         </div> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </section> -->
-  <!-- end about -->
+
+    <!-- Start about  -->
+  <section id="projects">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
+            <span class="line"></span>
+            <p>Requirements / Business / Solutioning / Architecture Tools</p>
+            <ul class="fa-ul">
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            </ul>            
+            <span class="line"></span>
+            <p>Creative Graphics Content Creation / Wireframing</p>
+            <ul class="fa-ul">
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            </ul>
+            <span class="line"></span>
+            <p>User Interface - JavaScript Frameworks</p>
+            <ul class="fa-ul">
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            </ul>
+            <span class="line"></span>
+            <p>Middleware / Model / Backend Frameworks and Tools</p>
+            <ul class="fa-ul">
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            </ul>
+            <span class="line"></span>
+            <p>Testing Frameworks</p>
+            <ul class="fa-ul">
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            </ul>
+            <p>Business Processes / Project Methodologies</p>
+            <ul class="fa-ul">
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
+            	<li><i class="fa-li fa"></i><img src="<c:url src="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-12">
+          <div class="service-content">
+            <div class="row">
+              <!-- Start single service -->
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+				  <i class="fa fa-desktop service-icon"></i>
+                  <h4>Enterprise Applications</h4>
+                  <ul class="fa-ul">
+                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Java Programmer, v1.5</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Web Component Developer (Java Server Pages / Java Servlets), EE v1.4</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Webservices Developer (SOAP / REST / JAXWS), EE 1.4</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Adobe Certified Expert ::  Flex Developer (v2), Flex with AIR Developer (v3)</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Adobe Certified Expert ::  Flash Developer v8, Dreamweaver</li>                   	
+                  </ul>
+                </div>
+              </div>
+              <!-- End single service -->
+              <!-- Start single service -->
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInLeft">
+                  <i class="fa service-icon fa-cubes"></i>
+                  <h4>Big Data</h4>
+                  <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for DBA's - MongoDB University (earlier 10gen Education)</li>
+                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for Java Developers - MongoDB University (earlier 10gen Education)</li>
+                  <li><i class="fa-li fa fa-check-square"></i>Datastax Training Completed : Cassandra for Java Developer (CAS101)</li>
+                  </ul>                  
+                </div>
+              </div>
+              <!-- End single service -->
+               <div class="col-sm-12">
+                <div class="single-service wow bounceInDown">
+                  <i class="fa service-icon fa-line-chart"></i>
+                  <h4>Data Science</h4>
+                  <ul class="fa-ul">
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: The Data Scientist's Toolbox</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: R Programming</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Getting and Cleaning Data</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Exploratory Data Analysis</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Reproducible Research</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Statistical Inference</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Regression Models</li>
+                  <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: Pratical Machine Learning</li>
+                  </ul>                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
   <!-- Start footer -->
   <footer id="footer">
@@ -1131,11 +769,7 @@
         </div>
         <div class="col-md-6 col-sm-6">
           <div class="footer-right">
-<!--             <a href="index.html"><i class="fa fa-facebook"></i></a> -->
-<!--             <a href="#"><i class="fa fa-twitter"></i></a> -->
-<!--             <a href="#"><i class="fa fa-google-plus"></i></a> -->
             <a href="https://www.linkedin.com/in/arunkumarm" target="_blank"><i class="fa fa-linkedin"></i></a>
-<!--             <a href="#"><i class="fa fa-pinterest"></i></a> -->
           </div>
         </div>
       </div>
