@@ -650,13 +650,19 @@
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
             <p>Requirements / Business / Solutioning / Architecture Tools</p>
-            <ul class="fa-ul">
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            </ul>            
+            <div class="col-md-3 col-sm-6 col-xs-12">
+            	<img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>">
+            	<img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>">
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+                 <img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>">
+             </div>
+             <div class="col-md-3 col-sm-6 col-xs-12">
+            	<img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>">
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12">
+            	<img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.png"/>">
+            </div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
             <ul class="fa-ul">
