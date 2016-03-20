@@ -650,7 +650,7 @@
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
             <p>Requirements / Business / Solutioning / Architecture Tools</p>
-            <div class="col-md-12">
+            <div>
             	<ul class="iconslist">
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
                  <li><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
@@ -661,48 +661,13 @@
             </div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
-            <ul class="fa-ul">
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            </ul>
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
-            <ul class="fa-ul">
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            </ul>
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
-            <ul class="fa-ul">
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            </ul>
             <span class="line"></span>
             <p>Testing Frameworks</p>
-            <ul class="fa-ul">
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            </ul>
             <p>Business Processes / Project Methodologies</p>
-            <ul class="fa-ul">
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.jpg"/>"></li>
-            	<li><i class="fa-li fa"></i><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            </ul>
           </div>
         </div>
         <div class="col-md-12">
