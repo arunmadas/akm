@@ -664,7 +664,8 @@
             <p>Creative Graphics Content Creation / Wireframing</p>
             <div>
             	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/ps.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/photoshop.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/illustrator.jpg"/>"></li>
             	</ul>
             </div>
             <br />
