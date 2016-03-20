@@ -1002,10 +1002,7 @@
               <!-- Start single service -->
               <div class="col-sm-12">
                 <div class="single-service wow zoomIn">
-                <ul class="fa-ul">
-				  <li><i class="fa fa-desktop service-icon"></i></li>
-				  <li><i class="fa fa-mobile service-icon"></i></li>
-				</ul>				                    
+				  <i class="fa fa-desktop service-icon"></i>
                   <h4>Enterprise Applications</h4>
                   <ul class="fa-ul">
                   	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Java Programmer, v1.5</li>
