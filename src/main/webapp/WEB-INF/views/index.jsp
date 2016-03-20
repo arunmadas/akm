@@ -653,20 +653,26 @@
             <div>
             	<ul class="iconslist">
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-                 <li><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.png"/>"></li>
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+                 <li><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.png"/>"></li>
             	</ul>
             </div>
+            <br />
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
+            <br />
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
+            <br />
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
+            <br />
             <span class="line"></span>
             <p>Testing Frameworks</p>
+            <br />
+            <span class="line"></span>
             <p>Business Processes / Project Methodologies</p>
           </div>
         </div>
