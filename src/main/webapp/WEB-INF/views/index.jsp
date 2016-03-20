@@ -695,6 +695,16 @@
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
             <br />
+			<div class="logotop">
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/java7.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jee.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jms.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/hibernate.jpg"/>"></li>
+            	</ul>
+            </div>
+            <div style="clear:both"></div>
+            <div class="logotop"></div>            
             <span class="line"></span>
             <p>Testing Frameworks</p>
             <br />
