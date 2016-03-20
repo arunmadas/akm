@@ -1002,7 +1002,10 @@
               <!-- Start single service -->
               <div class="col-sm-12">
                 <div class="single-service wow zoomIn">
-                  <i class="fa fa-desktop service-icon"></i>
+                <ul class="fa-ul">
+				  <li><i class="fa fa-desktop service-icon"></i></li>
+				  <li><i class="fa fa-mobile service-icon"></i></li>
+				</ul>				                    
                   <h4>Enterprise Applications</h4>
                   <ul class="fa-ul">
                   	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Java Programmer, v1.5</li>
@@ -1019,7 +1022,7 @@
                 <div class="single-service wow zoomIn">
                   <i class="fa service-icon fa-cubes"></i>
                   <h4>Big Data</h4>
-                  <ul>
+                  <ul class="fa-ul">
                   <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for DBA’s – MongoDB University (earlier 10gen Education)</li>
                   <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for Java Developers – MongoDB University (earlier 10gen Education)</li>
                   <li><i class="fa-li fa fa-check-square"></i>Datastax Training Completed : Cassandra for Java Developer (CAS101)</li>
