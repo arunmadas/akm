@@ -556,13 +556,12 @@
 <!--               </div> -->
               <div class="col-md-12">
                 <div class="why-choose-us">
-                  <h3>Enterprise Applications Architecture</h3>
                   <div class="panel-group why-choose-group" id="accordion">
                     <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                            Awesome Design Layout <span class="fa fa-minus-square"></span>
+                            Enterprise Applications <span class="fa fa-minus-square"></span>
                           </a>
                         </h4>
                       </div>
@@ -577,7 +576,7 @@
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                            Quality Coding <span class="fa fa-plus-square"></span>
+                            Big Data <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
@@ -591,7 +590,7 @@
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                            Great Support <span class="fa fa-plus-square"></span>
+                            Data Science <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
