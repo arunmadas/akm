@@ -696,9 +696,9 @@
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
-            <h2 class="title">Work Place:</h2>
+            <h2 class="title">Work Places:</h2>
             <span class="line"></span>
-            <p>This is where i got my hands dirty and met some of the best talents in the industry and nurtured every opportunity at hand</p>
+            <p>This is where i spent my last 12+ years and got my hands dirty; Met some of the best talents in the industry and nurtured every opportunity at hand.</p>
           </div>
         </div>
         <div class="col-md-12">
