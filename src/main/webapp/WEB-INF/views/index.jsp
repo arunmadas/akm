@@ -650,7 +650,7 @@
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
             <p>Requirements / Business / Solutioning / Architecture Tools</p>
-            <div>
+            <div class="logotop">
             	<ul class="iconslist">
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
@@ -662,16 +662,17 @@
             <div style="clear:both"></div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
-            <div>
+            <div class="logotop">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/photoshop.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/illustrator.jpg"/>"></li>
             	</ul>
             </div>
+            <div style="clear:both"></div>
             <br />
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
-            <div>
+            <div class="logotop">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/html.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/js.jpg"/>"></li>
@@ -686,6 +687,7 @@
 	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/wowjs.jpg"/>"></li>
             	</ul>
             </div>
+            <div style="clear:both"></div>
             <br />
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
