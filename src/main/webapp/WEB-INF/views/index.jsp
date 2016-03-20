@@ -1029,7 +1029,7 @@
               <!-- End single service -->
                <div class="col-sm-12">
                 <div class="single-service wow bounceInDown">
-                  <i class="fa service-icon fa-cubes"></i>
+                  <i class="fa service-icon fa-line-chart"></i>
                   <h4>Data Science</h4>
                   <ul class="fa-ul">
                   <li><i class="fa-li fa fa-check-square"></i>John Hopkins University :: The Data Scientist's Toolbox</li>
