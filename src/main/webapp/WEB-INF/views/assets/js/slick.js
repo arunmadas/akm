@@ -477,7 +477,7 @@
             _.$dots = $(dotString).appendTo(
                 _.options.appendDots);
 
-            _.$dots.find('li').first().addClass('fa-circle').attr('aria-hidden', 'false');
+            _.$dots.find('li').first().addClass('slick-active').attr('aria-hidden', 'false');
 
         }
 
@@ -858,7 +858,7 @@
         if (_.$slides) {
 
             _.$slides
-                .removeClass('slick-slide fa-circle slick-center slick-visible slick-current')
+                .removeClass('slick-slide slick-active slick-center slick-visible slick-current')
                 .removeAttr('aria-hidden')
                 .removeAttr('data-slick-index')
                 .each(function(){
@@ -1905,7 +1905,7 @@
 
         allSlides = _.$slider
             .find('.slick-slide')
-            .removeClass('fa-circle slick-center slick-current')
+            .removeClass('slick-active slick-center slick-current')
             .attr('aria-hidden', 'true');
 
         _.$slides
@@ -1922,7 +1922,7 @@
 
                     _.$slides
                         .slice(index - centerOffset, index + centerOffset + 1)
-                        .addClass('fa-circle')
+                        .addClass('slick-active')
                         .attr('aria-hidden', 'false');
 
                 } else {
@@ -1930,7 +1930,7 @@
                     indexOffset = _.options.slidesToShow + index;
                     allSlides
                         .slice(indexOffset - centerOffset + 1, indexOffset + centerOffset + 2)
-                        .addClass('fa-circle')
+                        .addClass('slick-active')
                         .attr('aria-hidden', 'false');
 
                 }
@@ -1961,13 +1961,13 @@
 
                 _.$slides
                     .slice(index, index + _.options.slidesToShow)
-                    .addClass('fa-circle')
+                    .addClass('slick-active')
                     .attr('aria-hidden', 'false');
 
             } else if (allSlides.length <= _.options.slidesToShow) {
 
                 allSlides
-                    .addClass('fa-circle')
+                    .addClass('slick-active')
                     .attr('aria-hidden', 'false');
 
             } else {
@@ -1979,14 +1979,14 @@
 
                     allSlides
                         .slice(indexOffset - (_.options.slidesToShow - remainder), indexOffset + remainder)
-                        .addClass('fa-circle')
+                        .addClass('slick-active')
                         .attr('aria-hidden', 'false');
 
                 } else {
 
                     allSlides
                         .slice(indexOffset, indexOffset + _.options.slidesToShow)
-                        .addClass('fa-circle')
+                        .addClass('slick-active')
                         .attr('aria-hidden', 'false');
 
                 }
@@ -2468,7 +2468,7 @@
         }
 
         _.$slides
-            .removeClass('slick-slide fa-circle slick-visible slick-current')
+            .removeClass('slick-slide slick-active slick-visible slick-current')
             .attr('aria-hidden', 'true')
             .css('width', '');
 
@@ -2525,13 +2525,13 @@
 
             _.$dots
                 .find('li')
-                .removeClass('fa-circle')
+                .removeClass('slick-active')
                 .attr('aria-hidden', 'true');
 
             _.$dots
                 .find('li')
                 .eq(Math.floor(_.currentSlide / _.options.slidesToScroll))
-                .addClass('fa-circle')
+                .addClass('slick-active')
                 .attr('aria-hidden', 'false');
 
         }
@@ -2593,14 +2593,14 @@
         _isSlideOnFocus =_.$slider.find('*').is(':focus');
         // _isSlideOnFocus = _.$slides.is(':focus') || _.$slides.find('*').is(':focus');
 
-        _.$slideTrack.find('.fa-circle').attr({
+        _.$slideTrack.find('.slick-active').attr({
             'aria-hidden': 'false',
             'tabindex': '0'
         }).find('a, input, button, select').attr({
             'tabindex': '0'
         });
 
-        (_isSlideOnFocus) &&  _.$slideTrack.find('.fa-circle').focus();
+        (_isSlideOnFocus) &&  _.$slideTrack.find('.slick-active').focus();
 
     };
 
