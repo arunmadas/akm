@@ -2728,9 +2728,9 @@ background-image:url("assets/images/techicons/attlogo.png");
 /* display: inline; */
 /* list-style-type: none; */
 padding-right: 5px;
-padding-top: 5px;
-padding-bottom: 5px;
-padding-left: 5px;
+/* padding-top: 5px; */
+/* padding-bottom: 5px; */
+/* padding-left: 5px; */
 float: left;
 overflow:auto;
 }
