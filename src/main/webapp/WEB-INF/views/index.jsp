@@ -662,6 +662,10 @@
             <div style="clear:both"></div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
+            <div>
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/ps.jpg"/>"></li>
+            	</ul>
             <br />
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
