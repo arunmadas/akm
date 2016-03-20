@@ -1002,8 +1002,15 @@
               <!-- Start single service -->
               <div class="col-sm-12">
                 <div class="single-service wow zoomIn">
-                  <i class="fa fa-mobile service-icon"></i>
-                  <p class="summary">Enterprise Applications</p>
+                  <i class="fa fa-desktop service-icon"></i>
+                  <h4>Enterprise Applications</h4>
+                  <ul class="fa-ul">
+                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Java Programmer, v1.5</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Web Component Developer (Java Server Pages / Java Servlets), EE v1.4</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Sun Certified Webservices Developer (SOAP / REST / JAXWS), EE 1.4</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Adobe Certified Expert ::  Flex Developer (v2), Flex with AIR Developer (v3)</li>
+                  	<li><i class="fa-li fa fa-check-square"></i>Adobe Certified Expert ::  Flash Developer v8, Dreamweaver</li>                   	
+                  </ul>
                 </div>
               </div>
               <!-- End single service -->
@@ -1011,7 +1018,12 @@
               <div class="col-sm-12">
                 <div class="single-service wow zoomIn">
                   <i class="fa service-icon fa-cubes"></i>
-                  <p class="summary">Big Data</p>                  
+                  <h4>Big Data</h4>
+                  <ul>
+                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for DBA’s – MongoDB University (earlier 10gen Education)</li>
+                  <li><i class="fa-li fa fa-check-square"></i>Certified :: MongoDB for Java Developers – MongoDB University (earlier 10gen Education)</li>
+                  <li><i class="fa-li fa fa-check-square"></i>Datastax Training Completed : Cassandra for Java Developer (CAS101)</li>
+                  </ul>                  
                 </div>
               </div>
               <!-- End single service -->
