@@ -660,6 +660,7 @@
             	</ul>
             </div>            
             <div style="clear:both"></div>
+            <div class="logotop"></div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
             <div class="logotop">
@@ -669,6 +670,7 @@
             	</ul>
             </div>
             <div style="clear:both"></div>
+            <div class="logotop"></div>
             <br />
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
@@ -688,6 +690,7 @@
             	</ul>
             </div>
             <div style="clear:both"></div>
+            <div class="logotop"></div>
             <br />
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
