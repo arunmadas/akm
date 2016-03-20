@@ -769,7 +769,7 @@
               <!-- Start single service -->
               <div class="col-md-4 col-sm-6">
                 <div class="single-service wow zoomIn">
-                  <i class="fa service-icon fa-building-o"></i>
+                  <i class="fa service-icon fa-cubes"></i>
                   <p class="summary"><img src="<c:url value="assets/images/techicons/gallop.png" />" /> <br />
                   <a href="http://www.galloptech.com" target="_blank">http://www.galloptech.com</a><br />
                   Big Data Architect / Data Scentist<br />
@@ -1092,7 +1092,7 @@
       <div class="row">
         <div class="col-md-6 col-sm-6">
           <div class="footer-left">
-            <p>(c) 2016</p>
+            <p>(c) 2004-2016 Arun K Madas, All Rights Reserved.</p>
           </div>
         </div>
         <div class="col-md-6 col-sm-6">
