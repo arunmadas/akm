@@ -143,7 +143,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <span class="fa fa-angle-down"></span></a>
               <ul class="dropdown-menu" role="menu">
-                <li><a href="blog-archive.html">Large Enterprise Applications Architecture</a></li>                
+                <li><a href="#projects">Large Enterprise Applications Architecture</a></li>                
                 <li><a href="blog-single-with-left-sidebar.html">Big Data Architecture</a></li>
                 <li><a href="blog-single-with-right-sidebar.html">Data Science, Analytics and Machine Learning</a></li>
               </ul>
@@ -369,7 +369,7 @@
                     </ul>
                   </div>
                   <div class="price-footer">
-                    <a class="purchase-btn" href="#">Projects</a>
+                    <a class="purchase-btn" href="#projects">Projects</a>
                   </div>
                 </div>
               </div>
@@ -839,6 +839,27 @@
 		            <div class="logotop"></div>   
 		          </div>
 		       </div>
+		       
+		       
+		       <!--  Project begin -->
+		        <div class="col-sm-12">
+	               <div class="single-service wow bounceInRight">
+			            <h4 class="summary">1.	Architect – Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h4>
+			            <p class="summary">Client : AT&T<br />
+			            Duration : Jan 2016 - Current<br />
+			            <ul class="fa-ul">
+			            <li><i class="fa-li fa fa-check-square"></i>AT&T business model has transitioned from a traditional 2 year wireless subsidy phone contract plans to Next plans (where customer pays monthly premium for the phone for the duration of the contract 12mo/24 mo/20 mo/24 mo/30 mo etc.). Customers earlier can pay a final pay up amount anytime to pay off the phone. </li>
+			            <li><i class="fa-li fa fa-check-square"></i>Until today all device types – Tablets, Phones based on various device types have fixed down payment amounts based on their credit history. Even if the customer intended to pay partial downpayment when his credit was not good, there was no such option for customers visiting nationwide ATT Stores. </li>
+			            <li><i class="fa-li fa fa-check-square"></i>With this release customers will have an option to pay varying amount of down payment on the next 2.0 plan, meaning if a customers credit score is not so good or excellent, either case, if customer wants to pay an additional amount (including pay off full) at the time of device purchase, he will be able to do so.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>We now allow based on the configurable dollar amount increment of downpayment, maximum allowed is computed based on minimum finance amount catered to the plan, trade-in eligibility is calculated based on percentage amount to be reached based on the downpayment amount paid. </li>
+			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, passing order data to downstream systems. Include CPC, CAPES, DCM, Telegence etc. </li>
+			            <li><i class="fa-li fa fa-check-square"></i>Flows include - Activating a new individual plan, Activating a new Individual plan with IRU FAN, Activating a new Individual plan with Commercial business customer fan discount offered to corporates, Adding a new line on existing account, Upgrade old plan to new next 2.0 plan for both consumer and business customer, Device exchange during the 14 day buyers remorse period, buy online pickup in store process, Transfer of service, Switch from prepaid to postpaid etc. </li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here</li>
+			            </ul>
+			            </p>			            
+			        </div>
+		        </div>
+		       
           </div>
         </div>        
       </div>
