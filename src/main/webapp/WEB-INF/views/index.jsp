@@ -844,10 +844,10 @@
 		       <!--  Project begin -->
 		        <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary">1.	Architect – Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h4>
-			            <p class="summary">Client : AT&T<br />
+			            <h4 class="summary">1.	Architect - Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h4>
+			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Jan 2016 - Current<br />
-			            <ul class="fa-ul">
+			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>AT&T business model has transitioned from a traditional 2 year wireless subsidy phone contract plans to Next plans (where customer pays monthly premium for the phone for the duration of the contract 12mo/24 mo/20 mo/24 mo/30 mo etc.). Customers earlier can pay a final pay up amount anytime to pay off the phone. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>Until today all device types – Tablets, Phones based on various device types have fixed down payment amounts based on their credit history. Even if the customer intended to pay partial downpayment when his credit was not good, there was no such option for customers visiting nationwide ATT Stores. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>With this release customers will have an option to pay varying amount of down payment on the next 2.0 plan, meaning if a customers credit score is not so good or excellent, either case, if customer wants to pay an additional amount (including pay off full) at the time of device purchase, he will be able to do so.</li>
