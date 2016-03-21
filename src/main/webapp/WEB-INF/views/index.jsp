@@ -860,6 +860,21 @@
 			        </div>
 		        </div>
 		       
+		       
+		        <div class="col-sm-12">
+	               <div class="single-service wow bounceInRight">
+			            <h4 class="summary">2. Architect Integration of Office 365 Products to be sold to customers at AT&T Stores Nationwide</h4>
+			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
+			            Duration : Sep 2015 - Dec 2015<br />
+			            <ul class="fa-ul summary">
+			            <li><i class="fa-li fa fa-check-square"></i>AT&T business needs to sell Office 365 products (Suite of products) for various Large Business customers who usually have a FAN discount based on their corporate account. Each Office 365 product will now be added as an add-on SOC to the existing customer account and Monthly billing will include month subscription charges along with customers' monthly mobile device charge and rate plan monthly charge.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, Passing order data to Downstream systems. Include CPC, CAPES, DCM, Telegence etc.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Solution and architecture of CAPES backend system for OPUS.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here</li>
+			            </ul>
+			            </p>			            
+			        </div>
+		        </div>
           </div>
         </div>        
       </div>
