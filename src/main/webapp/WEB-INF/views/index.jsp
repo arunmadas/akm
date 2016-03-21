@@ -641,15 +641,17 @@
     </div>
   </section>
 
+
     <!-- Start about  -->
   <section id="projects">
     <div class="container">
       <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-12">      	  
           <div class="logotop"></div>
           <div class="title-area">
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
+            <div style="clear:both"></div>                    
             <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>" class="wow flipInY">
           </div>
            <div class="logotop"></div>
