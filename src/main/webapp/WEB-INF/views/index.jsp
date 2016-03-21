@@ -652,7 +652,11 @@
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
             <div style="clear:both"></div>                    
-            <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>" class="wow flipInY">
+            <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>" class="wow flipInY">
+		        </div>
+		      </div>
           </div>
            <div class="logotop"></div>
         </div>
