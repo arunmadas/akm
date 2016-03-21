@@ -645,143 +645,192 @@
   <section id="projects">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <div class="title-area col-sm-12">
-            <div class="logotop"></div>
+      <div class="col-md-12">
+          <div class="logotop"></div>
+          <div class="title-area">
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
-            <div class="logotop"></div>
             <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>" class="wow flipInY">
-            <div class="logotop"></div>
-            <div class="logotop"></div>
-            <span class="line"></span>
-            <h3>Requirements / Business / Solutioning / Architecture Tools</h3>
-            <div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
-            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
-            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
-                 <li><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
-            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.png"/>"></li>
-            	</ul>
-            </div>            
-            <div style="clear:both"></div>
-            <div class="logotop"></div>
-            <span class="line"></span>
-            <p>Creative Graphics Content Creation / Wireframing</p>
-            <div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/photoshop.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/illustrator.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>
-            <br />
-            <span class="line"></span>
-            <p>User Interface - JavaScript Frameworks</p>
-            <div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/html.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/js.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/jquery.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/semantic.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/angular.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/ember.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/extjs.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/react.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/node.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/bootstrap.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/wowjs.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>
-            <br />
-            <span class="line"></span>
-            <p>Middleware / Model / Backend Frameworks and Tools</p>
-            <br />
-			<div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/java7.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jee.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jms.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/struts.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/spring.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/hibernate.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/ejb.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>            
-            <span class="line"></span>
-            <p>Databases</p>
-            <br />
-			<div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/db/oracle.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/db/mysql.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/db/sqlserver.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>            
-            <span class="line"></span>
-            <p>Configuration</p>
-            <br />
-			<div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/config/svn.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/config/git.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/config/github.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/config/maven.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/config/jenkins.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/config/sonar.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>
-            <span class="line"></span>
-            <p>Cloud</p>
-            <br />
-            <div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/aws.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/openshift.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>               
-            <span class="line"></span>
-            <p>Testing Frameworks</p>
-            <br />
-            <div class="logotop wow rubberBand">
-            	<ul class="iconslist">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/qtp.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/winrunner.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/silktest.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/openload.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/jmeter.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>   
-            <span class="line"></span>
-            <p>Business Processes / Project Methodologies</p>
-            <br />
-            <div class="logotop wow rubberBand">
-            	<ul class="iconslist ">
-	            	<li><img src="<c:url value="/assets/images/projtechicons/business/scrum.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/business/rally.jpg"/>"></li>
-	            	<li><img src="<c:url value="/assets/images/projtechicons/business/rup.jpg"/>"></li>
-            	</ul>
-            </div>
-            <div style="clear:both"></div>
-            <div class="logotop"></div>   
+          </div>
+           <div class="logotop"></div>
+        </div>
+      
+        <div class="col-md-12">
+          <div class="service-content">
+            <div class="row">
+              <!-- Start single service -->
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <h3>Requirements / Business / Solutioning / Architecture Tools</h3>
+		            <div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+		            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
+		            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
+		            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/creatly.jpg"/>"></li>
+		                 <li><img src="<c:url value="/assets/images/projtechicons/architecture/lucidchart.jpg"/>"></li>
+		            	<li><img src="<c:url value="/assets/images/projtechicons/architecture/toaddm.png"/>"></li>
+		            	</ul>
+		            </div>            
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>
+		            <span class="line"></span>
+				</div>
+			 </div>            
+
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Creative Graphics Content Creation / Wireframing</p>
+		            <div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/wf/photoshop.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/wf/illustrator.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>
+		            <br />
+		            <span class="line"></span>
+		         </div>
+		      </div>
+		      
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>User Interface - JavaScript Frameworks</p>
+		            <div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/html.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/js.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/jquery.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/semantic.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/angular.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/ember.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/extjs.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/react.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/node.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/bootstrap.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/wowjs.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>
+		            <br />
+		            <span class="line"></span>
+		         </div>
+		     </div>
+		     
+		     
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Middleware / Model / Backend Frameworks and Tools</p>
+		            <br />
+					<div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/java7.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jee.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jms.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/struts.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/spring.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/hibernate.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/ejb.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>            
+		            <span class="line"></span>
+		          </div>
+		       </div>
+		       
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Databases</p>
+		            <br />
+					<div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/db/oracle.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/db/mysql.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/db/sqlserver.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>            
+		            <span class="line"></span>
+		         </div>
+		      </div>
+		      
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Configuration</p>
+		            <br />
+					<div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/config/svn.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/config/git.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/config/github.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/config/maven.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/config/jenkins.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/config/sonar.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>
+		            <span class="line"></span>
+		          </div>
+		       </div>
+		       
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Cloud</p>
+		            <br />
+		            <div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/aws.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/openshift.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>               
+		            <span class="line"></span>
+		          </div>
+		        </div>
+
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Testing Frameworks</p>
+		            <br />
+		            <div class="logotop wow rubberBand">
+		            	<ul class="iconslist">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/testing/qtp.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/testing/winrunner.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/testing/silktest.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/testing/openload.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/testing/jmeter.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>   
+		            <span class="line"></span>
+		         </div>
+		      </div>
+              <div class="col-sm-12">
+                <div class="single-service wow bounceInRight">
+		            <p>Business Processes / Project Methodologies</p>
+		            <br />
+		            <div class="logotop wow rubberBand">
+		            	<ul class="iconslist ">
+			            	<li><img src="<c:url value="/assets/images/projtechicons/business/scrum.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/business/rally.jpg"/>"></li>
+			            	<li><img src="<c:url value="/assets/images/projtechicons/business/rup.jpg"/>"></li>
+		            	</ul>
+		            </div>
+		            <div style="clear:both"></div>
+		            <div class="logotop"></div>   
+		          </div>
+		       </div>
           </div>
         </div>        
       </div>
     </div>
+   </div>
   </section>
 
 
