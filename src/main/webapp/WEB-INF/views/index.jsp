@@ -685,7 +685,7 @@
 
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Creative Graphics Content Creation / Wireframing</p>
+		            <h3>Creative Graphics Content Creation / Wireframing</h3>
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/wf/photoshop.jpg"/>"></li>
@@ -701,7 +701,7 @@
 		      
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>User Interface - JavaScript Frameworks</p>
+		            <h3>User Interface - JavaScript Frameworks</h3>
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/ui/html.jpg"/>"></li>
@@ -727,7 +727,7 @@
 		     
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Middleware / Model / Backend Frameworks and Tools</p>
+		            <h3>Middleware / Model / Backend Frameworks and Tools</h3>
 		            <br />
 					<div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
@@ -748,7 +748,7 @@
 		       
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Databases</p>
+		            <h3>Databases</h3>
 		            <br />
 					<div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
@@ -765,7 +765,7 @@
 		      
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Configuration</p>
+		            <h3>Configuration</h3>
 		            <br />
 					<div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
@@ -785,7 +785,7 @@
 		       
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Cloud</p>
+		            <h3>Cloud</h3>
 		            <br />
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
@@ -801,7 +801,7 @@
 
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Testing Frameworks</p>
+		            <h3>Testing Frameworks</h3>
 		            <br />
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
@@ -819,7 +819,7 @@
 		      </div>
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
-		            <p>Business Processes / Project Methodologies</p>
+		            <h3>Business Processes / Project Methodologies</h3>
 		            <br />
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist ">
