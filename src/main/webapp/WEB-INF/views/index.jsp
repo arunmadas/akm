@@ -647,13 +647,14 @@
       <div class="row">
         <div class="col-md-12">
           <div class="title-area">
+            <div class="logotop"></div>
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <div class="logotop"></div>
             <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>">
             <div class="logotop"></div>
             <div class="logotop"></div>
             <span class="line"></span>
-            <p>Requirements / Business / Solutioning / Architecture Tools</p>
+            <h4>Requirements / Business / Solutioning / Architecture Tools</h4>
             <div class="logotop">
             	<ul class="iconslist">
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
