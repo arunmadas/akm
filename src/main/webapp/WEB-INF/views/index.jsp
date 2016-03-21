@@ -651,12 +651,12 @@
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
             <span class="line"></span>
             <div class="logotop"></div>
-            <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>">
+            <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>" class="wow flipInY">
             <div class="logotop"></div>
             <div class="logotop"></div>
             <span class="line"></span>
             <h3>Requirements / Business / Solutioning / Architecture Tools</h3>
-            <div class="logotop">
+            <div class="logotop wow rubberBand">
             	<ul class="iconslist">
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/staruml_logo.jpg"/>"></li>
             	<li><img src="<c:url value="/assets/images/projtechicons/architecture/visio.jpg"/>"></li>
@@ -669,7 +669,7 @@
             <div class="logotop"></div>
             <span class="line"></span>
             <p>Creative Graphics Content Creation / Wireframing</p>
-            <div class="logotop">
+            <div class="logotop wow rubberBand">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/photoshop.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/wf/illustrator.jpg"/>"></li>
@@ -680,7 +680,7 @@
             <br />
             <span class="line"></span>
             <p>User Interface - JavaScript Frameworks</p>
-            <div class="logotop">
+            <div class="logotop wow rubberBand">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/html.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/ui/js.jpg"/>"></li>
@@ -701,7 +701,7 @@
             <span class="line"></span>
             <p>Middleware / Model / Backend Frameworks and Tools</p>
             <br />
-			<div class="logotop">
+			<div class="logotop wow rubberBand">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/java7.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/mw/jee.jpg"/>"></li>
@@ -717,7 +717,7 @@
             <span class="line"></span>
             <p>Databases</p>
             <br />
-			<div class="logotop">
+			<div class="logotop wow jello">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/db/oracle.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/db/mysql.jpg"/>"></li>
@@ -729,7 +729,7 @@
             <span class="line"></span>
             <p>Configuration</p>
             <br />
-			<div class="logotop">
+			<div class="logotop wow jello">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/config/svn.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/config/git.jpg"/>"></li>
@@ -744,7 +744,7 @@
             <span class="line"></span>
             <p>Cloud</p>
             <br />
-            <div class="logotop">
+            <div class="logotop wow jello">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/aws.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/openshift.jpg"/>"></li>
@@ -755,7 +755,7 @@
             <span class="line"></span>
             <p>Testing Frameworks</p>
             <br />
-            <div class="logotop">
+            <div class="logotop wow ZoomInDown">
             	<ul class="iconslist">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/qtp.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/winrunner.jpg"/>"></li>
@@ -769,8 +769,8 @@
             <span class="line"></span>
             <p>Business Processes / Project Methodologies</p>
             <br />
-            <div class="logotop">
-            	<ul class="iconslist">
+            <div class="logotop wow ZoomInDown">
+            	<ul class="iconslist ">
 	            	<li><img src="<c:url value="/assets/images/projtechicons/business/scrum.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/business/rally.jpg"/>"></li>
 	            	<li><img src="<c:url value="/assets/images/projtechicons/business/rup.jpg"/>"></li>
