@@ -734,12 +734,44 @@
             	</ul>
             </div>
             <div style="clear:both"></div>
-            <div class="logotop"></div>            
+            <div class="logotop"></div>
+            <span class="line"></span>
+            <p>Cloud</p>
+            <br />
+            <div class="logotop">
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/aws.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/openshift.jpg"/>"></li>
+            	</ul>
+            </div>
+            <div style="clear:both"></div>
+            <div class="logotop"></div>               
             <span class="line"></span>
             <p>Testing Frameworks</p>
             <br />
+            <div class="logotop">
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/qtp.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/winrunner.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/silktest.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/openload.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/testing/jmeter.jpg"/>"></li>
+            	</ul>
+            </div>
+            <div style="clear:both"></div>
+            <div class="logotop"></div>   
             <span class="line"></span>
             <p>Business Processes / Project Methodologies</p>
+            <br />
+            <div class="logotop">
+            	<ul class="iconslist">
+	            	<li><img src="<c:url value="/assets/images/projtechicons/business/scrum.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/business/rally.jpg"/>"></li>
+	            	<li><img src="<c:url value="/assets/images/projtechicons/business/rup.jpg"/>"></li>
+            	</ul>
+            </div>
+            <div style="clear:both"></div>
+            <div class="logotop"></div>   
           </div>
         </div>        
       </div>
