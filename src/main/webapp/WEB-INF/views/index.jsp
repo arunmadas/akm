@@ -645,7 +645,7 @@
   <section id="projects">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-sm-12">
           <div class="title-area">
             <div class="logotop"></div>
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
