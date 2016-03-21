@@ -648,6 +648,10 @@
         <div class="col-md-12">
           <div class="title-area">
             <h2 class="title">Large Enterprise Applications Architecture & Development</h2>
+            <div class="logotop"></div>
+            <img src="<c:url value="/assets/images/projtechicons/architecture/delivery.png"/>">
+            <div class="logotop"></div>
+            <div class="logotop"></div>
             <span class="line"></span>
             <p>Requirements / Business / Solutioning / Architecture Tools</p>
             <div class="logotop">
