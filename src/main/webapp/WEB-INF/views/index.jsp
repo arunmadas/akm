@@ -846,15 +846,18 @@
 	               <div class="single-service wow bounceInRight">
 			            <h3 class="summary">1.	Architect - Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Mar 2016 - May 2016 (Kantana PID - 288312, R1604)<br />
+			            Duration : Mar 2016 - May 2016 (Kintana PID - 288312, R1604)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>AT&T business model has transitioned from a traditional 2 year wireless subsidy phone contract plans to Next plans (where customer pays monthly premium for the phone for the duration of the contract 12mo/24 mo/20 mo/24 mo/30 mo etc.). Customers earlier can pay a final pay up amount anytime to pay off the phone. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>Until today all device types – Tablets, Phones based on various device types have fixed down payment amounts based on their credit history. Even if the customer intended to pay partial downpayment when his credit was not good, there was no such option for customers visiting nationwide ATT Stores. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>With this release customers will have an option to pay varying amount of down payment on the next 2.0 plan, meaning if a customers credit score is not so good or excellent, either case, if customer wants to pay an additional amount (including pay off full) at the time of device purchase, he will be able to do so.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>We now allow based on the configurable dollar amount increment of downpayment, maximum allowed is computed based on minimum finance amount catered to the plan, trade-in eligibility is calculated based on percentage amount to be reached based on the downpayment amount paid. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, passing order data to downstream systems. Include CPC, CAPES, DCM, Telegence etc. </li>
-			            <li><i class="fa-li fa fa-check-square"></i>Flows include - Activating a new individual plan, Activating a new Individual plan with IRU FAN, Activating a new Individual plan with Commercial business customer fan discount offered to corporates, Adding a new line on existing account, Upgrade old plan to new next 2.0 plan for both consumer and business customer, Device exchange during the 14 day buyers remorse period, buy online pickup in store process, Transfer of service, Switch from prepaid to postpaid etc. </li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Flows include - Activating a new individual plan, Activating a new Individual plan with IRU FAN, Activating a new Individual plan with Commercial business customer fan discount offered to corporates, Adding a new line on existing account, Upgrade old plan to new next 2.0 plan for both consumer and business customer, Device exchange during the 14 day buyers remorse period, buy online pickup in store orders, Transfer of service, Switch from prepaid to postpaid etc. </li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture & High Level Design Document is available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Wireframes available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_Wireframes</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>ASF (Application Security Framework) Document is available here : <a href="assets/docs/att/288312/ASF_Checklist_PID_288312_MOTS_ID_18257.xlsm" target="_blank">ASF_Checklist_PID_288312_MOTS_ID_18257</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Development Package is available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_DevPackage.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_DevPackage</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
@@ -865,12 +868,14 @@
 	               <div class="single-service wow bounceInRight">
 			            <h3 class="summary">2. Architect/Develop - Integration of Office 365 Products to be sold to customers at AT&T Stores Nationwide</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Dec 2015 - Feb 2015 (Kantana PID - 286365, R1602)<br />
+			            Duration : Dec 2015 - Feb 2015 (Kintana PID - 286365, R1602)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>AT&T business needs to sell Office 365 products (Suite of products) for various Large Business customers who usually have a FAN discount based on their corporate account. Each Office 365 product will now be added as an add-on SOC to the existing customer account and Monthly billing will include month subscription charges along with customers' monthly mobile device charge and rate plan monthly charge.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, Passing order data to Downstream systems. Include CPC, CAPES, DCM, Telegence etc.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Solution and architecture of CAPES backend system for OPUS.</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture & High Level Design Document is available here : <a href="assets/docs/att/286365/286365_OPUS_OM_HLD_Office365.docx" target="_blank">286365_OPUS_OM_HLD_Office365</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>ASF (Application Security Framework) Document is available here : <a href="assets/docs/att/286365/ASF_Checklist_PID_286365_MOTS_ID_18257.xlsm" target="_blank">ASF_Checklist_PID_286365_MOTS_ID_18257</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Wireframes available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_Wireframes</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
@@ -880,13 +885,15 @@
 	               <div class="single-service wow bounceInRight">
 			            <h3 class="summary">3.	Architect/Develop Transfer of Billing Responsibility Agreement Enhancements combining with Wireless Customer Agreements.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Oct 2015 - Nov 2015 (Kantana PID - 287506, R1511)<br />
+			            Duration : Oct 2015 - Nov 2015 (Kintana PID - 287506, R1511)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>ATT needed enhancements to the Transfer of Billing Responbility Customer Agreement enhancements to be integrated with the Wireless Customer Agreement.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>OPUS and OPUS Mobile needed enhancements to integrate WCA into TOBR flows. For OPUS enhancements required Signature Capture Device ISC250 enhancements to capture integrated agreement display (Tobr+WCA) and capture customers signature agreeing to both.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>OPUS enhancements included enhacing the EDD webservice calls to pass in both two seperate WCA & TOBR version of agreement acceptance calls with this integrated flow. Also Signatures captured sent to Optical team enhaces the verbiages to pull in both ToBR and WCA acknowledgements</li>
 			            <li><i class="fa-li fa fa-check-square"></i>OPUS Mobile enhancements included enhacing the display of ToBR agreement followed by WCA and capture a combined signature on the iPAD.</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture & High Level Design Document is available here : <a href="assets/docs/att/287506/287506_OPUS_OM_WCA_for_Retail_TOBR.docx" target="_blank">287506_OPUS_OM_WCA_for_Retail_TOBR</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>ASF (Application Security Framework) Document is available here : <a href="assets/docs/att/287506/ASF_Checklist_PID_287506_MOTS_ID_18257.xlsm" target="_blank">ASF_Checklist_PID_287506_MOTS_ID_18257</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Wireframes available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_Wireframes</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
@@ -896,7 +903,7 @@
 	               <div class="single-service wow bounceInRight">
 			            <h3 class="summary">4.	Architect/Develop Iconic Project related to DF Orders for Iconic Product launches of Apple and Samsung for the premier products like iphone6S/Samsung Galaxy S6/Note5 etc.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Apr 2015 - Sep 2015 (Kantana PID - 270938e, R1508)<br />
+			            Duration : Apr 2015 - Sep 2015 (Kintana PID - 270938e, R1508)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>ATT has multiple systems where customers can pre-order for a yet to be released iphone7 or Samsung galaxy s6 or Samsung Note5 devices. Online order, modifications etc. are done by external systems.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Building infrastructure to migrate all the systems to one Data Grid No SQL backend so Customers stay in control of what changes they want instead of Reps loosing business without satisfying the customer’s real needs due to software limitations</li>
@@ -905,7 +912,9 @@
 			            <li><i class="fa-li fa fa-check-square"></i>Enable Update Payment method & Ship Delay Consent flows for DF orders</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Ability to provide blanket consent for ship delays during FAN creation in OPUS</li>
 			            <li><i class="fa-li fa fa-check-square"></i>YODA clones a DF order, when customer provides updated payment information for an IVT order. If enabled, OPUS will provide consolidated view of the DF order, in case of Clone orders</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture & High Level Design Document is available here : <a href="assets/docs/att/270938e/270938e_OPUS_OM_HLD_Sacred7.docx" target="_blank">270938e_OPUS_OM_HLD_Sacred7</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>ASF (Application Security Framework) Document is available here : <a href="assets/docs/att/270938e/ASF_Checklist_PID_270938e_MOTS_ID_18257.xlsm" target="_blank">ASF_Checklist_PID_270938e_MOTS_ID_18257</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Wireframes available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_Wireframes</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
@@ -915,14 +924,18 @@
 	               <div class="single-service wow bounceInRight">
 			            <h3 class="summary">5.	Architect/Develop Wireless Customer Agreement Legal Mandate Enhancements.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Feb 2015 - Mar 2015 (Kantana PID - 279095, R1502)<br />
+			            Duration : Feb 2015 - Mar 2015 (Kintana PID - 279095, R1502)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>ATT needed Strict Legal enhancements to the Wireless Customer Agreement both for OPUS and OPUS Mobile. Legal Mandate takes highest priority as the enhancements are direct implications of law-suits and settlements in real world</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Mandate Customer signatures for all agreements by removing SKIP and manager overrides in COR (Company Owned Retail) Stores:</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Provide options on opus mobile to navigate back to view agreement or print while on the signature overlay on ipad; For windows tablet devices used in Local Dealers, provide option to trigger wifi printer selection.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Signature Capture Device Enhancements to navigate back and forth, view the agreement from first page, on-demand print from device, auto-engage sigcap on print, New Signature capture device forms, buttons, user experience on device</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Ingenico Network enabled ISC250 used in COR (Company Owned Retail - ATT) Stores, USB Ingenico ISC250 signature capture device used in LD (Local Dealer - Costco, BestBuy etc.) Stores, OPUS Mobile enhancements and OPUS Desktop Enhancements</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture & High Level Design Document is available here : <a href="assets/docs/att/29095/279095_HLD_WCA_LEGAL_MANDATE_v08.docx" target="_blank">279095_HLD_WCA_LEGAL_MANDATE_v08</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>ASF (Application Security Framework) Document is available here : <a href="assets/docs/att/279095/ASF_Checklist_PID_279095_MOTS_ID_18257.xlsm" target="_blank">ASF_Checklist_PID_279095_MOTS_ID_18257</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Application Design Document is available here : <a href="assets/docs/att/29095/279095_AD_WCA_LEGAL_MANDATE_v05.docx" target="_blank">279095_AD_WCA_LEGAL_MANDATE_v05</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Wireframes available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_Wireframes</a></li>
+			            <li><i class="fa-li fa fa-check-square"></i>Development Package is available here : <a href="assets/docs/att/279095/279095_WCA_LegalMandate_DevPkg.docx" target="_blank">279095_WCA_LegalMandate_DevPkg</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
@@ -933,7 +946,7 @@
 	               <div class="single-service wow bounceInRight">
 			            <h3 class="summary">6.	Architect for IRU Audit Support Center Tool : Replaced AMDOCS proprietary tool with newly built from scratch IRU Audit Support Center Tool that saved ATT in millions of Dollars being paid to AMDOCS in leveraging their proprietary past tool.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Sep 2014 - Jan 2015<br />
+			            Duration : Sep 2014 - Jan 2015 (Kintana PID - 274829, R1412)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>ATT was paying AMDOCS hefty payments for years in using a complex system developed by Amdocs for verifying IRU (Individual Responsibility User) Discounts. For example: A Customer works for a company say Walmart / FEDEX / UPS etc. and they come to the ATT Stores through out the USA to ask for employee discounts. ATT Store Reps scan proof of employment (company id, pay check etc.) and store the image in the database that will need to be Audited by a third party vendor to validate the authenticity of the proof to add the FAN discount to the ATT wireless account for the user, where user gets monthly discounts.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>I handled the project from requirements, design, architecture, development and delivery from Development. Architect the project from day1 to delivery</li>
@@ -943,7 +956,7 @@
 			            <li><i class="fa-li fa fa-check-square"></i>Reporting tool, Roles and Permissions, Exporting to Excel, etc. are some of the conditions.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>This was the first ever product AT&T Integrated into existing OPUS and OPUS Mobile Login mechanism (common login mechanism) and based on the Store RLT_Code, we redirect to a brand new OPUS Layout. Created IRUAuditLayout similar to SevenClampLayout.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Architecture of this tool provided AT&T with several options to later utilize the framework for various other products and tools like samsung/iphone FQIN tool, Integration of Twilight SystemX Call Center, Phoneix migration to opus</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture & High Level Design Document is available here : <a href="assets/docs/att/274829/274829_OPUS-OM _IRU_Replacement_Tool_AD.docx" target="_blank">274829_OPUS-OM _IRU_Replacement_Tool_AD</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
