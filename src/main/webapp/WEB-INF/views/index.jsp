@@ -854,7 +854,7 @@
 			            <li><i class="fa-li fa fa-check-square"></i>We now allow based on the configurable dollar amount increment of downpayment, maximum allowed is computed based on minimum finance amount catered to the plan, trade-in eligibility is calculated based on percentage amount to be reached based on the downpayment amount paid. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, passing order data to downstream systems. Include CPC, CAPES, DCM, Telegence etc. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>Flows include - Activating a new individual plan, Activating a new Individual plan with IRU FAN, Activating a new Individual plan with Commercial business customer fan discount offered to corporates, Adding a new line on existing account, Upgrade old plan to new next 2.0 plan for both consumer and business customer, Device exchange during the 14 day buyers remorse period, buy online pickup in store process, Transfer of service, Switch from prepaid to postpaid etc. </li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here : <a href="assets/docs/att/288312/288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD.docx" target="_blank">288312_2016_ATT_Next_Program_Offer_Simplification_HLD_AD</a></li>
 			            </ul>
 			            </p>			            
 			        </div>
