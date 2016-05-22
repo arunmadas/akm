@@ -735,7 +735,7 @@
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
 		            <h3>Middleware / Model / Backend Frameworks and Tools</h3>
-		            <br />
+<!-- 		            <br /> -->
 					<div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/mw/java7.jpg"/>"></li>
@@ -756,7 +756,7 @@
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
 		            <h3>Databases</h3>
-		            <br />
+<!-- 		            <br /> -->
 					<div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/db/oracle.jpg"/>"></li>
@@ -773,7 +773,7 @@
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
 		            <h3>Configuration</h3>
-		            <br />
+<!-- 		            <br /> -->
 					<div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/config/svn.jpg"/>"></li>
@@ -793,7 +793,7 @@
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
 		            <h3>Cloud</h3>
-		            <br />
+<!-- 		            <br /> -->
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/cloud/aws.jpg"/>"></li>
@@ -809,7 +809,7 @@
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
 		            <h3>Testing Frameworks</h3>
-		            <br />
+<!-- 		            <br /> -->
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/testing/qtp.jpg"/>"></li>
@@ -827,7 +827,7 @@
               <div class="col-sm-12">
                 <div class="single-service wow bounceInRight">
 		            <h3>Business Processes / Project Methodologies</h3>
-		            <br />
+<!-- 		            <br /> -->
 		            <div class="logotop wow rubberBand">
 		            	<ul class="iconslist ">
 			            	<li><img src="<c:url value="/assets/images/projtechicons/business/scrum.jpg"/>"></li>
