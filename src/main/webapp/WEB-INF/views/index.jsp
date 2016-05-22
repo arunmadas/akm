@@ -846,7 +846,7 @@
 	               <div class="single-service wow bounceInRight">
 			            <h4 class="summary">1.	Architect - Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h4>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Jan 2016 - Current<br />
+			            Duration : Mar 2016 - May 2016 (Kantana PID - 288312, R1604)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>AT&T business model has transitioned from a traditional 2 year wireless subsidy phone contract plans to Next plans (where customer pays monthly premium for the phone for the duration of the contract 12mo/24 mo/20 mo/24 mo/30 mo etc.). Customers earlier can pay a final pay up amount anytime to pay off the phone. </li>
 			            <li><i class="fa-li fa fa-check-square"></i>Until today all device types – Tablets, Phones based on various device types have fixed down payment amounts based on their credit history. Even if the customer intended to pay partial downpayment when his credit was not good, there was no such option for customers visiting nationwide ATT Stores. </li>
@@ -863,9 +863,9 @@
 		       
 		        <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary">2. Architect Integration of Office 365 Products to be sold to customers at AT&T Stores Nationwide</h4>
+			            <h4 class="summary">2. Architect/Develop - Integration of Office 365 Products to be sold to customers at AT&T Stores Nationwide</h4>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Sep 2015 - Dec 2015<br />
+			            Duration : Dec 2015 - Feb 2015 (Kantana PID - 286365, R1602)<br />
 			            <ul class="fa-ul summary">
 			            <li><i class="fa-li fa fa-check-square"></i>AT&T business needs to sell Office 365 products (Suite of products) for various Large Business customers who usually have a FAN discount based on their corporate account. Each Office 365 product will now be added as an add-on SOC to the existing customer account and Monthly billing will include month subscription charges along with customers' monthly mobile device charge and rate plan monthly charge.</li>
 			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, Passing order data to Downstream systems. Include CPC, CAPES, DCM, Telegence etc.</li>
@@ -876,17 +876,92 @@
 			        </div>
 		        </div>
 		        
+		         <div class="col-sm-12">
+	               <div class="single-service wow bounceInRight">
+			            <h4 class="summary">3.	Architect/Develop Transfer of Billing Responsibility Agreement Enhancements combining with Wireless Customer Agreements.</h4>
+			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
+			            Duration : Oct 2015 - Nov 2015 (Kantana PID - 287506, R1511)<br />
+			            <ul class="fa-ul summary">
+			            <li><i class="fa-li fa fa-check-square"></i>ATT needed enhancements to the Transfer of Billing Responbility Customer Agreement enhancements to be integrated with the Wireless Customer Agreement.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>OPUS and OPUS Mobile needed enhancements to integrate WCA into TOBR flows. For OPUS enhancements required Signature Capture Device ISC250 enhancements to capture integrated agreement display (Tobr+WCA) and capture customers signature agreeing to both.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>OPUS enhancements included enhacing the EDD webservice calls to pass in both two seperate WCA & TOBR version of agreement acceptance calls with this integrated flow. Also Signatures captured sent to Optical team enhaces the verbiages to pull in both ToBR and WCA acknowledgements</li>
+			            <li><i class="fa-li fa fa-check-square"></i>OPUS Mobile enhancements included enhacing the display of ToBR agreement followed by WCA and capture a combined signature on the iPAD.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            </ul>
+			            </p>			            
+			        </div>
+		        </div>
 		        
 		         <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary">3.	Architect/Develop Iconic Project related to DF Orders for Iconic Product launches of Apple and Samsung for the premier products like iphone6S/Samsung Galaxy S6/Note5 etc.</h4>
+			            <h4 class="summary">4.	Architect/Develop Iconic Project related to DF Orders for Iconic Product launches of Apple and Samsung for the premier products like iphone6S/Samsung Galaxy S6/Note5 etc.</h4>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
-			            Duration : Mar 2015 - Aug 2015<br />
+			            Duration : Apr 2015 - Sep 2015 (Kantana PID - 270938e, R1508)<br />
 			            <ul class="fa-ul summary">
-			            <li><i class="fa-li fa fa-check-square"></i>AT&T business needs to sell Office 365 products (Suite of products) for various Large Business customers who usually have a FAN discount based on their corporate account. Each Office 365 product will now be added as an add-on SOC to the existing customer account and Monthly billing will include month subscription charges along with customers' monthly mobile device charge and rate plan monthly charge.</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Downloading data from downstream systems and caching data in frontends to optimize IO time, Passing order data to Downstream systems. Include CPC, CAPES, DCM, Telegence etc.</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Solution and architecture of CAPES backend system for OPUS.</li>
-			            <li><i class="fa-li fa fa-check-square"></i>Detailed Architecture Design Document is available here</li>
+			            <li><i class="fa-li fa fa-check-square"></i>ATT has multiple systems where customers can pre-order for a yet to be released iphone7 or Samsung galaxy s6 or Samsung Note5 devices. Online order, modifications etc. are done by external systems.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Building infrastructure to migrate all the systems to one Data Grid No SQL backend so Customers stay in control of what changes they want instead of Reps loosing business without satisfying the customer’s real needs due to software limitations</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Orders placed for Iconic pre-launches enhancements. JMS implementation to receive queue based promise dates. Integration with downstream systems like YODA, OrderTrack, CSI, BASE/ROME, Atlas etc.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Display promise ship dates for each SKU in the DF Device Search of Activation, Upgrade & Standalone DF flows Omni Channel experience for DF orders (i.e., retrieve a DF order placed in any channel)</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Enable Update Payment method & Ship Delay Consent flows for DF orders</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Ability to provide blanket consent for ship delays during FAN creation in OPUS</li>
+			            <li><i class="fa-li fa fa-check-square"></i>YODA clones a DF order, when customer provides updated payment information for an IVT order. If enabled, OPUS will provide consolidated view of the DF order, in case of Clone orders</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            </ul>
+			            </p>			            
+			        </div>
+		        </div>
+		        
+		       <div class="col-sm-12">
+	               <div class="single-service wow bounceInRight">
+			            <h4 class="summary">5.	Architect/Develop Wireless Customer Agreement Legal Mandate Enhancements.</h4>
+			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
+			            Duration : Feb 2015 - Mar 2015 (Kantana PID - 279095, R1502)<br />
+			            <ul class="fa-ul summary">
+			            <li><i class="fa-li fa fa-check-square"></i>ATT needed Strict Legal enhancements to the Wireless Customer Agreement both for OPUS and OPUS Mobile. Legal Mandate takes highest priority as the enhancements are direct implications of law-suits and settlements in real world</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Mandate Customer signatures for all agreements by removing SKIP and manager overrides in COR (Company Owned Retail) Stores:</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Provide options on opus mobile to navigate back to view agreement or print while on the signature overlay on ipad; For windows tablet devices used in Local Dealers, provide option to trigger wifi printer selection.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Signature Capture Device Enhancements to navigate back and forth, view the agreement from first page, on-demand print from device, auto-engage sigcap on print, New Signature capture device forms, buttons, user experience on device</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Ingenico Network enabled ISC250 used in COR (Company Owned Retail - ATT) Stores, USB Ingenico ISC250 signature capture device used in LD (Local Dealer - Costco, BestBuy etc.) Stores, OPUS Mobile enhancements and OPUS Desktop Enhancements</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            </ul>
+			            </p>			            
+			        </div>
+		        </div>
+		        
+		        
+		        <div class="col-sm-12">
+	               <div class="single-service wow bounceInRight">
+			            <h4 class="summary">6.	Architect for IRU Audit Support Center Tool : Replaced AMDOCS proprietary tool with newly built from scratch IRU Audit Support Center Tool that saved ATT in millions of Dollars being paid to AMDOCS in leveraging their proprietary past tool.</h4>
+			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
+			            Duration : Sep 2014 - Jan 2015<br />
+			            <ul class="fa-ul summary">
+			            <li><i class="fa-li fa fa-check-square"></i>ATT was paying AMDOCS hefty payments for years in using a complex system developed by Amdocs for verifying IRU (Individual Responsibility User) Discounts. For example: A Customer works for a company say Walmart / FEDEX / UPS etc. and they come to the ATT Stores through out the USA to ask for employee discounts. ATT Store Reps scan proof of employment (company id, pay check etc.) and store the image in the database that will need to be Audited by a third party vendor to validate the authenticity of the proof to add the FAN discount to the ATT wireless account for the user, where user gets monthly discounts.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>I handled the project from requirements, design, architecture, development and delivery from Development. Architect the project from day1 to delivery</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Architecture involves FIFO (First In-First Out; First Record in-coming has to be Audited First as Out) mechanism both for In-Store and Fax Record submissions. Queue's needed to be maintained. ATT Outsourced the audit verifications to Alorica and Alorica strictly follows SLA to complete audit records.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Architected / implemented – FAX documents sent by the customers to land them into database via Cron jobs and Connect Direct / Power Shell. The IRU Audit support center tool newly built will also handle feeding in both in-store and FAX proof of employments for the external third party vendor to audit them for discounts.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Architected mechanism for sending Emails and/or SMS to the customers notifying them of failure along with reasons on why they would not get the discount post discount analysis and provide them with options and reminders for resubmissions. Used EDP Email/SMS Templates</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Reporting tool, Roles and Permissions, Exporting to Excel, etc. are some of the conditions.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>This was the first ever product AT&T Integrated into existing OPUS and OPUS Mobile Login mechanism (common login mechanism) and based on the Store RLT_Code, we redirect to a brand new OPUS Layout. Created IRUAuditLayout similar to SevenClampLayout.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Architecture of this tool provided AT&T with several options to later utilize the framework for various other products and tools like samsung/iphone FQIN tool, Integration of Twilight SystemX Call Center, Phoneix migration to opus</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
+			            </ul>
+			            </p>			            
+			        </div>
+		        </div>
+		     
+		        
+		        <div class="col-sm-12">
+	               <div class="single-service wow bounceInRight">
+			            <h4 class="summary">7.	Security Risk Iconic Project Architect : Integration of External Device Peripherals for OPUS system used on iPAD and Desktops by Representatives in all ATT Stores throughout USA.</h4>
+			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
+			            Duration : Apr 2014 - Aug 2014<br />
+			            <ul class="fa-ul summary">
+			            <li><i class="fa-li fa fa-check-square"></i>OPUS is the name of the software that is used in ATT Stores by representatives holding the iPAD’s as well as Desktops through out the USA as you walk into the store for any questions regarding your wireless accounts.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>After the Target Fiasco where millions of US customers private information along with SSN/DOB and every bit of information has been hacked into was found around the Signature capture devices at the point of sale systems, the older devices that were used to swipe Credit Cards at Point of sale locations were transferring unsecure data to databases revealing all the information once hacked into, ATT had a non-negotiable very high visibility project to migrate 30000+ older Ingenico I6580 devices used in 4000+ ATT stores throughout US and I was at the forefront of the integration all by myself.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Successfully migrated 30,000+ Older Ingenico I6580 devices with cost efficient networked Signature capture devices around 6500 devices. These newer models of Ingenico ISC250 transfer encrypted data over the network and can be used by any representative in the ATT Store.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Key Architect in designing the solution, development and delivery of newer ISC250 network devices in COR (Company owned Retail ATT Stores) through out the US for Credit Card Swiping, Credit Card Tapping, keyin customer information like DOB, SSN, Email, Viewing Wireless numbers, Terms and Conditions and Customer Signature capture etc.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Successfully Architected and delivered solution into 20+ workflow real time scenarios related to new customer activations, upgrades, direct fulfillment, prepaid accounts, family accounts, installment plan orders, combined billing orders with U-verse, Small business activations etc.</li>
+			            <li><i class="fa-li fa fa-check-square"></i>Detailed Design Document is available here:</li>
 			            </ul>
 			            </p>			            
 			        </div>
