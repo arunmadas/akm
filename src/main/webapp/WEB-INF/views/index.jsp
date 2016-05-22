@@ -844,7 +844,7 @@
 		       <!--  Project begin -->
 		        <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">1.	Architect - Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h4>
+			            <h3 class="summary">1.	Architect - Next 2.0 Percentage based down payment plans for Wireless Customers Phones</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Mar 2016 - May 2016 (Kantana PID - 288312, R1604)<br />
 			            <ul class="fa-ul summary">
@@ -863,7 +863,7 @@
 		       
 		        <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">2. Architect/Develop - Integration of Office 365 Products to be sold to customers at AT&T Stores Nationwide</h4>
+			            <h3 class="summary">2. Architect/Develop - Integration of Office 365 Products to be sold to customers at AT&T Stores Nationwide</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Dec 2015 - Feb 2015 (Kantana PID - 286365, R1602)<br />
 			            <ul class="fa-ul summary">
@@ -878,7 +878,7 @@
 		        
 		         <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">3.	Architect/Develop Transfer of Billing Responsibility Agreement Enhancements combining with Wireless Customer Agreements.</h4>
+			            <h3 class="summary">3.	Architect/Develop Transfer of Billing Responsibility Agreement Enhancements combining with Wireless Customer Agreements.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Oct 2015 - Nov 2015 (Kantana PID - 287506, R1511)<br />
 			            <ul class="fa-ul summary">
@@ -894,7 +894,7 @@
 		        
 		         <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">4.	Architect/Develop Iconic Project related to DF Orders for Iconic Product launches of Apple and Samsung for the premier products like iphone6S/Samsung Galaxy S6/Note5 etc.</h4>
+			            <h3 class="summary">4.	Architect/Develop Iconic Project related to DF Orders for Iconic Product launches of Apple and Samsung for the premier products like iphone6S/Samsung Galaxy S6/Note5 etc.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Apr 2015 - Sep 2015 (Kantana PID - 270938e, R1508)<br />
 			            <ul class="fa-ul summary">
@@ -913,7 +913,7 @@
 		        
 		       <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">5.	Architect/Develop Wireless Customer Agreement Legal Mandate Enhancements.</h4>
+			            <h3 class="summary">5.	Architect/Develop Wireless Customer Agreement Legal Mandate Enhancements.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Feb 2015 - Mar 2015 (Kantana PID - 279095, R1502)<br />
 			            <ul class="fa-ul summary">
@@ -931,7 +931,7 @@
 		        
 		        <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">6.	Architect for IRU Audit Support Center Tool : Replaced AMDOCS proprietary tool with newly built from scratch IRU Audit Support Center Tool that saved ATT in millions of Dollars being paid to AMDOCS in leveraging their proprietary past tool.</h4>
+			            <h3 class="summary">6.	Architect for IRU Audit Support Center Tool : Replaced AMDOCS proprietary tool with newly built from scratch IRU Audit Support Center Tool that saved ATT in millions of Dollars being paid to AMDOCS in leveraging their proprietary past tool.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Sep 2014 - Jan 2015<br />
 			            <ul class="fa-ul summary">
@@ -952,7 +952,7 @@
 		        
 		        <div class="col-sm-12">
 	               <div class="single-service wow bounceInRight">
-			            <h4 class="summary projectName title">7.	Security Risk Iconic Project Architect : Integration of External Device Peripherals for OPUS system used on iPAD and Desktops by Representatives in all ATT Stores throughout USA.</h4>
+			            <h3 class="summary">7.	Security Risk Iconic Project Architect : Integration of External Device Peripherals for OPUS system used on iPAD and Desktops by Representatives in all ATT Stores throughout USA.</h3>
 			            <p class="summary">Client : <img src="<c:url value="assets/images/techicons/att.png" />" /><br />
 			            Duration : Apr 2014 - Aug 2014<br />
 			            <ul class="fa-ul summary">
