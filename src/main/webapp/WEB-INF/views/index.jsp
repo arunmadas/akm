@@ -846,7 +846,21 @@
 	                  <img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
 	                  <a href="http://www.att.com" target="_blank">http://www.att.com</a> <br />
 	                  Senior Enterprise Applications Architect<br />
-	                  Duration : ~ 2 yrs (Apr 2014 - Current)<br /></p>
+	                  Duration : ~ 2 yrs (Apr 2014 - Current)<br />
+	                  - Represent Development and Architecture in Business Requirements Discussions, Solution Architecture Discussions and carve out High Level Design, Low Level Application Design, Application Security Framework lists, Development package and Delivery <br />
+	                  - Negotiate Timelines for Project Delivery Plan with Project Managers, Business Product Management for Development / Architecture Artifacts and Code Delivery <br />
+	                  - Present Design and solution to Senior Technical Directors, Directors of Product Delivery <br />
+	                  - Support Business discussions from Development and Architecture perspective about feasibility, proof of concept and Solution delivery <br />
+	                  - Negotiate SLA's and Present Application Architecture Design documents <br />
+	                  - Regress the meeting discussions with System Requirements Team & Wireframe Team to bring out a tangible product from business requirements <br />
+	                  - Review, comment and Approve IST (Integrated System Test Team), E2E (End to End Test Team), PVT (Production Validation Test Team) test plans and test artifacts from Development stand point.<br />
+	                  - Participate in identifying the Out-Of-Scope or Scope-Creep items for possibility of CR (Change Requests) and notify PM to kick the process workflow. <br />
+	                  - Development and Delivery of Code. Dedicated point of contact for Development aspects for all test teams testing the code chunk. <br />
+	                  - Participate in Peer Code Review, Assignment of work to resources, tracking the project delivery from development, re-evaluate resouce needs and driving the code delivery <br />
+	                  - Drive the Unit Test Framework, Wireframe author review of finished product, Application Security Team review from Security OWASP perspective, feedback and incorportaion <br />
+	                  - Delivery of Development package with Sonar code review analysis, Mockito Unit testing and EclEmma code coverage tool artifacts delivery <br />
+	                  - Product support to production defects, meet burning production issue SLA's <br />
+	                  - Interface with Product Support Team (PST Team), IT-POS Deployment Team (Product code deployment team), Config Team (QC code delivery team), ADBA (Application DB Adminstrator Team), RTS (Retail Technical Support Team), RCS (Retail Channel Support Teams).</p>
 		            <span class="line"></span>
 		            <div style="clear:both"></div>                    
 		          </div>           
