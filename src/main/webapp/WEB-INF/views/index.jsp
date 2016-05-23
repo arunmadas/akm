@@ -846,7 +846,8 @@
 	                  <img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
 	                  <a href="http://www.att.com" target="_blank">http://www.att.com</a> <br />
 	                  Senior Enterprise Applications Architect<br />
-	                  Duration : ~ 2 yrs (Apr 2014 - Current)<br />
+	                  Duration : ~ 2 yrs (Apr 2014 - Current)<br /><br />
+	                  <h3>Roles and Responsibilities </h3> <br /><br />
 	                  - Represent Development and Architecture in Business Requirements Discussions, Solution Architecture Discussions and carve out High Level Design, Low Level Application Design, Application Security Framework lists, Development package and Delivery <br />
 	                  - Negotiate Timelines for Project Delivery Plan with Project Managers, Business Product Management for Development / Architecture Artifacts and Code Delivery <br />
 	                  - Present Design and solution to Senior Technical Directors, Directors of Product Delivery <br />
