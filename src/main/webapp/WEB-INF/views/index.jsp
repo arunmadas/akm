@@ -841,10 +841,9 @@
 		       </div>
 		       
 		       <div class="col-md-12">      	  
-		          <div class="logotop"></div>
 		          <div class="attworkheader">
-	                  <i class="fa fa-mobile service-icon"></i>
-	                  <p class="summary"><img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
+	                  <p class="summary">	                  
+	                  <img src="<c:url value="assets/images/techicons/att.png" />" /> <br />
 	                  <a href="http://www.att.com" target="_blank">http://www.att.com</a> <br />
 	                  Senior Enterprise Applications Architect<br />
 	                  Duration : ~ 2 yrs (Apr 2014 - Current)<br /></p>
